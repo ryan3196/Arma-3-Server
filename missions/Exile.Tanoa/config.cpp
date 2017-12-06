@@ -1630,6 +1630,7 @@ class CfgExileArsenal
 {
 	#include "EBM\prices.hpp"
 	#include "CUP_Vehicles\prices.hpp"
+	#include "CUP_Weapons\prices.hpp"
 	
 	class Exile_Uniform_BambiOverall				{ quality = 1; price = 1; sellPrice = 1; };
 
@@ -4568,6 +4569,7 @@ class CfgTraderCategories
 {
 	#include "EBM\traders.hpp"
 	#include "CUP_Vehicles\traders.hpp"
+	#include "CUP_Weapons\traders.hpp"	
 	
 	class Community
 	{
@@ -6055,7 +6057,8 @@ class CfgTraders
 			"UAVs",
 			"StaticMGs",
 			"Explosives",
-			"Navigation"
+			"Navigation",
+			"CUP_Launchers"
 		};
 	};
 
