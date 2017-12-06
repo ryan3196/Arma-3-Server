@@ -144,9 +144,10 @@ R3F_LOG_CFG_string_condition_allow_creation_factory_on_this_client = "true";
  */
 
 /****** LIST OF ADDONS CONFIG TO INCLUDE / LISTE DES CONFIG D'ADDONS A INCLURE ******/
-#include "addons_config\A3_vanilla.sqf"
-#include "addons_config\All_in_Arma.sqf"
-#include "addons_config\R3F_addons.sqf"
+//#include "addons_config\A3_vanilla.sqf" // THIS IS INCLUDED IN EXILE.SQF
+#include "addons_config\CUP.sqf" // REMOVE THIS LINE IF YOU DONT USE CUP VEHICLES
+#include "addons_config\Exile.sqf"
+//#include "addons_config\Super.sqf"
 //#include "addons_config\YOUR_ADDITIONAL_ADDON.sqf"
 
 /****** TOW WITH VEHICLE / REMORQUER AVEC VEHICULE ******/
@@ -222,7 +223,21 @@ R3F_LOG_CFG_can_transport_cargo = R3F_LOG_CFG_can_transport_cargo +
  */
 R3F_LOG_CFG_can_be_transported_cargo = R3F_LOG_CFG_can_be_transported_cargo +
 [
-	// e.g. : ["MyTransportableObjectClassName1", itsCost], ["MyTransportableObjectClassName2", itsCost]
+    // e.g. : ["MyTransportableObjectClassName1", itsCost], ["MyTransportableObjectClassName2", itsCost]
+    // Here Comes the Stuff what you want to load in the Vehicle  example: ["IG_supplyCrate_F", 40]
+	["Box_IND_AmmoVeh_F", 25],
+	["CUP_BAF_BasicAmmunitionBox", 25],
+	["Box_NATO_Uniforms_F", 5],
+    ["CargoNet_01_box_F", 25],
+    ["Exile_Container_SupplyBox", 25],
+    ["Box_NATO_AmmoVeh_F", 25],
+    ["B_supplyCrate_F", 25],
+    ["I_CargoNET_01_F", 25],
+    ["Box_NATO_Wps_F", 25],
+    ["C_supplyCrate_F", 25],
+    ["IG_supplyCrate_F", 25],
+	["I_supplyCrate_F", 25],
+    ["Box_IND_AmmoVeh_F", 25]
 ];
 
 /****** MOVABLE-BY-PLAYER OBJECTS / OBJETS DEPLACABLES PAR LE JOUEUR ******/
@@ -233,5 +248,33 @@ R3F_LOG_CFG_can_be_transported_cargo = R3F_LOG_CFG_can_be_transported_cargo +
  */
 R3F_LOG_CFG_can_be_moved_by_player = R3F_LOG_CFG_can_be_moved_by_player +
 [
-	// e.g. : "MyMovableObjectClassName1", "MyMovableObjectClassName2"
+    // Here Comes that stuff in what a player can Move 
+    // e.g. : "MyMovableObjectClassName1", "MyMovableObjectClassName2"
+    "CargoNet_01_box_F",
+    "Exile_Container_SupplyBox",
+    "Box_NATO_AmmoVeh_F",
+    "B_supplyCrate_F",
+    "I_CargoNET_01_F",
+    "Box_NATO_Wps_F",
+    "C_supplyCrate_F",
+    "IG_supplyCrate_F",
+    "Box_IND_AmmoVeh_F",
+    "B_Slingload_01_Cargo_F",
+    "B_Slingload_01_Fuel_F",
+    "B_Slingload_01_Ammo_F",
+    "B_Slingload_01_Medevac_F",
+    "B_Slingload_01_Repair_F",
+    "Land_Pod_Heli_Transport_04_covered_F",
+    "Land_Pod_Heli_Transport_04_fuel_F",
+    "Land_Pod_Heli_Transport_04_box_F",
+    "Land_Pod_Heli_Transport_04_repair_F",
+    "Land_Pod_Heli_Transport_04_medevac_F",
+    "Land_Pod_Heli_Transport_04_bench_F",
+    "Land_Pod_Heli_Transport_04_covered_black_F",
+    "Land_Pod_Heli_Transport_04_fuel_black_F",
+    "Land_Pod_Heli_Transport_04_box_black_F",
+    "Land_Pod_Heli_Transport_04_repair_black_F",
+    "Land_Pod_Heli_Transport_04_medevac_black_F",
+    "Land_Pod_Heli_Transport_04_bench_black_F"
+    
 ];
