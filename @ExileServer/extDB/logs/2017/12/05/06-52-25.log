@@ -1,0 +1,26 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[22:52:25:346202 --7:00] [Thread 10364] extDB2: Database Type: MySQL
+[22:52:25:424082 --7:00] [Thread 10364] extDB2: Database Session Pool Started
+[22:52:25:425538 --7:00] [Thread 10364] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Spokane_Survivalists\Game_Servers\Arma\@exileserver\extDB\sql_custom_v2\exile.ini
+[22:52:25:425684 --7:00] [Thread 10364] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[22:52:25:507174 --7:00] [Thread 10364] extDB2: LOG: Error: Failed opening file C:\Spokane_Survivalists\Game_Servers\Arma\@exileserver\extDB\logs\2017\12\05\Exile_TradingLog.log for writing
+[22:52:25:507210 --7:00] [Thread 10364] extDB2: Failed to Load Protocol: LOG
+[22:52:25:561928 --7:00] [Thread 10364] extDB2: LOG: Error: Failed opening file C:\Spokane_Survivalists\Game_Servers\Arma\@exileserver\extDB\logs\2017\12\05\Exile_DeathLog.log for writing
+[22:52:25:561972 --7:00] [Thread 10364] extDB2: Failed to Load Protocol: LOG
+[22:52:25:616951 --7:00] [Thread 10364] extDB2: LOG: Error: Failed opening file C:\Spokane_Survivalists\Game_Servers\Arma\@exileserver\extDB\logs\2017\12\05\Exile_TerritoryLog.log for writing
+[22:52:25:616994 --7:00] [Thread 10364] extDB2: Failed to Load Protocol: LOG
+[23:27:29:949352 --7:00] [Thread 10364] extDB2: Stopping ...

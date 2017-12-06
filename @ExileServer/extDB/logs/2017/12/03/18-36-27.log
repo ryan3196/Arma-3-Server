@@ -1,0 +1,48 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[10:36:27:882328 --7:00] [Thread 3420] extDB2: Database Type: MySQL
+[10:36:27:940664 --7:00] [Thread 3420] extDB2: Database Session Pool Started
+[10:36:27:942126 --7:00] [Thread 3420] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Spokane_Survivalists\Game_Servers\Arma\@exileserver\extDB\sql_custom_v2\exile.ini
+[10:36:27:942310 --7:00] [Thread 3420] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[11:17:51:006585 --7:00] [Thread 9184] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:12267:25530:76561198005489005
+[11:17:51:006681 --7:00] [Thread 9184] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[11:18:01:209718 --7:00] [Thread 9184] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:12317:25547:76561198005489005
+[11:18:01:209764 --7:00] [Thread 9184] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[12:12:58:995307 --7:00] [Thread 2180] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:50:3253:76561198009448434
+[12:12:58:995392 --7:00] [Thread 2180] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[12:24:15:984152 --7:00] [Thread 9184] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:0:3087:76561198009448434
+[12:24:15:984190 --7:00] [Thread 9184] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[13:08:23:534457 --7:00] [Thread 8488] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:50:1630:76561197974499499
+[13:08:23:534546 --7:00] [Thread 8488] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[13:08:36:635199 --7:00] [Thread 8488] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:100:1652:76561197974499499
+[13:08:36:635239 --7:00] [Thread 8488] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[13:10:30:024391 --7:00] [Thread 8488] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:5100:808:76561197995727240
+[13:10:30:024438 --7:00] [Thread 8488] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[13:30:51:230045 --7:00] [Thread 9184] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:150:1662:76561197974499499
+[13:30:51:230134 --7:00] [Thread 9184] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[17:55:06:032148 --7:00] [Thread 9184] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:100:1856:76561197974499499
+[17:55:06:032266 --7:00] [Thread 9184] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[18:11:15:515479 --7:00] [Thread 9184] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:150:1879:76561197974499499
+[18:11:15:515521 --7:00] [Thread 9184] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[18:25:09:164269 --7:00] [Thread 8504] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:65:5010:76561197990813594
+[18:25:09:164356 --7:00] [Thread 8504] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[18:25:18:601499 --7:00] [Thread 8504] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:115:5020:76561197990813594
+[18:25:18:601543 --7:00] [Thread 8504] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[18:25:55:369985 --7:00] [Thread 8504] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:165:5038:76561197990813594
+[18:25:55:370030 --7:00] [Thread 8504] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[18:26:16:596077 --7:00] [Thread 8504] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String setAccountMoneyAndRespect:215:5064:76561197990813594
+[18:26:16:596116 --7:00] [Thread 8504] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname setAccountMoneyAndRespect
+[19:14:38:684774 --7:00] [Thread 3420] extDB2: Stopping ...
