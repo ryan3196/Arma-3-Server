@@ -8,7 +8,7 @@ class CUP_Launchers
 		{
 		"CUP_launch_Igla",
 		"CUP_launch_M136",
-		"CUP_launch_9K32Strela"
+		"CUP_launch_9K32Strela",
 		"CUP_launch_Javelin",
 		"CUP_launch_M47",
 		"CUP_launch_MAAWS",
