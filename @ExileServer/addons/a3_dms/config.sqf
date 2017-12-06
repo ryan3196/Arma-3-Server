@@ -1,10 +1,7 @@
 /*
 	Main DMS Config File
-
 	Created by eraser1
 	Several revisions and additions have been made by community members.
-	
-
 	A lot of these configs are influenced by WAI :P
 	https://github.com/nerdalertdk/WICKED-AI
 */
@@ -92,7 +89,7 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	DMS_MarkerPosRandomization			= false;					// Randomize the position of the circle marker of a mission
 	DMS_MarkerPosRandomRadius			= [25,100];					// Minimum/Maximum distance that the circle marker position will be randomized | DEFAULT: 0 meters to 200 meters
 	DMS_RandomMarkerBrush				= "Cross";					// See: https://community.bistudio.com/wiki/setMarkerBrush
-	DMS_MissionMarkerWinDot				= false;						// Keep the mission marker dot with a "win" message after mission is over
+	DMS_MissionMarkerWinDot				= true;						// Keep the mission marker dot with a "win" message after mission is over
 	DMS_MissionMarkerLoseDot			= true;						// Keep the mission marker dot with a "lose" message after mission is over
 	DMS_MissionMarkerWinDot_Type		= "mil_end";				// The marker type to show when a mission is completed. Refer to: https://community.bistudio.com/wiki/cfgMarkers
 	DMS_MissionMarkerLoseDot_Type		= "KIA";					// The marker type to show when a mission fails. Refer to: https://community.bistudio.com/wiki/cfgMarkers
@@ -105,8 +102,8 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	/*Mission Cleanup settings*/
 	DMS_CompletedMissionCleanup			= true;						// Cleanup mission-spawned buildings and AI bodies after some time
 	DMS_CompletedMissionCleanupTime		= 3600;						// Minimum time until mission-spawned buildings and AI are cleaned up
-	DMS_CleanUp_PlayerNearLimit			= 100;						// Cleanup of an object is aborted if a player is this many meters close to the object
-	DMS_AIVehCleanUpTime				= 3600;						// Time until a destroyed AI vehicle is cleaned up.
+	DMS_CleanUp_PlayerNearLimit			= 20;						// Cleanup of an object is aborted if a player is this many meters close to the object
+	DMS_AIVehCleanUpTime				= 300;						// Time until a destroyed AI vehicle is cleaned up.
 	/*Mission Cleanup settings*/
 
 	/*Mission spawn location settings*/
@@ -136,15 +133,15 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	DMS_AttemptsUntilThrottle			= 15;						// How many attempts until the parameters are throttled.
 	DMS_ThrottleCoefficient				= 0.9;						// How much the parameters are throttled. The parameters are multiplied by the coefficient, so 0.9 means 90% of whatever the parameter was.
 	DMS_MinThrottledDistance			= 500;						// The minimum distance to which it will throttle. If the throttled value is less than this value, then this value is used instead.
-	DMS_PlayerNearBlacklist				= 900;						// Missions won't spawn in a position this many meters close to a player
-	DMS_SpawnZoneNearBlacklist			= 1200;						// Missions won't spawn in a position this many meters close to a spawn zone
-	DMS_TraderZoneNearBlacklist			= 900;						// Missions won't spawn in a position this many meters close to a trader zone
-	DMS_MissionNearBlacklist			= 1200;						// Missions won't spawn in a position this many meters close to another mission
-	DMS_WaterNearBlacklist				= 50;						// Missions won't spawn in a position this many meters close to water
+	DMS_PlayerNearBlacklist				= 2000;						// Missions won't spawn in a position this many meters close to a player
+	DMS_SpawnZoneNearBlacklist			= 2500;						// Missions won't spawn in a position this many meters close to a spawn zone
+	DMS_TraderZoneNearBlacklist			= 2500;						// Missions won't spawn in a position this many meters close to a trader zone
+	DMS_MissionNearBlacklist			= 2500;						// Missions won't spawn in a position this many meters close to another mission
+	DMS_WaterNearBlacklist				= 500;						// Missions won't spawn in a position this many meters close to water
 	DMS_TerritoryNearBlacklist			= 100;						// Missions won't spawn in a position this many meters close to a territory flag. This is a resource intensive check, don't set this value too high!
-	DMS_MixerNearBlacklist				= 500;						// Missions won't spawn in a position this many meters close to a concrete mixer
-	DMS_ContaminatedZoneNearBlacklist	= 500;						// Missions won't spawn in a position this many meters close to a contaminated zone
-	DMS_MinSurfaceNormal				= 0.75;						// Missions won't spawn in a position where its surfaceNormal is less than this amount. The lower the value, the steeper the location. Greater values means flatter locations. Values can range from 0-1, with 0 being sideways, and 1 being perfectly flat. For reference: SurfaceNormal of about 0.7 is when you are forced to walk up a surface. If you want to convert surfaceNormal to degrees, use the arc-cosine of the surfaceNormal. 0.9 is about 25 degrees. Google "(arccos 0.9) in degrees"
+	DMS_MixerNearBlacklist				= 1000;						// Missions won't spawn in a position this many meters close to a concrete mixer
+	DMS_ContaminatedZoneNearBlacklist	= 1000;						// Missions won't spawn in a position this many meters close to a contaminated zone
+	DMS_MinSurfaceNormal				= 0.9;						// Missions won't spawn in a position where its surfaceNormal is less than this amount. The lower the value, the steeper the location. Greater values means flatter locations. Values can range from 0-1, with 0 being sideways, and 1 being perfectly flat. For reference: SurfaceNormal of about 0.7 is when you are forced to walk up a surface. If you want to convert surfaceNormal to degrees, use the arc-cosine of the surfaceNormal. 0.9 is about 25 degrees. Google "(arccos 0.9) in degrees"
 	DMS_MinDistFromWestBorder			= 250;						// Missions won't spawn in a position this many meters close to the western map border.
 	DMS_MinDistFromEastBorder			= 250;						// Missions won't spawn in a position this many meters close to the easter map border.
 	DMS_MinDistFromSouthBorder			= 250;						// Missions won't spawn in a position this many meters close to the southern map border.
@@ -175,14 +172,14 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 
 	/*Mine settings*/
 	DMS_SpawnMinefieldForEveryMission	= false;					// Whether or not to spawn a minefield for every dynamic mission.
-	DMS_SpawnMinesAroundMissions		= false;						// Whether or not to spawn mines around AI missions that have them.
+	DMS_SpawnMinesAroundMissions		= true;						// Whether or not to spawn mines around AI missions that have them.
 	DMS_despawnMines_onCompletion		= true;						// Despawn mines spawned around missions when the mission is completed
 	DMS_MineInfo_easy					= [5,50];					// Mine info for "easy" missions. This will spawn 5 mines within a 50m radius.
 	DMS_MineInfo_moderate				= [10,50];					// Mine info for "moderate" missions. This will spawn 10 mines within a 50m radius.
 	DMS_MineInfo_difficult				= [15,75];					// Mine info for "difficult" missions. This will spawn 15 mines within a 75m radius.
 	DMS_MineInfo_hardcore				= [25,100];					// Mine info for "hardcore" missions. This will spawn 25 mines within a 100m radius.
 	DMS_SpawnMineWarningSigns			= true;						// Whether or not to spawn mine warning signs around a minefield.
-	DMS_BulletProofMines				= false;						// Whether or not you want to make the mines bulletproof. Prevents players from being able to shoot the mines and creating explosions.
+	DMS_BulletProofMines				= true;						// Whether or not you want to make the mines bulletproof. Prevents players from being able to shoot the mines and creating explosions.
 	/*Mine settings*/
 
 	DMS_MinPlayerCount					= 0; 						// Minimum number of players until mission start
@@ -335,7 +332,7 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	DMS_Show_Party_Kill_Notification	= true;						// Whether or not to show in chat when a party member kills an AI.
 
 	DMS_Spawn_AI_With_Money				= true;						// Whether or not to spawn AI with money that can be looted from the body.
-	DMS_AIMoney_PopulationMultiplier	= 7;						// This determines how much EXTRA money an AI will have on his body. For example, setting this to 5 and having a server population of 30 means the AI will have an extra 150 poptabs on the body. Set to 0 to disable. Zat Note - I Changed this to 7 to promote more missions being completed. 
+	DMS_AIMoney_PopulationMultiplier	= 5;						// This determines how much EXTRA money an AI will have on his body. For example, setting this to 5 and having a server population of 30 means the AI will have an extra 150 poptabs on the body. Set to 0 to disable.
 
 	DMS_GiveMoneyToPlayer_OnAIKill		= true;						// Whether or not to give money directly to players when they kill AI (old method of giving money).
 	DMS_GiveRespectToPlayer_OnAIKill	= true;						// Whether or not to give respect to players when they kill AI.
@@ -343,17 +340,17 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	DMS_Bandit_Soldier_MoneyGain		= 50;						// The amount of Poptabs gained for killing a bandit soldier
 	DMS_Bandit_Soldier_RepGain			= 10;						// The amount of Respect gained for killing a bandit soldier
 	DMS_Bandit_Soldier_RankGain			= 15;
-	DMS_Bandit_Soldier_SpawnMoney		= 50;						// The amount of Poptabs carried by a bandit soldier
+	DMS_Bandit_Soldier_SpawnMoney		= 100;						// The amount of Poptabs carried by a bandit soldier
 
 	DMS_Bandit_Static_MoneyGain			= 75;						// The amount of Poptabs gained for killing a bandit static gunner
 	DMS_Bandit_Static_RepGain			= 15;						// The amount of Respect gained for killing a bandit static gunner
 	DMS_Bandit_Static_RankGain			= 30;
-	DMS_Bandit_Static_SpawnMoney		= 75;						// The amount of Poptabs carried by a bandit static gunner
+	DMS_Bandit_Static_SpawnMoney		= 175;						// The amount of Poptabs carried by a bandit static gunner
 
 	DMS_Bandit_Vehicle_MoneyGain		= 100;						// The amount of Poptabs gained for killing a bandit vehicle crew member
 	DMS_Bandit_Vehicle_RepGain			= 25;						// The amount of Respect gained for killing a bandit vehicle crew member
 	DMS_Bandit_Vehicle_RankGain			= 50;
-	DMS_Bandit_Vehicle_SpawnMoney		= 100;						// The amount of Poptabs carried by a bandit vehicle crew member
+	DMS_Bandit_Vehicle_SpawnMoney		= 225;						// The amount of Poptabs carried by a bandit vehicle crew member
 
 /* DonkeyPunchDMS Custom Settings for Hero AI*/
 	DMS_Hero_Soldier_MoneyGain			= 100;						// The amount of Poptabs gained for killing a hero soldier
@@ -426,14 +423,14 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	DMS_survivorSide					= CIV;						// The side (team) that AI Survivor will spawn on
 
 	DMS_clear_AI_body					= false;					// Clear AI body as soon as they die
-	DMS_clear_AI_body_chance			= 50;						// Percentage chance that AI bodies will be cleared when they die
+	DMS_clear_AI_body_chance			= 0;						// Percentage chance that AI bodies will be cleared when they die
 	DMS_ai_disable_ramming_damage 		= true;						// Disables damage due to ramming into AI. !!!NOTE: THIS WILL NOT BE RELIABLE WITH "DMS_ai_offload_to_client"!!!
 	DMS_remove_roadkill					= false; 					// Remove gear from AI bodies that are roadkilled
 	DMS_remove_roadkill_chance			= 50;						// Percentage chance that roadkilled AI bodies will be deleted
-	DMS_explode_onRoadkill				= false;						// Whether or not to spawn an explosion when an AI gets run over. It will likely take out the 2 front wheels. Should help mitigate the ineffective AI vs. striders issue ;)
+	DMS_explode_onRoadkill				= true;						// Whether or not to spawn an explosion when an AI gets run over. It will likely take out the 2 front wheels. Should help mitigate the ineffective AI vs. striders issue ;)
 	DMS_RemoveNVG						= false;					// Remove NVGs from AI bodies
 
-	DMS_MaxAIDistance					= 800;						// The maximum distance an AI unit can be from a mission before he is killed. Helps with AI running away and forcing the mission to keep running. Set to 0 if you don't want it.
+	DMS_MaxAIDistance					= 500;						// The maximum distance an AI unit can be from a mission before he is killed. Helps with AI running away and forcing the mission to keep running. Set to 0 if you don't want it.
 	DMS_AIDistanceCheckFrequency		= 60;						// How often to check within DMS_fnc_TargetsKilled whether or not the AI is out of the maximum radius. Lower values increase frequency and increase server load, greater values decrease frequency and may cause longer delays for "runaway" AI.
 
 	DMS_ai_offload_to_client			= true;						// Offload spawned AI groups to random clients. Helps with server performance.
@@ -442,14 +439,14 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 
 	DMS_ai_allowFreezing				= true;						// Whether or not to "freeze" AI that are a certain distance away from players (and therefore inactive).
 	DMS_ai_freeze_Only_DMS_AI			= true;					// Whether or not to "freeze" AI that are not spawned by DMS.
-	DMS_ai_freezingDistance				= 2000;						// If there are no players within this distance of the leader of an AI group, then the AI group will be "frozen".
-	DMS_ai_unfreezingDistance			= 2000;						// If there are players within this distance of the leader of an AI group, then the AI group will be "un-frozen".
+	DMS_ai_freezingDistance				= 3500;						// If there are no players within this distance of the leader of an AI group, then the AI group will be "frozen".
+	DMS_ai_unfreezingDistance			= 3500;						// If there are players within this distance of the leader of an AI group, then the AI group will be "un-frozen".
 	DMS_ai_offloadOnUnfreeze			= true;						// Whether or not to offload AI to clients once they have been "un-frozen". NOTE: This config will be ignored if "DMS_ai_offload_to_client" is set to false.
 	DMS_ai_freezeCheckingDelay			= 15;						// How often (in seconds) DMS will check whether to freeze/un-freeze AI.
 	DMS_ai_freezeOnSpawn				= false;						// Whether or not to freeze an AI group when initially spawned.
 
-	DMS_ai_share_info					= true;					// Share info about killer
-	DMS_ai_share_info_distance			= 10;						// The distance killer's info will be shared to other AI
+	DMS_ai_share_info					= false;					// Share info about killer
+	DMS_ai_share_info_distance			= 25;						// The distance killer's info will be shared to other AI
 
 	DMS_ai_nighttime_accessory_chance	= 75;						// Percentage chance that AI will have a flashlight or laser pointer on their guns if spawned during nighttime
 	DMS_ai_enable_water_equipment		= true;						// Enable/disable overriding default weapons of an AI if it spawns on/in water
@@ -479,10 +476,10 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	DMS_AI_WP_Radius_base				= 5;						// Waypoint radius for AI in bases.
 	DMS_AI_WP_Radius_heli				= 500;						// Waypoint radius for AI in helis.
 
-	DMS_AI_destroyVehicleChance			= 75;						// Percent chance that an AI vehicle will be destroyed after the AI have been killed. Set to 100 for always, or 0 for never.
+	DMS_AI_destroyVehicleChance			= 10;						// Percent chance that an AI vehicle will be destroyed after the AI have been killed. Set to 100 for always, or 0 for never.
 
 	DMS_AI_destroyStaticWeapon			= true;						// Whether or not to destroy static HMGs after AI death.
-	DMS_AI_destroyStaticWeapon_chance	= 95;						// Percent chance that a static weapon will be destroyed (only applied if "DMS_AI_destroyStaticWeapon" is true)
+	DMS_AI_destroyStaticWeapon_chance	= 50;						// Percent chance that a static weapon will be destroyed (only applied if "DMS_AI_destroyStaticWeapon" is true)
 
 	DMS_static_weapons =				[							// Static weapons for AI
 											"O_HMG_01_high_F"
@@ -785,7 +782,7 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 											"B_Bergen_blk"
 										];
 
-	//Sniper Class - Add below here to add weapons to NPCs
+	//Sniper Class
 	DMS_sniper_weps =					[							// Sniper Rifles
 											"srifle_EBR_F",
 											"srifle_GM6_F",
@@ -978,23 +975,10 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 											#endif
 											"launch_NLAW_F",
 											"launch_RPG32_F",
-											"launch_B_Titan_short_F",
-											"CUP_launch_Javelin",
-											"CUP_launch_M47",
-											"CUP_launch_MAAWS",
-											"CUP_launch_MAAWS_Scope",
-											"CUP_launch_Metis",
-											"CUP_launch_RPG18"
+											"launch_B_Titan_short_F"
 										];
 	DMS_AI_wep_launchers_AA =			[							// AA Launchers
-											"launch_B_Titan_F",
-											"CUP_launch_Igla",
-											"CUP_launch_M136",
-											"CUP_launch_MAAWS",
-											"CUP_launch_MAAWS_Scope",
-											"CUP_launch_9K32Strela"
-											
-											
+											"launch_B_Titan_F"
 										];
 
 	DMS_RHeli_Height					= 500;						// Altitude of the heli when flying to drop point.
@@ -1007,8 +991,8 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 
 /* Loot Settings */
 	DMS_GodmodeCrates 					= true;						// Whether or not crates will have godmode after being filled with loot.
-	DMS_MinimumMagCount					= 5;						// Minimum number of magazines for weapons.
-	DMS_MaximumMagCount					= 20;						// Maximum number of magazines for weapons.
+	DMS_MinimumMagCount					= 3;						// Minimum number of magazines for weapons.
+	DMS_MaximumMagCount					= 5;						// Maximum number of magazines for weapons.
 	DMS_CrateCase_Sniper =				[							// If you pass "Sniper" in _lootValues, then it will spawn these weapons/items/backpacks
 											[
 												["Rangefinder",1],
@@ -1235,7 +1219,7 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 										];
 	DMS_RareLootChance					= 10;						// Percentage Chance to spawn rare loot in any crate | Default: 10%
 
-	// Vehicles
+	// Vehicles (We should really look into changing these later and maybe adding CUP vehicles.)
 	DMS_ArmedVehicles =					[							// List of armed vehicles that can spawn
 											#ifdef USE_APEX_VEHICLES
 											"B_T_LSV_01_armed_F",
