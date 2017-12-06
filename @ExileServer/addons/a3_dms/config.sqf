@@ -3,7 +3,7 @@
 
 	Created by eraser1
 	Several revisions and additions have been made by community members.
-				This comment is for Mike
+				
 
 	A lot of these configs are influenced by WAI :P
 	https://github.com/nerdalertdk/WICKED-AI
@@ -93,7 +93,7 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	DMS_MarkerPosRandomRadius			= [25,100];					// Minimum/Maximum distance that the circle marker position will be randomized | DEFAULT: 0 meters to 200 meters
 	DMS_RandomMarkerBrush				= "Cross";					// See: https://community.bistudio.com/wiki/setMarkerBrush
 	DMS_MissionMarkerWinDot				= false;						// Keep the mission marker dot with a "win" message after mission is over
-	DMS_MissionMarkerLoseDot			= true;	//True to make sure you don't get confused when traveling to a failed mission					// Keep the mission marker dot with a "lose" message after mission is over
+	DMS_MissionMarkerLoseDot			= true;						// Keep the mission marker dot with a "lose" message after mission is over
 	DMS_MissionMarkerWinDot_Type		= "mil_end";				// The marker type to show when a mission is completed. Refer to: https://community.bistudio.com/wiki/cfgMarkers
 	DMS_MissionMarkerLoseDot_Type		= "KIA";					// The marker type to show when a mission fails. Refer to: https://community.bistudio.com/wiki/cfgMarkers
 	DMS_MissionMarkerWinDotTime			= 30;						// How many seconds the "win" mission dot will remain on the map
