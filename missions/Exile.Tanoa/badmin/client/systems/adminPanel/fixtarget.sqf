@@ -1,1 +1,0 @@
-cursorTarget setDamage 0;

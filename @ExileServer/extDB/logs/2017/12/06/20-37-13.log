@@ -13,8 +13,8 @@ extDB2: Found extdb-conf.ini
 extDB2: Detected 8 Cores, Setting up 6 Worker Threads
 
 
-[15:16:56:664609 --7:00] [Thread 10384] extDB2: Database Type: MySQL
-[15:16:56:726862 --7:00] [Thread 10384] extDB2: Database Session Pool Started
-[15:16:56:728307 --7:00] [Thread 10384] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Spokane_Survivalists\Game_Servers\Arma\@exileserver\extDB\sql_custom_v2\exile.ini
-[15:16:56:728448 --7:00] [Thread 10384] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
-[02:19:16:840293 --7:00] [Thread 10384] extDB2: Stopping ...
+[12:37:13:522206 --7:00] [Thread 9624] extDB2: Database Type: MySQL
+[12:37:13:573895 --7:00] [Thread 9624] extDB2: Database Session Pool Started
+[12:37:13:575360 --7:00] [Thread 9624] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Spokane_Survivalists\Game_Servers\Arma\@exileserver\extDB\sql_custom_v2\exile.ini
+[12:37:13:575507 --7:00] [Thread 9624] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[12:38:53:106878 --7:00] [Thread 9624] extDB2: Stopping ...

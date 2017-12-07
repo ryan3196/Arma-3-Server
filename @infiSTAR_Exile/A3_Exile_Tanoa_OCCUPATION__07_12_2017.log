@@ -1,0 +1,1479 @@
+07.12.2017 03:41:37: V69 (21-07-2017) =============================================================================================================
+07.12.2017 03:41:37: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 98.139
+07.12.2017 03:41:37: V69 (21-07-2017) =============================================================================================================
+07.12.2017 03:41:37: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 98.183
+07.12.2017 03:41:37: V69 (21-07-2017) [OCCUPATION:Traders] Created trader base Lifou Traders @ [7317,7217,0]
+07.12.2017 03:41:41: V69 (21-07-2017) [OCCUPATION:Traders] Created trader base Lijnhaven Traders @ [11580,2051,0]
+07.12.2017 03:41:43: V69 (21-07-2017) [processReporter]:: Initialised at 104.683
+07.12.2017 03:41:43: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version September 7, 2017
+07.12.2017 03:41:43: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 104.683
+07.12.2017 03:42:13: V69 (21-07-2017) [OCCUPATION Military]:: Starting building scan @ 
+07.12.2017 03:42:24: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Hangar_F (object: 66dd2400# 211890: hangar_f.p3d) found at location: [2171.79,13415.9,-0.0707626] @ 
+07.12.2017 03:42:24: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Hangar_F (object: 66cb2b00# 211987: hangar_f.p3d) found at location: [2210.45,13444.5,-0.0367241] @ 
+07.12.2017 03:42:25: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 42188f00# 214671: barracks_01_grey_f.p3d) found at location: [1968.58,12907.1,-0.118459] @ 
+07.12.2017 03:42:25: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 672a9600# 214688: barracks_01_grey_f.p3d) found at location: [2016.48,12988.3,-0.229719] @ 
+07.12.2017 03:42:25: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 6695c100# 214773: barracks_01_camo_f.p3d) found at location: [2284.67,13178.7,-0.187278] @ 
+07.12.2017 03:42:25: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 66808800# 214772: barracks_01_camo_f.p3d) found at location: [2330.36,13206.9,-0.385663] @ 
+07.12.2017 03:42:25: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 67683900# 214855: barracks_01_camo_f.p3d) found at location: [2353.52,13173.3,0.112597] @ 
+07.12.2017 03:42:25: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 67cf2400# 223809: barracks_01_camo_f.p3d) found at location: [2654.81,11662.6,-0.325165] @ 
+07.12.2017 03:42:25: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 69a22400# 212895: barracks_01_camo_f.p3d) found at location: [3950.47,13854.8,-0.159864] @ 
+07.12.2017 03:42:25: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 698fdd00# 212926: barracks_01_camo_f.p3d) found at location: [3993.47,13852.8,0.000144958] @ 
+07.12.2017 03:42:25: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 40e2ab00# 279648: barracks_01_grey_f.p3d) found at location: [7466,8478.43,-4.29153e-006] @ 
+07.12.2017 03:42:25: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 5f623200# 478663: barracks_01_grey_f.p3d) found at location: [10015.3,11793.2,0] @ 
+07.12.2017 03:42:25: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 5f621600# 479271: barracks_01_grey_f.p3d) found at location: [10048.1,11794.4,0] @ 
+07.12.2017 03:42:26: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_MilOffices_V1_F (object: 66a8cf00# 212163: miloffices_v1_f.p3d) found at location: [2274.56,13231.6,0.221226] @ 
+07.12.2017 03:42:26: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_MilOffices_V1_F (object: 78396b00# 455378: miloffices_v1_f.p3d) found at location: [5665.7,11074.3,-0.240288] @ 
+07.12.2017 03:42:26: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_MilOffices_V1_F (object: 78269d00# 455396: miloffices_v1_f.p3d) found at location: [5700.6,11035.2,-0.222116] @ 
+07.12.2017 03:42:26: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Radar_F (object: 5df19d00# 478664: radar_f.p3d) found at location: [9983.5,11794.5,9.15527e-005] @ 
+07.12.2017 03:42:26: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Cargo_Patrol_V3_F (object: 63cec100# 1700679: cargo_patrol_v3_f.p3d) found at location: [7305.52,7231.26,3.91006e-005] @ 
+07.12.2017 03:42:26: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Cargo_Patrol_V3_F (object: a807900# 1700821: cargo_patrol_v3_f.p3d) found at location: [11568.5,2065.26,0.0827942] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Radar_Small_F (object: 873b2400# 481765: radar_small_f.p3d) found at location: [11020.1,11573.3,3.05176e-005] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 42188f00# 214671: barracks_01_grey_f.p3d) found at location: [1968.58,12907.1,-0.118459] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 672a9600# 214688: barracks_01_grey_f.p3d) found at location: [2016.48,12988.3,-0.229719] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 6695c100# 214773: barracks_01_camo_f.p3d) found at location: [2284.67,13178.7,-0.187278] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 66808800# 214772: barracks_01_camo_f.p3d) found at location: [2330.36,13206.9,-0.385663] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 67683900# 214855: barracks_01_camo_f.p3d) found at location: [2353.52,13173.3,0.112597] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 67cf2400# 223809: barracks_01_camo_f.p3d) found at location: [2654.81,11662.6,-0.325165] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 69a22400# 212895: barracks_01_camo_f.p3d) found at location: [3950.47,13854.8,-0.159864] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 698fdd00# 212926: barracks_01_camo_f.p3d) found at location: [3993.47,13852.8,0.000144958] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 40e2ab00# 279648: barracks_01_grey_f.p3d) found at location: [7466,8478.43,-4.29153e-006] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 5f623200# 478663: barracks_01_grey_f.p3d) found at location: [10015.3,11793.2,0] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 5f621600# 479271: barracks_01_grey_f.p3d) found at location: [10048.1,11794.4,0] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 42188f00# 214671: barracks_01_grey_f.p3d) found at location: [1968.58,12907.1,-0.118459] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 672a9600# 214688: barracks_01_grey_f.p3d) found at location: [2016.48,12988.3,-0.229719] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 40e2ab00# 279648: barracks_01_grey_f.p3d) found at location: [7466,8478.43,-4.29153e-006] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 5f623200# 478663: barracks_01_grey_f.p3d) found at location: [10015.3,11793.2,0] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 5f621600# 479271: barracks_01_grey_f.p3d) found at location: [10048.1,11794.4,0] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_controlTower_F (object: 6728c100# 211968: airport_01_controltower_f.p3d) found at location: [2069.3,13307.9,0.0669174] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_controlTower_F (object: 66dd1d00# 38761: airport_01_controltower_f.p3d) found at location: [2198.41,3470.41,-0.0190601] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_controlTower_F (object: 42564800# 155227: airport_01_controltower_f.p3d) found at location: [11722.8,13115.7,-0.197001] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_controlTower_F (object: 51876b00# 115257: airport_01_controltower_f.p3d) found at location: [11748.8,2983.8,-0.198191] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_terminal_F (object: 51a4b900# 38350: airport_01_terminal_f.p3d) found at location: [2095.3,3432.85,0.0859566] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_terminal_F (object: 518b4800# 115011: airport_01_terminal_f.p3d) found at location: [11693,3025.72,0.259618] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_02_controlTower_F (object: 4011dd00# 135500: airport_02_controltower_f.p3d) found at location: [6899.11,7423.8,-0.0766478] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_02_terminal_F (object: 4018d600# 135698: airport_02_terminal_f.p3d) found at location: [6911.27,7353.63,-9.53674e-007] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_02_terminal_F (object: 4015b900# 135453: airport_02_terminal_f.p3d) found at location: [6902.83,7397.82,-1.90735e-006] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_02_terminal_F (object: 425a9600# 155006: airport_02_terminal_f.p3d) found at location: [11619.4,13124.2,0.0495768] @ 
+07.12.2017 03:42:27: V69 (21-07-2017) [OCCUPATION Military]:: Ended building scan @ 
+07.12.2017 03:42:42: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+07.12.2017 03:42:42: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: Tanoa crates to spawn: 6
+07.12.2017 03:42:44: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [9024.33,9876.87,0] with 1 guards
+07.12.2017 03:42:45: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [4854.92,2897,0] with 2 guards
+07.12.2017 03:42:47: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 3 at drop zone [2824.96,6697.12,0] with 2 guards
+07.12.2017 03:42:48: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 4 at drop zone [11215.6,9494.08,0] with 1 guards
+07.12.2017 03:42:49: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 5 at drop zone [3186.05,13115.5,0] with 1 guards
+07.12.2017 03:42:51: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 6 at drop zone [6542.2,11570.4,0] with 1 guards
+07.12.2017 03:43:06: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 176.141
+07.12.2017 03:43:06: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: Tanoa crashes to spawn: 5
+07.12.2017 03:43:09: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [9630.14,11486.2,0]
+07.12.2017 03:43:09: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [9630.14,11486.2,0] with 4 guards
+07.12.2017 03:43:11: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [4942.2,3780.68,0]
+07.12.2017 03:43:11: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [4942.2,3780.68,0] with 6 guards
+07.12.2017 03:43:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:33 multipler is 4
+07.12.2017 03:43:14: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 3 : Location [9492.28,7685.33,0]
+07.12.2017 03:43:15: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 3 at [9492.28,7685.33,0] with 3 guards
+07.12.2017 03:43:18: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 4 : Location [13003.2,12020.8,0]
+07.12.2017 03:43:18: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 4 at [13003.2,12020.8,0] with 6 guards
+07.12.2017 03:43:19: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 5 : Location [2331.81,4354.69,0]
+07.12.2017 03:43:19: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 5 at [2331.81,4354.69,0] with 2 guards
+07.12.2017 03:44:16: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:37 multipler is 4
+07.12.2017 03:44:20: V69 (21-07-2017) [OCCUPATION:transport]:: Starting @ 249.9
+07.12.2017 03:44:20: V69 (21-07-2017) [OCCUPATION:transport] Vehicle Exile_Chopper_Orca_BlackCustom spawned @ [7680,7680,200]
+07.12.2017 03:44:20: V69 (21-07-2017) [OCCUPATION:transport]:: Found 7 markers to use as pickup points @ 250.184
+07.12.2017 03:44:20: V69 (21-07-2017) [OCCUPATION:transport]:: textures for vehicle are: ["a3\air_f_heli\heli_light_02\data\heli_light_02_ext_opfor_v2_co.paa"]
+07.12.2017 03:44:35: V69 (21-07-2017) [OCCUPATION]:: threads added at 264.875
+07.12.2017 03:45:17: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:41 multipler is 4
+07.12.2017 03:46:18: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:45 multipler is 4
+07.12.2017 03:47:18: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:49 multipler is 4
+07.12.2017 03:47:28: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 03:47:28: V69 (21-07-2017) [OCCUPATION Military]:: 87 active AI, so not spawning AI this time
+07.12.2017 03:48:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:53 multipler is 4
+07.12.2017 03:48:39: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 03:48:39: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 87 active AI, so not spawning AI this time
+07.12.2017 03:48:54: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 03:48:54: V69 (21-07-2017) [OCCUPATION:Sky]:: 87 active AI, so not spawning AI this time
+07.12.2017 03:49:10: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 539.757
+07.12.2017 03:49:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:57 multipler is 4
+07.12.2017 03:49:35: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 565.012
+07.12.2017 03:49:35: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 565.012
+07.12.2017 03:50:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:1 multipler is 4
+07.12.2017 03:51:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:5 multipler is 4
+07.12.2017 03:52:22: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:9 multipler is 4
+07.12.2017 03:52:32: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 03:52:32: V69 (21-07-2017) [OCCUPATION Military]:: 82 active AI, so not spawning AI this time
+07.12.2017 03:53:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:13 multipler is 4
+07.12.2017 03:53:43: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 03:53:43: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 88 active AI, so not spawning AI this time
+07.12.2017 03:53:58: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 03:53:58: V69 (21-07-2017) [OCCUPATION:Sky]:: 88 active AI, so not spawning AI this time
+07.12.2017 03:54:13: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 843.023
+07.12.2017 03:54:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:17 multipler is 4
+07.12.2017 03:54:38: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 868.281
+07.12.2017 03:54:38: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 868.303
+07.12.2017 03:55:24: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:21 multipler is 4
+07.12.2017 03:56:25: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:25 multipler is 4
+07.12.2017 03:57:25: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:30 multipler is 4
+07.12.2017 03:57:35: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 03:57:35: V69 (21-07-2017) [OCCUPATION Military]:: 87 active AI, so not spawning AI this time
+07.12.2017 03:58:26: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:34 multipler is 4
+07.12.2017 03:58:46: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 03:58:46: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 87 active AI, so not spawning AI this time
+07.12.2017 03:59:01: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 03:59:01: V69 (21-07-2017) [OCCUPATION:Sky]:: 87 active AI, so not spawning AI this time
+07.12.2017 03:59:16: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1146.33
+07.12.2017 03:59:26: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:38 multipler is 4
+07.12.2017 03:59:42: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 1171.59
+07.12.2017 03:59:42: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 1171.59
+07.12.2017 04:00:27: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:42 multipler is 4
+07.12.2017 04:01:28: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:46 multipler is 4
+07.12.2017 04:02:29: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:50 multipler is 4
+07.12.2017 04:02:39: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 04:02:39: V69 (21-07-2017) [OCCUPATION Military]:: 87 active AI, so not spawning AI this time
+07.12.2017 04:03:30: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:54 multipler is 4
+07.12.2017 04:03:50: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 04:03:50: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 87 active AI, so not spawning AI this time
+07.12.2017 04:04:05: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 04:04:05: V69 (21-07-2017) [OCCUPATION:Sky]:: 87 active AI, so not spawning AI this time
+07.12.2017 04:04:20: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1450.28
+07.12.2017 04:04:30: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:58 multipler is 4
+07.12.2017 04:04:45: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 1475.57
+07.12.2017 04:04:45: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 1475.57
+07.12.2017 04:05:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:2 multipler is 4
+07.12.2017 04:06:32: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:6 multipler is 4
+07.12.2017 04:07:33: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:10 multipler is 4
+07.12.2017 04:07:43: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 04:07:43: V69 (21-07-2017) [OCCUPATION Military]:: 86 active AI, so not spawning AI this time
+07.12.2017 04:08:34: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:14 multipler is 4
+07.12.2017 04:08:54: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 04:08:54: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 99 active AI, so not spawning AI this time
+07.12.2017 04:09:10: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 04:09:10: V69 (21-07-2017) [OCCUPATION:Sky]:: 99 active AI, so not spawning AI this time
+07.12.2017 04:09:25: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1754.35
+07.12.2017 04:09:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:18 multipler is 4
+07.12.2017 04:09:50: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 1779.59
+07.12.2017 04:09:50: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 1779.61
+07.12.2017 04:10:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:22 multipler is 4
+07.12.2017 04:11:36: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:26 multipler is 4
+07.12.2017 04:12:37: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:30 multipler is 4
+07.12.2017 04:12:47: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 04:12:47: V69 (21-07-2017) [OCCUPATION Military]:: 96 active AI, so not spawning AI this time
+07.12.2017 04:13:38: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:34 multipler is 4
+07.12.2017 04:13:58: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 04:13:58: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 95 active AI, so not spawning AI this time
+07.12.2017 04:14:14: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 04:14:14: V69 (21-07-2017) [OCCUPATION:Sky]:: 95 active AI, so not spawning AI this time
+07.12.2017 04:14:29: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2058.36
+07.12.2017 04:14:39: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:38 multipler is 4
+07.12.2017 04:14:54: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 2083.63
+07.12.2017 04:14:54: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 2083.65
+07.12.2017 04:15:40: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:42 multipler is 4
+07.12.2017 04:16:40: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:47 multipler is 4
+07.12.2017 04:17:41: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:51 multipler is 4
+07.12.2017 04:17:51: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 04:17:51: V69 (21-07-2017) [OCCUPATION Military]:: 95 active AI, so not spawning AI this time
+07.12.2017 04:18:42: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:55 multipler is 4
+07.12.2017 04:19:02: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 04:19:02: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 95 active AI, so not spawning AI this time
+07.12.2017 04:19:18: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 04:19:18: V69 (21-07-2017) [OCCUPATION:Sky]:: 95 active AI, so not spawning AI this time
+07.12.2017 04:19:33: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2362.42
+07.12.2017 04:19:43: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:59 multipler is 4
+07.12.2017 04:19:58: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 2387.65
+07.12.2017 04:19:58: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 2387.67
+07.12.2017 04:20:44: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 18:3 multipler is 24
+07.12.2017 04:21:45: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 18:27 multipler is 24
+07.12.2017 04:22:45: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 18:51 multipler is 24
+07.12.2017 04:27:26: V69 (21-07-2017) =============================================================================================================
+07.12.2017 04:27:26: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 93.888
+07.12.2017 04:27:26: V69 (21-07-2017) =============================================================================================================
+07.12.2017 04:27:26: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 93.932
+07.12.2017 04:27:26: V69 (21-07-2017) [OCCUPATION:Traders] Created trader base Lifou Traders @ [7317,7217,0]
+07.12.2017 04:27:29: V69 (21-07-2017) [OCCUPATION:Traders] Created trader base Lijnhaven Traders @ [11580,2051,0]
+07.12.2017 04:27:32: V69 (21-07-2017) [processReporter]:: Initialised at 100.52
+07.12.2017 04:27:32: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version September 7, 2017
+07.12.2017 04:27:32: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 100.52
+07.12.2017 04:28:02: V69 (21-07-2017) [OCCUPATION Military]:: Starting building scan @ 
+07.12.2017 04:28:13: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Hangar_F (object: 65361d00# 211890: hangar_f.p3d) found at location: [2171.79,13415.9,-0.0707626] @ 
+07.12.2017 04:28:13: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Hangar_F (object: 6623e400# 211987: hangar_f.p3d) found at location: [2210.45,13444.5,-0.0367241] @ 
+07.12.2017 04:28:14: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 425e0f00# 214671: barracks_01_grey_f.p3d) found at location: [1968.58,12907.1,-0.118459] @ 
+07.12.2017 04:28:14: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 657de400# 214688: barracks_01_grey_f.p3d) found at location: [2016.48,12988.3,-0.229719] @ 
+07.12.2017 04:28:14: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 65f3a400# 214773: barracks_01_camo_f.p3d) found at location: [2284.67,13178.7,-0.187278] @ 
+07.12.2017 04:28:14: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 66e24f00# 214772: barracks_01_camo_f.p3d) found at location: [2330.36,13206.9,-0.385663] @ 
+07.12.2017 04:28:14: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 66d21600# 214855: barracks_01_camo_f.p3d) found at location: [2353.52,13173.3,0.112597] @ 
+07.12.2017 04:28:14: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 663c1600# 223809: barracks_01_camo_f.p3d) found at location: [2654.81,11662.6,-0.325165] @ 
+07.12.2017 04:28:14: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 68fa5600# 212895: barracks_01_camo_f.p3d) found at location: [3950.47,13854.8,-0.159864] @ 
+07.12.2017 04:28:14: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 5b0b4800# 212926: barracks_01_camo_f.p3d) found at location: [3993.47,13852.8,0.000144958] @ 
+07.12.2017 04:28:14: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 41292b00# 279648: barracks_01_grey_f.p3d) found at location: [7466,8478.43,-4.29153e-006] @ 
+07.12.2017 04:28:14: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 82b15d00# 478663: barracks_01_grey_f.p3d) found at location: [10015.3,11793.2,0] @ 
+07.12.2017 04:28:14: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 82a3a400# 479271: barracks_01_grey_f.p3d) found at location: [10048.1,11794.4,0] @ 
+07.12.2017 04:28:15: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_MilOffices_V1_F (object: 66051d00# 212163: miloffices_v1_f.p3d) found at location: [2274.56,13231.6,0.221226] @ 
+07.12.2017 04:28:15: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_MilOffices_V1_F (object: 71e22b00# 455378: miloffices_v1_f.p3d) found at location: [5665.7,11074.3,-0.240288] @ 
+07.12.2017 04:28:15: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_MilOffices_V1_F (object: 71cb7900# 455396: miloffices_v1_f.p3d) found at location: [5700.6,11035.2,-0.222116] @ 
+07.12.2017 04:28:15: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Radar_F (object: 82c9ab00# 478664: radar_f.p3d) found at location: [9983.5,11794.5,9.15527e-005] @ 
+07.12.2017 04:28:15: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Cargo_Patrol_V3_F (object: 62483900# 1700474: cargo_patrol_v3_f.p3d) found at location: [7305.52,7231.26,3.91006e-005] @ 
+07.12.2017 04:28:15: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Cargo_Patrol_V3_F (object: 63790f00# 1700618: cargo_patrol_v3_f.p3d) found at location: [11568.5,2065.26,0.0827942] @ 
+07.12.2017 04:28:15: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Radar_Small_F (object: 86673200# 481765: radar_small_f.p3d) found at location: [11020.1,11573.3,3.05176e-005] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 425e0f00# 214671: barracks_01_grey_f.p3d) found at location: [1968.58,12907.1,-0.118459] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 657de400# 214688: barracks_01_grey_f.p3d) found at location: [2016.48,12988.3,-0.229719] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 65f3a400# 214773: barracks_01_camo_f.p3d) found at location: [2284.67,13178.7,-0.187278] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 66e24f00# 214772: barracks_01_camo_f.p3d) found at location: [2330.36,13206.9,-0.385663] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 66d21600# 214855: barracks_01_camo_f.p3d) found at location: [2353.52,13173.3,0.112597] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 663c1600# 223809: barracks_01_camo_f.p3d) found at location: [2654.81,11662.6,-0.325165] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 68fa5600# 212895: barracks_01_camo_f.p3d) found at location: [3950.47,13854.8,-0.159864] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 5b0b4800# 212926: barracks_01_camo_f.p3d) found at location: [3993.47,13852.8,0.000144958] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 41292b00# 279648: barracks_01_grey_f.p3d) found at location: [7466,8478.43,-4.29153e-006] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 82b15d00# 478663: barracks_01_grey_f.p3d) found at location: [10015.3,11793.2,0] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 82a3a400# 479271: barracks_01_grey_f.p3d) found at location: [10048.1,11794.4,0] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 425e0f00# 214671: barracks_01_grey_f.p3d) found at location: [1968.58,12907.1,-0.118459] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 657de400# 214688: barracks_01_grey_f.p3d) found at location: [2016.48,12988.3,-0.229719] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 41292b00# 279648: barracks_01_grey_f.p3d) found at location: [7466,8478.43,-4.29153e-006] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 82b15d00# 478663: barracks_01_grey_f.p3d) found at location: [10015.3,11793.2,0] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 82a3a400# 479271: barracks_01_grey_f.p3d) found at location: [10048.1,11794.4,0] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_controlTower_F (object: 65748f00# 211968: airport_01_controltower_f.p3d) found at location: [2069.3,13307.9,0.0669174] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_controlTower_F (object: 59807900# 38761: airport_01_controltower_f.p3d) found at location: [2198.41,3470.41,-0.0190601] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_controlTower_F (object: 429ac800# 155227: airport_01_controltower_f.p3d) found at location: [11722.8,13115.7,-0.197001] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_controlTower_F (object: 518ab200# 115257: airport_01_controltower_f.p3d) found at location: [11748.8,2983.8,-0.198191] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_terminal_F (object: 51a77900# 38350: airport_01_terminal_f.p3d) found at location: [2095.3,3432.85,0.0859566] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_terminal_F (object: 518b4f00# 115011: airport_01_terminal_f.p3d) found at location: [11693,3025.72,0.259618] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_02_controlTower_F (object: 40575d00# 135500: airport_02_controltower_f.p3d) found at location: [6899.11,7423.8,-0.0766478] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_02_terminal_F (object: 405e5600# 135698: airport_02_terminal_f.p3d) found at location: [6911.27,7353.63,-9.53674e-007] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_02_terminal_F (object: 405b3900# 135453: airport_02_terminal_f.p3d) found at location: [6902.83,7397.82,-1.90735e-006] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_02_terminal_F (object: 429e5600# 155006: airport_02_terminal_f.p3d) found at location: [11619.4,13124.2,0.0495768] @ 
+07.12.2017 04:28:16: V69 (21-07-2017) [OCCUPATION Military]:: Ended building scan @ 
+07.12.2017 04:28:31: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+07.12.2017 04:28:31: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: Tanoa crates to spawn: 6
+07.12.2017 04:28:34: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [11512.4,12774.3,0] with 2 guards
+07.12.2017 04:28:35: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [8506.14,13196.1,0] with 2 guards
+07.12.2017 04:28:37: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 3 at drop zone [2814.85,6981.85,0] with 1 guards
+07.12.2017 04:28:39: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 4 at drop zone [2242.65,12063.7,0] with 1 guards
+07.12.2017 04:28:42: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 5 at drop zone [5273.7,4675.24,0] with 1 guards
+07.12.2017 04:28:44: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 6 at drop zone [6654,4377.03,0] with 1 guards
+07.12.2017 04:28:59: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:32 multipler is 4
+07.12.2017 04:28:59: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 175.927
+07.12.2017 04:28:59: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: Tanoa crashes to spawn: 5
+07.12.2017 04:29:00: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [6275.15,11243.1,0]
+07.12.2017 04:29:00: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [6275.15,11243.1,0] with 3 guards
+07.12.2017 04:29:03: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [7832.91,8809.98,0]
+07.12.2017 04:29:03: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [7832.91,8809.98,0] with 5 guards
+07.12.2017 04:29:05: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 3 : Location [2406.15,5972.38,0]
+07.12.2017 04:29:06: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 3 at [2406.15,5972.38,0] with 5 guards
+07.12.2017 04:29:08: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 4 : Location [4390.81,3906.34,0]
+07.12.2017 04:29:08: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 4 at [4390.81,3906.34,0] with 4 guards
+07.12.2017 04:29:09: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 5 : Location [9779.19,2652.42,0]
+07.12.2017 04:29:09: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 5 at [9779.19,2652.42,0] with 2 guards
+07.12.2017 04:29:59: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:37 multipler is 4
+07.12.2017 04:30:10: V69 (21-07-2017) [OCCUPATION:transport]:: Starting @ 246.675
+07.12.2017 04:30:10: V69 (21-07-2017) [OCCUPATION:transport] Vehicle Exile_Chopper_Orca_BlackCustom spawned @ [7680,7680,200]
+07.12.2017 04:30:10: V69 (21-07-2017) [OCCUPATION:transport]:: Found 7 markers to use as pickup points @ 246.937
+07.12.2017 04:30:10: V69 (21-07-2017) [OCCUPATION:transport]:: textures for vehicle are: ["a3\air_f_heli\heli_light_02\data\heli_light_02_ext_opfor_v2_co.paa"]
+07.12.2017 04:30:24: V69 (21-07-2017) [OCCUPATION]:: threads added at 261.638
+07.12.2017 04:31:00: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:41 multipler is 4
+07.12.2017 04:32:00: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:45 multipler is 4
+07.12.2017 04:33:01: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:49 multipler is 4
+07.12.2017 04:33:21: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 04:33:21: V69 (21-07-2017) [OCCUPATION Military]:: 87 active AI, so not spawning AI this time
+07.12.2017 04:34:02: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:53 multipler is 4
+07.12.2017 04:34:27: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 04:34:27: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 87 active AI, so not spawning AI this time
+07.12.2017 04:34:42: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 04:34:42: V69 (21-07-2017) [OCCUPATION:Sky]:: 87 active AI, so not spawning AI this time
+07.12.2017 04:34:57: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 534.479
+07.12.2017 04:35:02: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:57 multipler is 4
+07.12.2017 04:35:28: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 564.9
+07.12.2017 04:35:28: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 564.922
+07.12.2017 04:36:03: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:1 multipler is 4
+07.12.2017 04:37:04: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:5 multipler is 4
+07.12.2017 04:38:05: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:9 multipler is 4
+07.12.2017 04:38:25: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 04:38:25: V69 (21-07-2017) [OCCUPATION Military]:: 87 active AI, so not spawning AI this time
+07.12.2017 04:39:05: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:13 multipler is 4
+07.12.2017 04:39:31: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 04:39:31: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 87 active AI, so not spawning AI this time
+07.12.2017 04:39:46: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 04:39:46: V69 (21-07-2017) [OCCUPATION:Sky]:: 87 active AI, so not spawning AI this time
+07.12.2017 04:40:01: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 837.938
+07.12.2017 04:40:06: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:17 multipler is 4
+07.12.2017 04:40:32: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 868.304
+07.12.2017 04:40:32: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 868.325
+07.12.2017 04:41:07: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:21 multipler is 4
+07.12.2017 04:42:07: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:25 multipler is 4
+07.12.2017 04:43:08: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:29 multipler is 4
+07.12.2017 04:43:28: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 04:43:28: V69 (21-07-2017) [OCCUPATION Military]:: 99 active AI, so not spawning AI this time
+07.12.2017 04:44:09: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:33 multipler is 4
+07.12.2017 04:44:34: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 04:44:34: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 99 active AI, so not spawning AI this time
+07.12.2017 04:44:49: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 04:44:49: V69 (21-07-2017) [OCCUPATION:Sky]:: 99 active AI, so not spawning AI this time
+07.12.2017 04:45:04: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1141.13
+07.12.2017 04:45:09: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:37 multipler is 4
+07.12.2017 04:45:35: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 1171.49
+07.12.2017 04:45:35: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 1171.51
+07.12.2017 04:46:10: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:41 multipler is 4
+07.12.2017 04:47:11: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:45 multipler is 4
+07.12.2017 04:48:11: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:49 multipler is 4
+07.12.2017 04:48:31: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 04:48:31: V69 (21-07-2017) [OCCUPATION Military]:: 99 active AI, so not spawning AI this time
+07.12.2017 04:49:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:53 multipler is 4
+07.12.2017 04:49:37: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 04:49:37: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 99 active AI, so not spawning AI this time
+07.12.2017 04:49:52: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 04:49:52: V69 (21-07-2017) [OCCUPATION:Sky]:: 99 active AI, so not spawning AI this time
+07.12.2017 04:50:07: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1444.1
+07.12.2017 04:50:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:57 multipler is 4
+07.12.2017 04:50:38: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 1474.46
+07.12.2017 04:50:38: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 1474.48
+07.12.2017 04:51:13: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:1 multipler is 4
+07.12.2017 04:52:14: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:5 multipler is 4
+07.12.2017 04:53:14: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:10 multipler is 4
+07.12.2017 04:53:34: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 04:53:34: V69 (21-07-2017) [OCCUPATION Military]:: 99 active AI, so not spawning AI this time
+07.12.2017 04:54:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:14 multipler is 4
+07.12.2017 04:54:40: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 04:54:40: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 99 active AI, so not spawning AI this time
+07.12.2017 04:54:55: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 04:54:55: V69 (21-07-2017) [OCCUPATION:Sky]:: 99 active AI, so not spawning AI this time
+07.12.2017 04:55:10: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1747.07
+07.12.2017 04:55:16: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:18 multipler is 4
+07.12.2017 04:55:41: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 1777.21
+07.12.2017 04:55:41: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 1777.23
+07.12.2017 04:56:16: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:22 multipler is 4
+07.12.2017 04:57:17: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:26 multipler is 4
+07.12.2017 04:58:18: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:30 multipler is 4
+07.12.2017 04:58:38: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 04:58:38: V69 (21-07-2017) [OCCUPATION Military]:: 111 active AI, so not spawning AI this time
+07.12.2017 04:59:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:34 multipler is 4
+07.12.2017 04:59:44: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 04:59:44: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 108 active AI, so not spawning AI this time
+07.12.2017 04:59:59: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 04:59:59: V69 (21-07-2017) [OCCUPATION:Sky]:: 108 active AI, so not spawning AI this time
+07.12.2017 05:00:14: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2050.23
+07.12.2017 05:00:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:38 multipler is 4
+07.12.2017 05:00:45: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 2080.61
+07.12.2017 05:00:45: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 2080.63
+07.12.2017 05:01:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:42 multipler is 4
+07.12.2017 05:02:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:46 multipler is 4
+07.12.2017 05:03:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:50 multipler is 4
+07.12.2017 05:03:42: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 05:03:42: V69 (21-07-2017) [OCCUPATION Military]:: 108 active AI, so not spawning AI this time
+07.12.2017 05:04:22: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:54 multipler is 4
+07.12.2017 05:04:47: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 05:04:47: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 107 active AI, so not spawning AI this time
+07.12.2017 05:05:02: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 05:05:02: V69 (21-07-2017) [OCCUPATION:Sky]:: 107 active AI, so not spawning AI this time
+07.12.2017 05:05:18: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2353.66
+07.12.2017 05:05:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:58 multipler is 4
+07.12.2017 05:05:48: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 2384.02
+07.12.2017 05:05:48: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 2384.05
+07.12.2017 05:06:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 18:2 multipler is 24
+07.12.2017 05:07:24: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 18:26 multipler is 24
+07.12.2017 05:08:25: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 18:51 multipler is 24
+07.12.2017 05:08:45: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 05:08:45: V69 (21-07-2017) [OCCUPATION Military]:: 107 active AI, so not spawning AI this time
+07.12.2017 05:09:25: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 19:15 multipler is 24
+07.12.2017 05:09:50: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 05:09:50: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 115 active AI, so not spawning AI this time
+07.12.2017 05:10:05: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 05:10:05: V69 (21-07-2017) [OCCUPATION:Sky]:: 115 active AI, so not spawning AI this time
+07.12.2017 05:10:21: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2656.73
+07.12.2017 05:10:26: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 19:39 multipler is 24
+07.12.2017 05:10:51: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 2686.97
+07.12.2017 05:10:51: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 2686.99
+07.12.2017 05:11:26: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 20:3 multipler is 24
+07.12.2017 05:12:27: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 20:28 multipler is 24
+07.12.2017 05:13:28: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 20:52 multipler is 24
+07.12.2017 05:13:48: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 05:13:48: V69 (21-07-2017) [OCCUPATION Military]:: 115 active AI, so not spawning AI this time
+07.12.2017 05:14:28: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 21:16 multipler is 24
+07.12.2017 05:14:54: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 05:14:54: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 115 active AI, so not spawning AI this time
+07.12.2017 05:15:09: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 05:15:09: V69 (21-07-2017) [OCCUPATION:Sky]:: 115 active AI, so not spawning AI this time
+07.12.2017 05:15:24: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2959.79
+07.12.2017 05:15:29: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 21:40 multipler is 24
+07.12.2017 05:15:54: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 2990.02
+07.12.2017 05:15:55: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 2990.02
+07.12.2017 05:16:29: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 22:5 multipler is 24
+07.12.2017 05:17:30: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 22:29 multipler is 24
+07.12.2017 05:18:30: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 22:53 multipler is 24
+07.12.2017 05:18:51: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 05:18:51: V69 (21-07-2017) [OCCUPATION Military]:: 114 active AI, so not spawning AI this time
+07.12.2017 05:19:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 23:17 multipler is 24
+07.12.2017 05:19:36: V69 (21-07-2017) [OCCUPATION:LootCrates]:: marker SC_loot_marker_5 removed at 3212.11
+07.12.2017 05:19:56: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 05:19:56: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 114 active AI, so not spawning AI this time
+07.12.2017 05:20:12: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 05:20:12: V69 (21-07-2017) [OCCUPATION:Sky]:: 114 active AI, so not spawning AI this time
+07.12.2017 05:20:17: V69 (21-07-2017) [OCCUPATION:LootCrates]:: marker SC_loot_marker_6 removed at 3252.5
+07.12.2017 05:20:27: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3262.7
+07.12.2017 05:20:32: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 23:41 multipler is 24
+07.12.2017 05:20:57: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 3292.93
+07.12.2017 05:20:57: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 3292.95
+07.12.2017 05:21:17: V69 (21-07-2017) [OCCUPATION:LootCrates]:: marker SC_loot_marker_3 removed at 3313.17
+07.12.2017 05:21:32: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 0:6 multipler is 24
+07.12.2017 05:22:33: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 0:30 multipler is 24
+07.12.2017 05:23:34: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 0:54 multipler is 24
+07.12.2017 05:23:54: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 05:23:54: V69 (21-07-2017) [OCCUPATION Military]:: 114 active AI, so not spawning AI this time
+07.12.2017 05:24:34: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 1:18 multipler is 24
+07.12.2017 05:24:59: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 05:24:59: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 119 active AI, so not spawning AI this time
+07.12.2017 05:25:14: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 05:25:14: V69 (21-07-2017) [OCCUPATION:Sky]:: 119 active AI, so not spawning AI this time
+07.12.2017 05:25:30: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3565.56
+07.12.2017 05:25:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 1:43 multipler is 24
+07.12.2017 05:26:00: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 3595.84
+07.12.2017 05:26:00: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 3595.86
+07.12.2017 05:26:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 2:7 multipler is 24
+07.12.2017 05:27:36: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 2:31 multipler is 24
+07.12.2017 05:28:36: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 2:55 multipler is 24
+07.12.2017 05:28:57: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 05:28:57: V69 (21-07-2017) [OCCUPATION Military]:: 119 active AI, so not spawning AI this time
+07.12.2017 05:29:37: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 3:20 multipler is 24
+07.12.2017 05:30:02: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 05:30:02: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 119 active AI, so not spawning AI this time
+07.12.2017 05:30:17: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 05:30:17: V69 (21-07-2017) [OCCUPATION:Sky]:: 119 active AI, so not spawning AI this time
+07.12.2017 05:30:33: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3868.43
+07.12.2017 05:30:38: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 3:44 multipler is 24
+07.12.2017 05:31:03: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 3898.66
+07.12.2017 05:31:03: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 3898.68
+07.12.2017 05:31:38: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 4:8 multipler is 24
+07.12.2017 05:32:39: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 4:32 multipler is 24
+07.12.2017 05:33:39: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 4:57 multipler is 24
+07.12.2017 05:34:00: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 05:34:00: V69 (21-07-2017) [OCCUPATION Military]:: 119 active AI, so not spawning AI this time
+07.12.2017 05:34:40: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 5:21 multipler is 24
+07.12.2017 05:35:05: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 05:35:05: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 119 active AI, so not spawning AI this time
+07.12.2017 05:35:20: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 05:35:20: V69 (21-07-2017) [OCCUPATION:Sky]:: 119 active AI, so not spawning AI this time
+07.12.2017 05:35:35: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 4171.15
+07.12.2017 05:35:40: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 5:45 multipler is 24
+07.12.2017 05:36:06: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 4201.34
+07.12.2017 05:36:06: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 4201.36
+07.12.2017 05:36:41: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:9 multipler is 4
+07.12.2017 05:37:42: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:13 multipler is 4
+07.12.2017 05:38:42: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:17 multipler is 4
+07.12.2017 05:39:02: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 05:39:02: V69 (21-07-2017) [OCCUPATION Military]:: 119 active AI, so not spawning AI this time
+07.12.2017 05:39:43: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:21 multipler is 4
+07.12.2017 05:40:08: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 05:40:08: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 123 active AI, so not spawning AI this time
+07.12.2017 05:40:23: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 05:40:23: V69 (21-07-2017) [OCCUPATION:Sky]:: 123 active AI, so not spawning AI this time
+07.12.2017 05:40:38: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 4473.79
+07.12.2017 05:40:43: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:25 multipler is 4
+07.12.2017 05:41:09: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 4503.99
+07.12.2017 05:41:09: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 4504.01
+07.12.2017 05:41:44: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:29 multipler is 4
+07.12.2017 05:42:44: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:33 multipler is 4
+07.12.2017 05:43:45: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:37 multipler is 4
+07.12.2017 05:44:05: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 05:44:05: V69 (21-07-2017) [OCCUPATION Military]:: 123 active AI, so not spawning AI this time
+07.12.2017 05:44:45: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:42 multipler is 4
+07.12.2017 05:45:11: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 05:45:11: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 123 active AI, so not spawning AI this time
+07.12.2017 05:45:26: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 05:45:26: V69 (21-07-2017) [OCCUPATION:Sky]:: 123 active AI, so not spawning AI this time
+07.12.2017 05:45:41: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 4776.57
+07.12.2017 05:45:46: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:46 multipler is 4
+07.12.2017 05:46:11: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 4806.78
+07.12.2017 05:46:11: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 4806.8
+07.12.2017 05:46:47: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:50 multipler is 4
+07.12.2017 05:47:47: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:54 multipler is 4
+07.12.2017 05:48:48: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:58 multipler is 4
+07.12.2017 05:49:08: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 05:49:08: V69 (21-07-2017) [OCCUPATION Military]:: 123 active AI, so not spawning AI this time
+07.12.2017 05:49:48: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:2 multipler is 4
+07.12.2017 05:50:13: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 05:50:13: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 123 active AI, so not spawning AI this time
+07.12.2017 05:50:29: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 05:50:29: V69 (21-07-2017) [OCCUPATION:Sky]:: 123 active AI, so not spawning AI this time
+07.12.2017 05:50:44: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 5079.26
+07.12.2017 05:50:49: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:6 multipler is 4
+07.12.2017 05:51:14: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 5109.44
+07.12.2017 05:51:14: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 5109.44
+07.12.2017 05:51:49: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:10 multipler is 4
+07.12.2017 05:52:50: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:14 multipler is 4
+07.12.2017 05:53:50: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:18 multipler is 4
+07.12.2017 05:54:11: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 05:54:11: V69 (21-07-2017) [OCCUPATION Military]:: 130 active AI, so not spawning AI this time
+07.12.2017 05:54:51: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:22 multipler is 4
+07.12.2017 05:55:16: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 05:55:16: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 130 active AI, so not spawning AI this time
+07.12.2017 05:55:31: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 05:55:31: V69 (21-07-2017) [OCCUPATION:Sky]:: 130 active AI, so not spawning AI this time
+07.12.2017 05:55:46: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 5381.73
+07.12.2017 05:55:52: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:26 multipler is 4
+07.12.2017 05:56:17: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 5412.13
+07.12.2017 05:56:17: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 5412.13
+07.12.2017 05:56:52: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:30 multipler is 4
+07.12.2017 05:57:53: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:34 multipler is 4
+07.12.2017 05:58:54: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:38 multipler is 4
+07.12.2017 05:59:14: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 05:59:14: V69 (21-07-2017) [OCCUPATION Military]:: 130 active AI, so not spawning AI this time
+07.12.2017 05:59:54: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:42 multipler is 4
+07.12.2017 06:00:19: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 06:00:19: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 130 active AI, so not spawning AI this time
+07.12.2017 06:00:34: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 06:00:34: V69 (21-07-2017) [OCCUPATION:Sky]:: 130 active AI, so not spawning AI this time
+07.12.2017 06:00:49: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 5684.46
+07.12.2017 06:00:54: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:46 multipler is 4
+07.12.2017 06:01:19: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 5714.79
+07.12.2017 06:01:19: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 5714.79
+07.12.2017 06:01:55: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:50 multipler is 4
+07.12.2017 06:02:56: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:54 multipler is 4
+07.12.2017 06:03:56: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:58 multipler is 4
+07.12.2017 06:04:16: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 06:04:16: V69 (21-07-2017) [OCCUPATION Military]:: 136 active AI, so not spawning AI this time
+07.12.2017 06:04:57: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:2 multipler is 4
+07.12.2017 06:05:22: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 06:05:22: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 136 active AI, so not spawning AI this time
+07.12.2017 06:05:37: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 06:05:37: V69 (21-07-2017) [OCCUPATION:Sky]:: 136 active AI, so not spawning AI this time
+07.12.2017 06:05:52: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 5987.19
+07.12.2017 06:05:57: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:6 multipler is 4
+07.12.2017 06:06:22: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 6017.52
+07.12.2017 06:06:23: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 6017.55
+07.12.2017 06:06:58: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:10 multipler is 4
+07.12.2017 06:07:58: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:14 multipler is 4
+07.12.2017 06:08:59: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:18 multipler is 4
+07.12.2017 06:09:19: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 06:09:19: V69 (21-07-2017) [OCCUPATION Military]:: 136 active AI, so not spawning AI this time
+07.12.2017 06:09:59: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:22 multipler is 4
+07.12.2017 06:10:24: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 06:10:24: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 136 active AI, so not spawning AI this time
+07.12.2017 06:10:39: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 06:10:39: V69 (21-07-2017) [OCCUPATION:Sky]:: 136 active AI, so not spawning AI this time
+07.12.2017 06:10:55: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 6289.84
+07.12.2017 06:11:00: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:26 multipler is 4
+07.12.2017 06:11:25: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 6320.16
+07.12.2017 06:11:25: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 6320.18
+07.12.2017 06:12:00: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:31 multipler is 4
+07.12.2017 06:13:01: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:35 multipler is 4
+07.12.2017 06:14:02: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:39 multipler is 4
+07.12.2017 06:14:22: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 06:14:22: V69 (21-07-2017) [OCCUPATION Military]:: 136 active AI, so not spawning AI this time
+07.12.2017 06:15:02: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:43 multipler is 4
+07.12.2017 06:15:27: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 06:15:27: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 136 active AI, so not spawning AI this time
+07.12.2017 06:15:43: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 06:15:43: V69 (21-07-2017) [OCCUPATION:Sky]:: 136 active AI, so not spawning AI this time
+07.12.2017 06:15:58: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 6592.65
+07.12.2017 06:16:03: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:47 multipler is 4
+07.12.2017 06:16:28: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 6622.97
+07.12.2017 06:16:28: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 6622.99
+07.12.2017 06:17:03: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:51 multipler is 4
+07.12.2017 06:18:04: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:55 multipler is 4
+07.12.2017 06:19:05: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:59 multipler is 4
+07.12.2017 06:19:25: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 06:19:25: V69 (21-07-2017) [OCCUPATION Military]:: 144 active AI, so not spawning AI this time
+07.12.2017 06:20:05: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:3 multipler is 4
+07.12.2017 06:20:31: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 06:20:31: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 147 active AI, so not spawning AI this time
+07.12.2017 06:20:46: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 06:20:46: V69 (21-07-2017) [OCCUPATION:Sky]:: 147 active AI, so not spawning AI this time
+07.12.2017 06:21:01: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 6895.7
+07.12.2017 06:21:06: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:7 multipler is 4
+07.12.2017 06:21:31: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 6926.07
+07.12.2017 06:21:32: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 6926.09
+07.12.2017 06:22:07: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:11 multipler is 4
+07.12.2017 06:23:07: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:15 multipler is 4
+07.12.2017 06:24:08: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:19 multipler is 4
+07.12.2017 06:24:28: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 06:24:28: V69 (21-07-2017) [OCCUPATION Military]:: 144 active AI, so not spawning AI this time
+07.12.2017 06:25:09: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:23 multipler is 4
+07.12.2017 06:25:34: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 06:25:34: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 144 active AI, so not spawning AI this time
+07.12.2017 06:25:49: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 06:25:49: V69 (21-07-2017) [OCCUPATION:Sky]:: 144 active AI, so not spawning AI this time
+07.12.2017 06:26:04: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 7198.89
+07.12.2017 06:26:09: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:27 multipler is 4
+07.12.2017 06:26:35: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 7229.27
+07.12.2017 06:26:35: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 7229.29
+07.12.2017 06:27:10: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:31 multipler is 4
+07.12.2017 06:28:10: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:35 multipler is 4
+07.12.2017 06:29:11: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:39 multipler is 4
+07.12.2017 06:29:31: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 06:29:31: V69 (21-07-2017) [OCCUPATION Military]:: 144 active AI, so not spawning AI this time
+07.12.2017 06:30:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:43 multipler is 4
+07.12.2017 06:30:37: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 06:30:37: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 144 active AI, so not spawning AI this time
+07.12.2017 06:30:52: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 06:30:52: V69 (21-07-2017) [OCCUPATION:Sky]:: 144 active AI, so not spawning AI this time
+07.12.2017 06:31:08: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 7501.98
+07.12.2017 06:31:13: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:47 multipler is 4
+07.12.2017 06:31:38: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 7532.36
+07.12.2017 06:31:38: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 7532.38
+07.12.2017 06:32:13: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:51 multipler is 4
+07.12.2017 06:33:14: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:55 multipler is 4
+07.12.2017 06:34:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:59 multipler is 4
+07.12.2017 06:34:35: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 06:34:35: V69 (21-07-2017) [OCCUPATION Military]:: 142 active AI, so not spawning AI this time
+07.12.2017 06:35:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:3 multipler is 4
+07.12.2017 06:35:40: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 06:35:40: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 141 active AI, so not spawning AI this time
+07.12.2017 06:35:55: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 06:35:55: V69 (21-07-2017) [OCCUPATION:Sky]:: 141 active AI, so not spawning AI this time
+07.12.2017 06:36:10: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 7805.13
+07.12.2017 06:36:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:8 multipler is 4
+07.12.2017 06:36:41: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 7835.47
+07.12.2017 06:36:41: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 7835.49
+07.12.2017 06:37:16: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:12 multipler is 4
+07.12.2017 06:38:17: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:16 multipler is 4
+07.12.2017 06:39:17: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:20 multipler is 4
+07.12.2017 06:39:38: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 06:39:38: V69 (21-07-2017) [OCCUPATION Military]:: 141 active AI, so not spawning AI this time
+07.12.2017 06:40:18: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:24 multipler is 4
+07.12.2017 06:40:43: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 06:40:43: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 141 active AI, so not spawning AI this time
+07.12.2017 06:40:59: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 06:40:59: V69 (21-07-2017) [OCCUPATION:Sky]:: 141 active AI, so not spawning AI this time
+07.12.2017 06:41:14: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 8108.13
+07.12.2017 06:41:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:28 multipler is 4
+07.12.2017 06:41:44: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 8138.47
+07.12.2017 06:41:44: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 8138.5
+07.12.2017 06:42:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:32 multipler is 4
+07.12.2017 06:43:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:36 multipler is 4
+07.12.2017 06:44:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:40 multipler is 4
+07.12.2017 06:44:41: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 06:44:41: V69 (21-07-2017) [OCCUPATION Military]:: 140 active AI, so not spawning AI this time
+07.12.2017 06:45:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:44 multipler is 4
+07.12.2017 06:45:46: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 06:45:46: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 140 active AI, so not spawning AI this time
+07.12.2017 06:46:01: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 06:46:01: V69 (21-07-2017) [OCCUPATION:Sky]:: 140 active AI, so not spawning AI this time
+07.12.2017 06:46:17: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 8411.04
+07.12.2017 06:46:22: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:48 multipler is 4
+07.12.2017 06:46:47: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 8441.38
+07.12.2017 06:46:47: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 8441.4
+07.12.2017 06:47:22: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:52 multipler is 4
+07.12.2017 06:48:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:56 multipler is 4
+07.12.2017 06:49:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:0 multipler is 4
+07.12.2017 06:49:44: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 06:49:44: V69 (21-07-2017) [OCCUPATION Military]:: 140 active AI, so not spawning AI this time
+07.12.2017 06:50:24: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:4 multipler is 4
+07.12.2017 06:50:49: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 06:50:49: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 140 active AI, so not spawning AI this time
+07.12.2017 06:51:04: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 06:51:04: V69 (21-07-2017) [OCCUPATION:Sky]:: 140 active AI, so not spawning AI this time
+07.12.2017 06:51:20: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 8714.02
+07.12.2017 06:51:25: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:8 multipler is 4
+07.12.2017 06:51:50: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 8744.35
+07.12.2017 06:51:50: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 8744.37
+07.12.2017 06:52:25: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:12 multipler is 4
+07.12.2017 06:53:26: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:16 multipler is 4
+07.12.2017 06:54:26: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:20 multipler is 4
+07.12.2017 06:54:47: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 06:54:47: V69 (21-07-2017) [OCCUPATION Military]:: 140 active AI, so not spawning AI this time
+07.12.2017 06:55:27: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:24 multipler is 4
+07.12.2017 06:55:53: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 06:55:53: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 142 active AI, so not spawning AI this time
+07.12.2017 06:56:08: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 06:56:08: V69 (21-07-2017) [OCCUPATION:Sky]:: 142 active AI, so not spawning AI this time
+07.12.2017 06:56:23: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 9016.99
+07.12.2017 06:56:28: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:28 multipler is 4
+07.12.2017 06:56:53: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 9047.32
+07.12.2017 06:56:53: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 9047.34
+07.12.2017 06:57:28: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:32 multipler is 4
+07.12.2017 06:58:29: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:36 multipler is 4
+07.12.2017 06:59:29: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:40 multipler is 4
+07.12.2017 06:59:49: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 06:59:49: V69 (21-07-2017) [OCCUPATION Military]:: 138 active AI, so not spawning AI this time
+07.12.2017 07:00:30: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:44 multipler is 4
+07.12.2017 07:00:55: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 07:00:55: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 138 active AI, so not spawning AI this time
+07.12.2017 07:01:10: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 07:01:10: V69 (21-07-2017) [OCCUPATION:Sky]:: 138 active AI, so not spawning AI this time
+07.12.2017 07:01:26: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 9319.9
+07.12.2017 07:01:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:49 multipler is 4
+07.12.2017 07:01:56: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 9350.09
+07.12.2017 07:01:56: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 9350.12
+07.12.2017 07:02:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:53 multipler is 4
+07.12.2017 07:03:32: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:57 multipler is 4
+07.12.2017 07:04:32: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:1 multipler is 4
+07.12.2017 07:04:53: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 07:04:53: V69 (21-07-2017) [OCCUPATION Military]:: 138 active AI, so not spawning AI this time
+07.12.2017 07:05:33: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:5 multipler is 4
+07.12.2017 07:05:58: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 07:05:58: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 138 active AI, so not spawning AI this time
+07.12.2017 07:06:13: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 07:06:13: V69 (21-07-2017) [OCCUPATION:Sky]:: 138 active AI, so not spawning AI this time
+07.12.2017 07:06:28: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 9622.76
+07.12.2017 07:06:33: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:9 multipler is 4
+07.12.2017 07:06:59: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 9652.98
+07.12.2017 07:06:59: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 9653
+07.12.2017 07:07:34: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:13 multipler is 4
+07.12.2017 07:08:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:17 multipler is 4
+07.12.2017 07:09:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:21 multipler is 4
+07.12.2017 07:09:55: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 07:09:55: V69 (21-07-2017) [OCCUPATION Military]:: 138 active AI, so not spawning AI this time
+07.12.2017 07:10:36: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:25 multipler is 4
+07.12.2017 07:11:01: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 07:11:01: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 138 active AI, so not spawning AI this time
+07.12.2017 07:11:16: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 07:11:16: V69 (21-07-2017) [OCCUPATION:Sky]:: 138 active AI, so not spawning AI this time
+07.12.2017 07:11:32: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 9925.9
+07.12.2017 07:11:37: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:29 multipler is 4
+07.12.2017 07:12:02: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 9956.12
+07.12.2017 07:12:02: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 9956.14
+07.12.2017 07:12:37: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:33 multipler is 4
+07.12.2017 07:13:38: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:37 multipler is 4
+07.12.2017 07:14:38: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:41 multipler is 4
+07.12.2017 07:14:58: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 07:14:58: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:15:39: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:45 multipler is 4
+07.12.2017 07:16:04: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 07:16:04: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:16:19: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 07:16:19: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:16:34: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 10228.7
+07.12.2017 07:16:39: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:49 multipler is 4
+07.12.2017 07:17:05: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 10259
+07.12.2017 07:17:05: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 10259
+07.12.2017 07:17:40: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:53 multipler is 4
+07.12.2017 07:18:41: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:57 multipler is 4
+07.12.2017 07:19:41: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:1 multipler is 4
+07.12.2017 07:20:01: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 07:20:01: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:20:42: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:5 multipler is 4
+07.12.2017 07:21:07: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 07:21:07: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:21:22: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 07:21:22: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:21:37: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 10531.2
+07.12.2017 07:21:43: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:9 multipler is 4
+07.12.2017 07:22:08: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 10561.6
+07.12.2017 07:22:08: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 10561.6
+07.12.2017 07:22:43: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:13 multipler is 4
+07.12.2017 07:23:44: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:17 multipler is 4
+07.12.2017 07:24:45: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:21 multipler is 4
+07.12.2017 07:25:05: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 07:25:05: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:25:45: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:25 multipler is 4
+07.12.2017 07:26:11: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 07:26:11: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:26:26: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 07:26:26: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:26:41: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 10834.4
+07.12.2017 07:26:46: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:30 multipler is 4
+07.12.2017 07:27:12: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 10865
+07.12.2017 07:27:12: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 10865
+07.12.2017 07:27:47: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:34 multipler is 4
+07.12.2017 07:28:47: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:38 multipler is 4
+07.12.2017 07:29:48: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:42 multipler is 4
+07.12.2017 07:30:08: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 07:30:08: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:30:49: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:46 multipler is 4
+07.12.2017 07:31:14: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 07:31:14: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:31:29: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 07:31:29: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:31:44: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 11137.6
+07.12.2017 07:31:49: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:50 multipler is 4
+07.12.2017 07:32:14: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 11168
+07.12.2017 07:32:15: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 11168.1
+07.12.2017 07:32:50: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:54 multipler is 4
+07.12.2017 07:33:51: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:58 multipler is 4
+07.12.2017 07:34:51: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:2 multipler is 4
+07.12.2017 07:35:12: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 07:35:12: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:35:52: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:6 multipler is 4
+07.12.2017 07:36:17: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 07:36:17: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:36:32: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 07:36:32: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:36:47: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 11440.8
+07.12.2017 07:36:52: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:10 multipler is 4
+07.12.2017 07:37:18: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 11471.2
+07.12.2017 07:37:18: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 11471.2
+07.12.2017 07:37:53: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:14 multipler is 4
+07.12.2017 07:38:54: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:18 multipler is 4
+07.12.2017 07:39:54: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:22 multipler is 4
+07.12.2017 07:40:14: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 07:40:14: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:40:55: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:26 multipler is 4
+07.12.2017 07:41:20: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 07:41:20: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:41:35: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 07:41:35: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:41:50: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 11743.9
+07.12.2017 07:41:56: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:30 multipler is 4
+07.12.2017 07:42:21: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 11774.3
+07.12.2017 07:42:21: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 11774.3
+07.12.2017 07:42:56: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:34 multipler is 4
+07.12.2017 07:43:57: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:38 multipler is 4
+07.12.2017 07:44:57: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:42 multipler is 4
+07.12.2017 07:45:17: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 07:45:17: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:45:58: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:46 multipler is 4
+07.12.2017 07:46:23: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 07:46:23: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:46:38: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 07:46:38: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:46:53: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 12047
+07.12.2017 07:46:59: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:50 multipler is 4
+07.12.2017 07:47:24: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 12077.3
+07.12.2017 07:47:24: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 12077.4
+07.12.2017 07:47:59: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:54 multipler is 4
+07.12.2017 07:49:00: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 14:58 multipler is 4
+07.12.2017 07:50:00: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:2 multipler is 4
+07.12.2017 07:50:21: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 07:50:21: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:51:01: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:7 multipler is 4
+07.12.2017 07:51:26: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 07:51:26: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:51:41: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 07:51:41: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:51:56: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 12349.9
+07.12.2017 07:52:02: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:11 multipler is 4
+07.12.2017 07:52:27: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 12380.3
+07.12.2017 07:52:27: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 12380.3
+07.12.2017 07:53:02: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:15 multipler is 4
+07.12.2017 07:54:03: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:19 multipler is 4
+07.12.2017 07:55:03: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:23 multipler is 4
+07.12.2017 07:55:23: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 07:55:23: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:56:04: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:27 multipler is 4
+07.12.2017 07:56:29: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 07:56:29: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:56:44: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 07:56:44: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 07:57:00: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 12652.6
+07.12.2017 07:57:05: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:31 multipler is 4
+07.12.2017 07:57:30: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 12682.9
+07.12.2017 07:57:30: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 12682.9
+07.12.2017 07:58:05: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:35 multipler is 4
+07.12.2017 07:59:06: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:39 multipler is 4
+07.12.2017 08:00:07: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:43 multipler is 4
+07.12.2017 08:00:27: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 08:00:27: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:01:07: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:47 multipler is 4
+07.12.2017 08:01:32: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 08:01:32: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:01:47: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 08:01:47: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:02:02: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 12955.4
+07.12.2017 08:02:07: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:51 multipler is 4
+07.12.2017 08:02:33: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 12985.6
+07.12.2017 08:02:33: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 12985.7
+07.12.2017 08:03:08: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:55 multipler is 4
+07.12.2017 08:04:09: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:59 multipler is 4
+07.12.2017 08:05:09: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:3 multipler is 4
+07.12.2017 08:05:30: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 08:05:30: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:06:10: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:7 multipler is 4
+07.12.2017 08:06:36: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 08:06:36: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:06:51: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 08:06:51: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:07:06: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 13258.2
+07.12.2017 08:07:11: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:11 multipler is 4
+07.12.2017 08:07:36: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 13288.4
+07.12.2017 08:07:36: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 13288.4
+07.12.2017 08:08:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:15 multipler is 4
+07.12.2017 08:09:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:19 multipler is 4
+07.12.2017 08:10:13: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:23 multipler is 4
+07.12.2017 08:10:33: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 08:10:33: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:11:13: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:27 multipler is 4
+07.12.2017 08:11:39: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 08:11:39: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:11:54: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 08:11:54: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:12:09: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 13561.1
+07.12.2017 08:12:14: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:31 multipler is 4
+07.12.2017 08:12:39: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 13591.1
+07.12.2017 08:12:39: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 13591.1
+07.12.2017 08:13:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:35 multipler is 4
+07.12.2017 08:14:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:39 multipler is 4
+07.12.2017 08:15:16: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:43 multipler is 4
+07.12.2017 08:15:36: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 08:15:36: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:16:16: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:47 multipler is 4
+07.12.2017 08:16:41: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 08:16:41: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:16:57: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 08:16:57: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:17:12: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 13863.6
+07.12.2017 08:17:17: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:52 multipler is 4
+07.12.2017 08:17:42: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 13893.8
+07.12.2017 08:17:42: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 13893.9
+07.12.2017 08:18:17: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:56 multipler is 4
+07.12.2017 08:19:18: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:0 multipler is 4
+07.12.2017 08:20:18: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:4 multipler is 4
+07.12.2017 08:20:39: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 08:20:39: V69 (21-07-2017) [OCCUPATION Military]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:21:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:8 multipler is 4
+07.12.2017 08:21:44: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 08:21:44: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:21:59: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 08:21:59: V69 (21-07-2017) [OCCUPATION:Sky]:: 148 active AI, so not spawning AI this time
+07.12.2017 08:22:14: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 14166.2
+07.12.2017 08:22:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:12 multipler is 4
+07.12.2017 08:22:45: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 14196.5
+07.12.2017 08:22:45: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 14196.6
+07.12.2017 08:23:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:16 multipler is 4
+07.12.2017 08:24:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:20 multipler is 4
+07.12.2017 08:27:31: V69 (21-07-2017) =============================================================================================================
+07.12.2017 08:27:31: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 91.286
+07.12.2017 08:27:31: V69 (21-07-2017) =============================================================================================================
+07.12.2017 08:27:31: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 91.308
+07.12.2017 08:27:31: V69 (21-07-2017) [OCCUPATION:Traders] Created trader base Lifou Traders @ [7317,7217,0]
+07.12.2017 08:27:34: V69 (21-07-2017) [OCCUPATION:Traders] Created trader base Lijnhaven Traders @ [11580,2051,0]
+07.12.2017 08:27:37: V69 (21-07-2017) [processReporter]:: Initialised at 97.994
+07.12.2017 08:27:37: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version September 7, 2017
+07.12.2017 08:27:37: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 97.994
+07.12.2017 08:28:07: V69 (21-07-2017) [OCCUPATION Military]:: Starting building scan @ 
+07.12.2017 08:28:18: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Hangar_F (object: 6699c100# 211890: hangar_f.p3d) found at location: [2171.79,13415.9,-0.0707626] @ 
+07.12.2017 08:28:18: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Hangar_F (object: 66847200# 211987: hangar_f.p3d) found at location: [2210.45,13444.5,-0.0367241] @ 
+07.12.2017 08:28:19: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 4252cf00# 214671: barracks_01_grey_f.p3d) found at location: [1968.58,12907.1,-0.118459] @ 
+07.12.2017 08:28:19: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 65e8c100# 214688: barracks_01_grey_f.p3d) found at location: [2016.48,12988.3,-0.229719] @ 
+07.12.2017 08:28:19: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 6653d600# 214773: barracks_01_camo_f.p3d) found at location: [2284.67,13178.7,-0.187278] @ 
+07.12.2017 08:28:19: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 663b0f00# 214772: barracks_01_camo_f.p3d) found at location: [2330.36,13206.9,-0.385663] @ 
+07.12.2017 08:28:19: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 66251d00# 214855: barracks_01_camo_f.p3d) found at location: [2353.52,13173.3,0.112597] @ 
+07.12.2017 08:28:19: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 67076b00# 223809: barracks_01_camo_f.p3d) found at location: [2654.81,11662.6,-0.325165] @ 
+07.12.2017 08:28:19: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 68c51600# 212895: barracks_01_camo_f.p3d) found at location: [3950.47,13854.8,-0.159864] @ 
+07.12.2017 08:28:19: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 68afcf00# 212926: barracks_01_camo_f.p3d) found at location: [3993.47,13852.8,0.000144958] @ 
+07.12.2017 08:28:19: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 41202b00# 279648: barracks_01_grey_f.p3d) found at location: [7466,8478.43,-4.29153e-006] @ 
+07.12.2017 08:28:19: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 837b4f00# 478663: barracks_01_grey_f.p3d) found at location: [10015.3,11793.2,0] @ 
+07.12.2017 08:28:19: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_i_Barracks_V1_F (object: 836a1600# 479271: barracks_01_grey_f.p3d) found at location: [10048.1,11794.4,0] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_MilOffices_V1_F (object: 5cd3b200# 212163: miloffices_v1_f.p3d) found at location: [2274.56,13231.6,0.221226] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_MilOffices_V1_F (object: 72a52400# 455378: miloffices_v1_f.p3d) found at location: [5665.7,11074.3,-0.240288] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_MilOffices_V1_F (object: 728f7200# 455396: miloffices_v1_f.p3d) found at location: [5700.6,11035.2,-0.222116] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Radar_F (object: 82991d00# 478664: radar_f.p3d) found at location: [9983.5,11794.5,9.15527e-005] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Cargo_Patrol_V3_F (object: 63610800# 1700855: cargo_patrol_v3_f.p3d) found at location: [7305.52,7231.26,3.91006e-005] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Cargo_Patrol_V3_F (object: 63ee6b00# 1700997: cargo_patrol_v3_f.p3d) found at location: [11568.5,2065.26,0.0827942] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Radar_Small_F (object: 862b1d00# 481765: radar_small_f.p3d) found at location: [11020.1,11573.3,3.05176e-005] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 4252cf00# 214671: barracks_01_grey_f.p3d) found at location: [1968.58,12907.1,-0.118459] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 65e8c100# 214688: barracks_01_grey_f.p3d) found at location: [2016.48,12988.3,-0.229719] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 6653d600# 214773: barracks_01_camo_f.p3d) found at location: [2284.67,13178.7,-0.187278] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 663b0f00# 214772: barracks_01_camo_f.p3d) found at location: [2330.36,13206.9,-0.385663] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 66251d00# 214855: barracks_01_camo_f.p3d) found at location: [2353.52,13173.3,0.112597] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 67076b00# 223809: barracks_01_camo_f.p3d) found at location: [2654.81,11662.6,-0.325165] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 68c51600# 212895: barracks_01_camo_f.p3d) found at location: [3950.47,13854.8,-0.159864] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 68afcf00# 212926: barracks_01_camo_f.p3d) found at location: [3993.47,13852.8,0.000144958] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 41202b00# 279648: barracks_01_grey_f.p3d) found at location: [7466,8478.43,-4.29153e-006] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 837b4f00# 478663: barracks_01_grey_f.p3d) found at location: [10015.3,11793.2,0] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_camo_F (object: 836a1600# 479271: barracks_01_grey_f.p3d) found at location: [10048.1,11794.4,0] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 4252cf00# 214671: barracks_01_grey_f.p3d) found at location: [1968.58,12907.1,-0.118459] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 65e8c100# 214688: barracks_01_grey_f.p3d) found at location: [2016.48,12988.3,-0.229719] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 41202b00# 279648: barracks_01_grey_f.p3d) found at location: [7466,8478.43,-4.29153e-006] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 837b4f00# 478663: barracks_01_grey_f.p3d) found at location: [10015.3,11793.2,0] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Barracks_01_grey_F (object: 836a1600# 479271: barracks_01_grey_f.p3d) found at location: [10048.1,11794.4,0] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_controlTower_F (object: 65da2b00# 211968: airport_01_controltower_f.p3d) found at location: [2069.3,13307.9,0.0669174] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_controlTower_F (object: 668e3900# 38761: airport_01_controltower_f.p3d) found at location: [2198.41,3470.41,-0.0190601] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_controlTower_F (object: 42928800# 155227: airport_01_controltower_f.p3d) found at location: [11722.8,13115.7,-0.197001] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_controlTower_F (object: 52361600# 115257: airport_01_controltower_f.p3d) found at location: [11748.8,2983.8,-0.198191] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_terminal_F (object: 5167b900# 38350: airport_01_terminal_f.p3d) found at location: [2095.3,3432.85,0.0859566] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_01_terminal_F (object: 52363200# 115011: airport_01_terminal_f.p3d) found at location: [11693,3025.72,0.259618] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_02_controlTower_F (object: 40509d00# 135500: airport_02_controltower_f.p3d) found at location: [6899.11,7423.8,-0.0766478] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_02_terminal_F (object: 40581600# 135698: airport_02_terminal_f.p3d) found at location: [6911.27,7353.63,-9.53674e-007] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_02_terminal_F (object: 4053f900# 135453: airport_02_terminal_f.p3d) found at location: [6902.83,7397.82,-1.90735e-006] @ 
+07.12.2017 08:28:20: V69 (21-07-2017) [OCCUPATION Military]:: Added building: Land_Airport_02_terminal_F (object: 4295d600# 155006: airport_02_terminal_f.p3d) found at location: [11619.4,13124.2,0.0495768] @ 
+07.12.2017 08:28:21: V69 (21-07-2017) [OCCUPATION Military]:: Ended building scan @ 
+07.12.2017 08:28:36: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+07.12.2017 08:28:36: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: Tanoa crates to spawn: 6
+07.12.2017 08:28:37: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [3701.33,6054.49,0] with 1 guards
+07.12.2017 08:28:38: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [8551.24,10600.5,0] with 1 guards
+07.12.2017 08:28:40: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 3 at drop zone [10220.7,8031.1,0] with 2 guards
+07.12.2017 08:28:42: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 4 at drop zone [8463.4,9346.28,0] with 2 guards
+07.12.2017 08:28:43: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 5 at drop zone [11766.6,10734.4,0] with 1 guards
+07.12.2017 08:28:45: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 6 at drop zone [5566.92,11928.4,0] with 1 guards
+07.12.2017 08:29:00: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 169.974
+07.12.2017 08:29:00: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: Tanoa crashes to spawn: 5
+07.12.2017 08:29:01: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [2935.38,6278.13,0]
+07.12.2017 08:29:01: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [2935.38,6278.13,0] with 4 guards
+07.12.2017 08:29:06: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [13129.6,7908.86,0]
+07.12.2017 08:29:06: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [13129.6,7908.86,0] with 3 guards
+07.12.2017 08:29:06: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:32 multipler is 4
+07.12.2017 08:29:07: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 3 : Location [7706.09,8315.29,0]
+07.12.2017 08:29:07: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 3 at [7706.09,8315.29,0] with 3 guards
+07.12.2017 08:29:08: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 4 : Location [6081.71,9214.33,0]
+07.12.2017 08:29:09: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 4 at [6081.71,9214.33,0] with 2 guards
+07.12.2017 08:29:10: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 5 : Location [3205.9,13117.4,0]
+07.12.2017 08:29:10: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 5 at [3205.9,13117.4,0] with 3 guards
+07.12.2017 08:30:10: V69 (21-07-2017) [OCCUPATION:transport]:: Starting @ 240.225
+07.12.2017 08:30:10: V69 (21-07-2017) [OCCUPATION:transport] Vehicle Exile_Chopper_Orca_BlackCustom spawned @ [7680,7680,200]
+07.12.2017 08:30:10: V69 (21-07-2017) [OCCUPATION:transport]:: Found 7 markers to use as pickup points @ 240.487
+07.12.2017 08:30:10: V69 (21-07-2017) [OCCUPATION:transport]:: textures for vehicle are: ["a3\air_f_heli\heli_light_02\data\heli_light_02_ext_opfor_v2_co.paa"]
+07.12.2017 08:30:11: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:37 multipler is 4
+07.12.2017 08:30:25: V69 (21-07-2017) [OCCUPATION]:: threads added at 255.207
+07.12.2017 08:31:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:41 multipler is 4
+07.12.2017 08:32:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:45 multipler is 4
+07.12.2017 08:33:13: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:49 multipler is 4
+07.12.2017 08:33:23: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 08:33:23: V69 (21-07-2017) [OCCUPATION Military]:: 101 active AI, so not spawning AI this time
+07.12.2017 08:34:13: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:53 multipler is 4
+07.12.2017 08:34:28: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 08:34:28: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 101 active AI, so not spawning AI this time
+07.12.2017 08:34:43: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 08:34:43: V69 (21-07-2017) [OCCUPATION:Sky]:: 101 active AI, so not spawning AI this time
+07.12.2017 08:34:59: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 528.659
+07.12.2017 08:35:14: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:57 multipler is 4
+07.12.2017 08:35:29: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 558.845
+07.12.2017 08:35:29: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 558.867
+07.12.2017 08:36:14: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:1 multipler is 4
+07.12.2017 08:37:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:5 multipler is 4
+07.12.2017 08:38:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:9 multipler is 4
+07.12.2017 08:38:25: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 08:38:25: V69 (21-07-2017) [OCCUPATION Military]:: 101 active AI, so not spawning AI this time
+07.12.2017 08:39:16: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:13 multipler is 4
+07.12.2017 08:39:31: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 08:39:31: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 121 active AI, so not spawning AI this time
+07.12.2017 08:39:46: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 08:39:46: V69 (21-07-2017) [OCCUPATION:Sky]:: 121 active AI, so not spawning AI this time
+07.12.2017 08:40:02: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 831.337
+07.12.2017 08:40:17: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:17 multipler is 4
+07.12.2017 08:40:32: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 861.529
+07.12.2017 08:40:32: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 861.551
+07.12.2017 08:41:17: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:21 multipler is 4
+07.12.2017 08:42:17: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:25 multipler is 4
+07.12.2017 08:43:18: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:29 multipler is 4
+07.12.2017 08:43:28: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 08:43:28: V69 (21-07-2017) [OCCUPATION Military]:: 121 active AI, so not spawning AI this time
+07.12.2017 08:44:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:33 multipler is 4
+07.12.2017 08:44:34: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 08:44:34: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 121 active AI, so not spawning AI this time
+07.12.2017 08:44:49: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 08:44:49: V69 (21-07-2017) [OCCUPATION:Sky]:: 121 active AI, so not spawning AI this time
+07.12.2017 08:45:04: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1133.98
+07.12.2017 08:45:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:37 multipler is 4
+07.12.2017 08:45:34: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 1164.15
+07.12.2017 08:45:34: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 1164.15
+07.12.2017 08:46:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:41 multipler is 4
+07.12.2017 08:47:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:45 multipler is 4
+07.12.2017 08:48:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:49 multipler is 4
+07.12.2017 08:48:31: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 08:48:31: V69 (21-07-2017) [OCCUPATION Military]:: 121 active AI, so not spawning AI this time
+07.12.2017 08:49:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:53 multipler is 4
+07.12.2017 08:49:36: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 08:49:36: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 121 active AI, so not spawning AI this time
+07.12.2017 08:49:52: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 08:49:52: V69 (21-07-2017) [OCCUPATION:Sky]:: 121 active AI, so not spawning AI this time
+07.12.2017 08:50:07: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1436.38
+07.12.2017 08:50:22: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 16:57 multipler is 4
+07.12.2017 08:50:37: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 1466.53
+07.12.2017 08:50:37: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 1466.57
+07.12.2017 08:51:22: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:2 multipler is 4
+07.12.2017 08:52:22: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:6 multipler is 4
+07.12.2017 08:53:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:10 multipler is 4
+07.12.2017 08:53:33: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 08:53:33: V69 (21-07-2017) [OCCUPATION Military]:: 125 active AI, so not spawning AI this time
+07.12.2017 08:54:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:14 multipler is 4
+07.12.2017 08:54:39: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 08:54:39: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 125 active AI, so not spawning AI this time
+07.12.2017 08:54:54: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 08:54:54: V69 (21-07-2017) [OCCUPATION:Sky]:: 125 active AI, so not spawning AI this time
+07.12.2017 08:55:09: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 1738.7
+07.12.2017 08:55:24: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:18 multipler is 4
+07.12.2017 08:55:39: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 1768.88
+07.12.2017 08:55:39: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 1768.9
+07.12.2017 08:56:24: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:22 multipler is 4
+07.12.2017 08:57:25: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:26 multipler is 4
+07.12.2017 08:58:25: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:30 multipler is 4
+07.12.2017 08:58:36: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 08:58:36: V69 (21-07-2017) [OCCUPATION Military]:: 125 active AI, so not spawning AI this time
+07.12.2017 08:59:26: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:34 multipler is 4
+07.12.2017 08:59:41: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 08:59:41: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 125 active AI, so not spawning AI this time
+07.12.2017 08:59:56: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 08:59:56: V69 (21-07-2017) [OCCUPATION:Sky]:: 125 active AI, so not spawning AI this time
+07.12.2017 09:00:11: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2041.1
+07.12.2017 09:00:26: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:38 multipler is 4
+07.12.2017 09:00:42: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 2071.26
+07.12.2017 09:00:42: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 2071.26
+07.12.2017 09:01:27: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:42 multipler is 4
+07.12.2017 09:02:27: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:46 multipler is 4
+07.12.2017 09:03:28: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:50 multipler is 4
+07.12.2017 09:03:38: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 09:03:38: V69 (21-07-2017) [OCCUPATION Military]:: 125 active AI, so not spawning AI this time
+07.12.2017 09:04:28: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:54 multipler is 4
+07.12.2017 09:04:43: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 09:04:43: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 142 active AI, so not spawning AI this time
+07.12.2017 09:04:58: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 09:04:58: V69 (21-07-2017) [OCCUPATION:Sky]:: 142 active AI, so not spawning AI this time
+07.12.2017 09:05:13: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2343.19
+07.12.2017 09:05:29: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 17:58 multipler is 4
+07.12.2017 09:05:44: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 2373.51
+07.12.2017 09:05:44: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 2373.53
+07.12.2017 09:06:29: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 18:2 multipler is 24
+07.12.2017 09:07:30: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 18:26 multipler is 24
+07.12.2017 09:08:30: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 18:50 multipler is 24
+07.12.2017 09:08:40: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 09:08:40: V69 (21-07-2017) [OCCUPATION Military]:: 142 active AI, so not spawning AI this time
+07.12.2017 09:09:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 19:15 multipler is 24
+07.12.2017 09:09:46: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 09:09:46: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 142 active AI, so not spawning AI this time
+07.12.2017 09:10:01: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 09:10:01: V69 (21-07-2017) [OCCUPATION:Sky]:: 142 active AI, so not spawning AI this time
+07.12.2017 09:10:16: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2645.61
+07.12.2017 09:10:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 19:39 multipler is 24
+07.12.2017 09:10:46: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 2675.89
+07.12.2017 09:10:46: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 2675.89
+07.12.2017 09:11:32: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 20:3 multipler is 24
+07.12.2017 09:12:32: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 20:27 multipler is 24
+07.12.2017 09:13:32: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 20:51 multipler is 24
+07.12.2017 09:13:43: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 09:13:43: V69 (21-07-2017) [OCCUPATION Military]:: 142 active AI, so not spawning AI this time
+07.12.2017 09:14:33: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 21:16 multipler is 24
+07.12.2017 09:14:48: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 09:14:48: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 142 active AI, so not spawning AI this time
+07.12.2017 09:15:03: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 09:15:03: V69 (21-07-2017) [OCCUPATION:Sky]:: 142 active AI, so not spawning AI this time
+07.12.2017 09:15:18: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 2948.06
+07.12.2017 09:15:34: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 21:40 multipler is 24
+07.12.2017 09:15:49: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 2978.4
+07.12.2017 09:15:49: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 2978.42
+07.12.2017 09:16:34: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 22:4 multipler is 24
+07.12.2017 09:17:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 22:28 multipler is 24
+07.12.2017 09:18:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 22:52 multipler is 24
+07.12.2017 09:18:45: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 09:18:45: V69 (21-07-2017) [OCCUPATION Military]:: 142 active AI, so not spawning AI this time
+07.12.2017 09:19:36: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 23:17 multipler is 24
+07.12.2017 09:19:51: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 09:19:51: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 149 active AI, so not spawning AI this time
+07.12.2017 09:20:06: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 09:20:06: V69 (21-07-2017) [OCCUPATION:Sky]:: 149 active AI, so not spawning AI this time
+07.12.2017 09:20:21: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3250.59
+07.12.2017 09:20:36: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 23:41 multipler is 24
+07.12.2017 09:20:51: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 3280.85
+07.12.2017 09:20:51: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 3280.85
+07.12.2017 09:21:37: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 0:5 multipler is 24
+07.12.2017 09:22:37: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 0:29 multipler is 24
+07.12.2017 09:23:38: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 0:53 multipler is 24
+07.12.2017 09:23:48: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 09:23:48: V69 (21-07-2017) [OCCUPATION Military]:: 149 active AI, so not spawning AI this time
+07.12.2017 09:24:38: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 1:18 multipler is 24
+07.12.2017 09:24:53: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 09:24:53: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 149 active AI, so not spawning AI this time
+07.12.2017 09:25:08: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 09:25:08: V69 (21-07-2017) [OCCUPATION:Sky]:: 149 active AI, so not spawning AI this time
+07.12.2017 09:25:23: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3553.11
+07.12.2017 09:25:39: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 1:42 multipler is 24
+07.12.2017 09:25:54: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 3583.38
+07.12.2017 09:25:54: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 3583.38
+07.12.2017 09:26:39: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 2:6 multipler is 24
+07.12.2017 09:27:40: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 2:30 multipler is 24
+07.12.2017 09:28:40: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 2:54 multipler is 24
+07.12.2017 09:28:50: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 09:28:50: V69 (21-07-2017) [OCCUPATION Military]:: 149 active AI, so not spawning AI this time
+07.12.2017 09:29:41: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 3:18 multipler is 24
+07.12.2017 09:29:56: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 09:29:56: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 149 active AI, so not spawning AI this time
+07.12.2017 09:30:11: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 09:30:11: V69 (21-07-2017) [OCCUPATION:Sky]:: 149 active AI, so not spawning AI this time
+07.12.2017 09:30:26: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 3855.38
+07.12.2017 09:30:41: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 3:43 multipler is 24
+07.12.2017 09:30:56: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 3885.67
+07.12.2017 09:30:56: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 3885.69
+07.12.2017 09:31:42: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 4:7 multipler is 24
+07.12.2017 09:32:42: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 4:31 multipler is 24
+07.12.2017 09:33:42: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 4:55 multipler is 24
+07.12.2017 09:33:53: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 09:33:53: V69 (21-07-2017) [OCCUPATION Military]:: 166 active AI, so not spawning AI this time
+07.12.2017 09:34:43: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 5:20 multipler is 24
+07.12.2017 09:34:58: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 09:34:58: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 166 active AI, so not spawning AI this time
+07.12.2017 09:35:13: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 09:35:13: V69 (21-07-2017) [OCCUPATION:Sky]:: 166 active AI, so not spawning AI this time
+07.12.2017 09:35:28: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 4157.82
+07.12.2017 09:35:43: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 5:44 multipler is 24
+07.12.2017 09:35:59: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 4188.08
+07.12.2017 09:35:59: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 4188.08
+07.12.2017 09:36:44: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:8 multipler is 4
+07.12.2017 09:37:44: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:12 multipler is 4
+07.12.2017 09:38:45: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:16 multipler is 4
+07.12.2017 09:38:55: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 09:38:55: V69 (21-07-2017) [OCCUPATION Military]:: 166 active AI, so not spawning AI this time
+07.12.2017 09:39:45: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:20 multipler is 4
+07.12.2017 09:40:01: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 09:40:01: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 166 active AI, so not spawning AI this time
+07.12.2017 09:40:16: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 09:40:16: V69 (21-07-2017) [OCCUPATION:Sky]:: 166 active AI, so not spawning AI this time
+07.12.2017 09:40:31: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 4460.07
+07.12.2017 09:40:46: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:24 multipler is 4
+07.12.2017 09:41:01: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 4490.31
+07.12.2017 09:41:01: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 4490.33
+07.12.2017 09:41:46: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:28 multipler is 4
+07.12.2017 09:42:47: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:32 multipler is 4
+07.12.2017 09:43:47: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:36 multipler is 4
+07.12.2017 09:43:57: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 09:43:57: V69 (21-07-2017) [OCCUPATION Military]:: 170 active AI, so not spawning AI this time
+07.12.2017 09:44:47: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:40 multipler is 4
+07.12.2017 09:45:03: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 09:45:03: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 170 active AI, so not spawning AI this time
+07.12.2017 09:45:18: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 09:45:18: V69 (21-07-2017) [OCCUPATION:Sky]:: 170 active AI, so not spawning AI this time
+07.12.2017 09:45:33: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 4762.35
+07.12.2017 09:45:48: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:44 multipler is 4
+07.12.2017 09:46:03: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 4792.68
+07.12.2017 09:46:03: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 4792.7
+07.12.2017 09:46:48: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:48 multipler is 4
+07.12.2017 09:47:49: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:52 multipler is 4
+07.12.2017 09:48:49: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 6:56 multipler is 4
+07.12.2017 09:49:00: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 09:49:00: V69 (21-07-2017) [OCCUPATION Military]:: 170 active AI, so not spawning AI this time
+07.12.2017 09:49:50: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:0 multipler is 4
+07.12.2017 09:50:05: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 09:50:05: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 170 active AI, so not spawning AI this time
+07.12.2017 09:50:20: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 09:50:20: V69 (21-07-2017) [OCCUPATION:Sky]:: 170 active AI, so not spawning AI this time
+07.12.2017 09:50:35: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 5064.66
+07.12.2017 09:50:50: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:4 multipler is 4
+07.12.2017 09:51:06: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 5094.92
+07.12.2017 09:51:06: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 5094.94
+07.12.2017 09:51:51: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:8 multipler is 4
+07.12.2017 09:52:52: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:12 multipler is 4
+07.12.2017 09:53:52: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:16 multipler is 4
+07.12.2017 09:54:02: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 09:54:02: V69 (21-07-2017) [OCCUPATION Military]:: 170 active AI, so not spawning AI this time
+07.12.2017 09:54:52: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:20 multipler is 4
+07.12.2017 09:55:07: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 09:55:07: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 185 active AI, so not spawning AI this time
+07.12.2017 09:55:23: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 09:55:23: V69 (21-07-2017) [OCCUPATION:Sky]:: 185 active AI, so not spawning AI this time
+07.12.2017 09:55:38: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 5367.13
+07.12.2017 09:55:53: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:24 multipler is 4
+07.12.2017 09:56:08: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 5397.42
+07.12.2017 09:56:08: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 5397.44
+07.12.2017 09:56:53: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:29 multipler is 4
+07.12.2017 09:57:54: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:33 multipler is 4
+07.12.2017 09:58:54: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:37 multipler is 4
+07.12.2017 09:59:05: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 09:59:05: V69 (21-07-2017) [OCCUPATION Military]:: 185 active AI, so not spawning AI this time
+07.12.2017 09:59:55: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:41 multipler is 4
+07.12.2017 10:00:10: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 10:00:10: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 185 active AI, so not spawning AI this time
+07.12.2017 10:00:25: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 10:00:25: V69 (21-07-2017) [OCCUPATION:Sky]:: 185 active AI, so not spawning AI this time
+07.12.2017 10:00:40: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 5669.59
+07.12.2017 10:00:55: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:45 multipler is 4
+07.12.2017 10:01:11: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 5699.85
+07.12.2017 10:01:11: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 5699.88
+07.12.2017 10:01:56: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:49 multipler is 4
+07.12.2017 10:02:56: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:53 multipler is 4
+07.12.2017 10:03:57: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 7:57 multipler is 4
+07.12.2017 10:04:07: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 10:04:07: V69 (21-07-2017) [OCCUPATION Military]:: 185 active AI, so not spawning AI this time
+07.12.2017 10:04:57: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:1 multipler is 4
+07.12.2017 10:05:12: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 10:05:12: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 185 active AI, so not spawning AI this time
+07.12.2017 10:05:27: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 10:05:27: V69 (21-07-2017) [OCCUPATION:Sky]:: 185 active AI, so not spawning AI this time
+07.12.2017 10:05:42: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 5971.78
+07.12.2017 10:05:57: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:5 multipler is 4
+07.12.2017 10:06:13: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 6002.05
+07.12.2017 10:06:13: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 6002.07
+07.12.2017 10:06:58: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:9 multipler is 4
+07.12.2017 10:07:58: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:13 multipler is 4
+07.12.2017 10:08:59: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:17 multipler is 4
+07.12.2017 10:09:09: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 10:09:09: V69 (21-07-2017) [OCCUPATION Military]:: 185 active AI, so not spawning AI this time
+07.12.2017 10:10:00: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:21 multipler is 4
+07.12.2017 10:10:15: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 10:10:15: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:10:30: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 10:10:30: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:10:45: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 6274.23
+07.12.2017 10:11:00: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:25 multipler is 4
+07.12.2017 10:11:15: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 6304.54
+07.12.2017 10:11:15: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 6304.56
+07.12.2017 10:12:01: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:29 multipler is 4
+07.12.2017 10:13:01: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:33 multipler is 4
+07.12.2017 10:14:02: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:37 multipler is 4
+07.12.2017 10:14:12: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 10:14:12: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:15:02: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:41 multipler is 4
+07.12.2017 10:15:17: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 10:15:17: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:15:32: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 10:15:32: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:15:47: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 6576.57
+07.12.2017 10:16:02: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:45 multipler is 4
+07.12.2017 10:16:17: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 6606.83
+07.12.2017 10:16:17: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 6606.86
+07.12.2017 10:17:03: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:49 multipler is 4
+07.12.2017 10:18:03: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:53 multipler is 4
+07.12.2017 10:19:04: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 8:57 multipler is 4
+07.12.2017 10:19:14: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 10:19:14: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:20:04: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:1 multipler is 4
+07.12.2017 10:20:19: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 10:20:19: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:20:34: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 10:20:34: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:20:49: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 6878.85
+07.12.2017 10:21:05: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:5 multipler is 4
+07.12.2017 10:21:20: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 6909.15
+07.12.2017 10:21:20: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 6909.17
+07.12.2017 10:22:05: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:9 multipler is 4
+07.12.2017 10:23:06: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:13 multipler is 4
+07.12.2017 10:24:06: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:17 multipler is 4
+07.12.2017 10:24:16: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 10:24:16: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:25:06: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:21 multipler is 4
+07.12.2017 10:25:21: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 10:25:21: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:25:37: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 10:25:37: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:25:52: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 7181.12
+07.12.2017 10:26:07: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:25 multipler is 4
+07.12.2017 10:26:22: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 7211.41
+07.12.2017 10:26:22: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 7211.44
+07.12.2017 10:27:07: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:29 multipler is 4
+07.12.2017 10:28:08: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:33 multipler is 4
+07.12.2017 10:29:08: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:38 multipler is 4
+07.12.2017 10:29:18: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 10:29:18: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:30:09: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:42 multipler is 4
+07.12.2017 10:30:24: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 10:30:24: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:30:39: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 10:30:39: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:30:54: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 7483.56
+07.12.2017 10:31:09: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:46 multipler is 4
+07.12.2017 10:31:25: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 7513.89
+07.12.2017 10:31:25: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 7513.89
+07.12.2017 10:32:10: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:50 multipler is 4
+07.12.2017 10:33:11: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:54 multipler is 4
+07.12.2017 10:34:11: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 9:58 multipler is 4
+07.12.2017 10:34:21: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 10:34:21: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:35:11: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:2 multipler is 4
+07.12.2017 10:35:26: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 10:35:26: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:35:42: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 10:35:42: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:35:57: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 7786.06
+07.12.2017 10:36:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:6 multipler is 4
+07.12.2017 10:36:27: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 7816.37
+07.12.2017 10:36:27: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 7816.39
+07.12.2017 10:37:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:10 multipler is 4
+07.12.2017 10:38:13: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:14 multipler is 4
+07.12.2017 10:39:13: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:18 multipler is 4
+07.12.2017 10:39:23: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 10:39:23: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:40:14: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:22 multipler is 4
+07.12.2017 10:40:29: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 10:40:29: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:40:44: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 10:40:44: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:40:59: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 8088.33
+07.12.2017 10:41:14: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:26 multipler is 4
+07.12.2017 10:41:29: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 8118.59
+07.12.2017 10:41:29: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 8118.62
+07.12.2017 10:42:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:30 multipler is 4
+07.12.2017 10:43:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:34 multipler is 4
+07.12.2017 10:44:16: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:38 multipler is 4
+07.12.2017 10:44:26: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 10:44:26: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:45:16: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:42 multipler is 4
+07.12.2017 10:45:31: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 10:45:31: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:45:46: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 10:45:46: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:46:01: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 8390.65
+07.12.2017 10:46:16: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:46 multipler is 4
+07.12.2017 10:46:32: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 8420.95
+07.12.2017 10:46:32: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 8420.98
+07.12.2017 10:47:17: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:50 multipler is 4
+07.12.2017 10:48:18: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:54 multipler is 4
+07.12.2017 10:49:18: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 10:58 multipler is 4
+07.12.2017 10:49:28: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 10:49:28: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:50:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:2 multipler is 4
+07.12.2017 10:50:34: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 10:50:34: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:50:49: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 10:50:49: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:51:04: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 8693.36
+07.12.2017 10:51:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:6 multipler is 4
+07.12.2017 10:51:34: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 8723.66
+07.12.2017 10:51:34: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 8723.68
+07.12.2017 10:52:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:10 multipler is 4
+07.12.2017 10:53:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:14 multipler is 4
+07.12.2017 10:54:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:18 multipler is 4
+07.12.2017 10:54:31: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 10:54:31: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:55:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:22 multipler is 4
+07.12.2017 10:55:36: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 10:55:36: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:55:51: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 10:55:51: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 10:56:06: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 8995.9
+07.12.2017 10:56:22: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:26 multipler is 4
+07.12.2017 10:56:37: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 9026.19
+07.12.2017 10:56:37: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 9026.22
+07.12.2017 10:57:22: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:30 multipler is 4
+07.12.2017 10:58:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:34 multipler is 4
+07.12.2017 10:59:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:39 multipler is 4
+07.12.2017 10:59:33: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 10:59:33: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:00:24: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:43 multipler is 4
+07.12.2017 11:00:39: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 11:00:39: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:00:54: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 11:00:54: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:01:09: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 9298.48
+07.12.2017 11:01:24: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:47 multipler is 4
+07.12.2017 11:01:40: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 9328.8
+07.12.2017 11:01:40: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 9328.82
+07.12.2017 11:02:25: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:51 multipler is 4
+07.12.2017 11:03:25: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:55 multipler is 4
+07.12.2017 11:04:26: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:59 multipler is 4
+07.12.2017 11:04:36: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 11:04:36: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:05:26: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:3 multipler is 4
+07.12.2017 11:05:41: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 11:05:41: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:05:56: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 11:05:56: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:06:12: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 9600.98
+07.12.2017 11:06:27: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:7 multipler is 4
+07.12.2017 11:06:42: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 9631.3
+07.12.2017 11:06:42: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 9631.32
+07.12.2017 11:07:27: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:11 multipler is 4
+07.12.2017 11:08:28: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:15 multipler is 4
+07.12.2017 11:09:28: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:19 multipler is 4
+07.12.2017 11:09:39: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 11:09:39: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:10:29: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:23 multipler is 4
+07.12.2017 11:10:44: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 11:10:44: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:10:59: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 11:10:59: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:11:14: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 9903.5
+07.12.2017 11:11:29: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:27 multipler is 4
+07.12.2017 11:11:45: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 9933.8
+07.12.2017 11:11:45: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 9933.82
+07.12.2017 11:12:30: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:31 multipler is 4
+07.12.2017 11:13:30: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:35 multipler is 4
+07.12.2017 11:14:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:39 multipler is 4
+07.12.2017 11:14:41: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 11:14:41: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:15:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:43 multipler is 4
+07.12.2017 11:15:47: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 11:15:47: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:16:02: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 11:16:02: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:16:17: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 10206.1
+07.12.2017 11:16:32: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:47 multipler is 4
+07.12.2017 11:16:47: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 10236.4
+07.12.2017 11:16:47: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 10236.4
+07.12.2017 11:17:32: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:51 multipler is 4
+07.12.2017 11:18:33: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:55 multipler is 4
+07.12.2017 11:19:34: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 12:59 multipler is 4
+07.12.2017 11:19:44: V69 (21-07-2017) [OCCUPATION Military]:: Starting Monitor
+07.12.2017 11:19:44: V69 (21-07-2017) [OCCUPATION Military]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:20:34: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:3 multipler is 4
+07.12.2017 11:20:49: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+07.12.2017 11:20:49: V69 (21-07-2017) [OCCUPATION:Vehicle]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:21:04: V69 (21-07-2017) [OCCUPATION:Sky] Started
+07.12.2017 11:21:04: V69 (21-07-2017) [OCCUPATION:Sky]:: 187 active AI, so not spawning AI this time
+07.12.2017 11:21:20: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 10508.8
+07.12.2017 11:21:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:7 multipler is 4
+07.12.2017 11:21:50: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 10539.2
+07.12.2017 11:21:50: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 10539.2
+07.12.2017 11:22:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 13:11 multipler is 4
