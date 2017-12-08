@@ -1639,6 +1639,7 @@ class CfgExileArsenal
 	#include "Vehicles\Unarmed_Air\prices.hpp"
 	#include "Vehicles\Armed_Air\prices.hpp"
 	#include "Vehicles\Armed_Air\prices.hpp"
+				
 	
 	
 	class Exile_Uniform_BambiOverall				{ quality = 1; price = 1; sellPrice = 1; };
