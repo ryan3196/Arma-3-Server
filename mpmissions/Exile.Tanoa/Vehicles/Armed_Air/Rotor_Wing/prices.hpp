@@ -29,5 +29,7 @@
         class CUP_B_Merlin_HC3_Armed_GB						            { quality = 4; price = 200000; };
         class CUP_B_Merlin_HC3A_Armed_GB				                { quality = 4; price = 200000; };
         class CUP_B_UH1Y_GUNSHIP_USMC			                        { quality = 5; price = 250000; };
-		class Exile_Chopper_Huey_Armed_Green							{ quality = 4; price = 150000; };
-		class Exile_Chopper_Huey_Armed_Desert							{ quality = 4; price = 150000; };
+	class Exile_Chopper_Huey_Armed_Green							{ quality = 4; price = 150000; };
+	class Exile_Chopper_Huey_Armed_Desert							{ quality = 4; price = 150000; };
+        class CUP_B_UH60M_FFV_US                                                { quality = 4; price = 200000; };
+        class CUP_B_UH60L_FFV_US                                                { quality = 4; price = 200000; };
