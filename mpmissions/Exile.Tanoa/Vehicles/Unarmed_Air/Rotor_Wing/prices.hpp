@@ -93,3 +93,5 @@ class CUP_B_Merlin_HC4_GB                                                { quali
 class CUP_B_UH1Y_UNA_USMC                                                { quality = 2; price = 30000; };
 class CUP_B_UH1Y_MEV_USMC                                                { quality = 2; price = 30000; };
 class CUP_B_AH6X_USA                                                { quality = 3; price = 25000; };
+class CUP_B_SA330_Puma_HC1_BAF                                                { quality = 3; price = 35000; };
+class CUP_B_SA330_Puma_HC2_BAF                                                { quality = 3; price = 35000; };
