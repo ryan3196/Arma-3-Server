@@ -1631,6 +1631,15 @@ class CfgExileArsenal
 	#include "EBM\prices.hpp"
 	#include "CUP_Vehicles\prices.hpp"
 	#include "CUP_Weapons\prices.hpp"
+	#include "Vehicles\Unarmed_Ground\prices.hpp"
+	#include "Vehicles\Armed_Ground\prices.hpp"
+	#include "Vehicles\MRAP\prices.hpp"
+	#include "Vehicles\Tanks\prices.hpp"
+	#include "Vehicles\Unarmed_Air\prices.hpp"
+	#include "Vehicles\Unarmed_Air\prices.hpp"
+	#include "Vehicles\Armed_Air\prices.hpp"
+	#include "Vehicles\Armed_Air\prices.hpp"
+	
 	
 	class Exile_Uniform_BambiOverall				{ quality = 1; price = 1; sellPrice = 1; };
 
@@ -2738,15 +2747,6 @@ class CfgExileArsenal
 	class 200Rnd_556x45_Box_Tracer_Red_F            {quality = 1; price = 90; };
 	class 10Rnd_9x21_Mag							{quality = 1; price = 10; };
 	
-	// Jets DLC items
-	class V_DeckCrew_yellow_F						{ quality = 2; price = 30; };
-	class V_DeckCrew_blue_F							{ quality = 2; price = 30; };
-	class V_DeckCrew_green_F						{ quality = 2; price = 30; };
-	class V_DeckCrew_red_F							{ quality = 2; price = 30; };
-	class V_DeckCrew_white_F						{ quality = 2; price = 30; };
-	class V_DeckCrew_brown_F						{ quality = 2; price = 30; };
-	class V_DeckCrew_violet_F						{ quality = 2; price = 30; };
-
 	///////////////////////////////////////////////////////////////////////////////
 	// Flags
 	///////////////////////////////////////////////////////////////////////////////

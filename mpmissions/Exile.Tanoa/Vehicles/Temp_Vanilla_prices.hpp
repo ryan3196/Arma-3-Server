@@ -37,7 +37,7 @@
 	class Exile_Boat_MotorBoat_Police				{ quality = 1; price = 700; };
 	class Exile_Boat_MotorBoat_Orange				{ quality = 1; price = 700; };
 	class Exile_Boat_MotorBoat_White				{ quality = 1; price = 700; };
-	class Burnes_MK10_1								{ quality = 2; price = 50000;};
+	
 
 	///////////////////////////////////////////////////////////////////////////////
 	// RUBBER DUCKS
