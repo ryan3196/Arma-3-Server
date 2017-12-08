@@ -25,6 +25,7 @@
         class CUP_B_Mi35_CZ_Tiger										{ quality = 6; price = 450000; };
         class CUP_B_Mi35_CZ_Dark										{ quality = 6; price = 450000; };
         class CUP_B_Mi35_CZ_Dark									    { quality = 6; price = 450000; };
+        class CUP_B_Mi17_CDF                                                { quality = 4; price = 200000; };
         class CUP_B_Mi171Sh_ACR									        { quality = 5; price = 400000; };
         class CUP_B_Merlin_HC3_Armed_GB						            { quality = 4; price = 200000; };
         class CUP_B_Merlin_HC3A_Armed_GB				                { quality = 4; price = 200000; };
@@ -33,3 +34,8 @@
 	class Exile_Chopper_Huey_Armed_Desert							{ quality = 4; price = 150000; };
         class CUP_B_UH60M_FFV_US                                                { quality = 4; price = 200000; };
         class CUP_B_UH60L_FFV_US                                                { quality = 4; price = 200000; };
+        class CUP_B_AH6J_Escort_USA                                             { quality = 5; price = 300000; };
+        class CUP_B_AH6J_AT_USA                             	                { quality = 5; price = 300000; };
+        class CUP_B_AH6J_MP_USA                                 	            { quality = 5; price = 300000; };
+        class CUP_B_AH6J_Escort19_USA                                           { quality = 5; price = 300000; };
+
