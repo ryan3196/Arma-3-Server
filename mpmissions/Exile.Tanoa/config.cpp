@@ -1638,6 +1638,7 @@ class CfgExileArsenal
 	#include "Vehicles\Unarmed_Air\prices.hpp"
 	#include "Vehicles\Armed_Air\prices.hpp"
 	#include "Vehicles\Armed_Air\prices.hpp"
+	#include "Vehicles\Boats\prices.hpp"
 				
 	
 	
@@ -4100,6 +4101,7 @@ class CfgTraderCategories
 	#include "Vehicles\Unarmed_Air\traders.hpp"
 	#include "Vehicles\Armed_Air\traders.hpp"
 	#include "Vehicles\Armed_Air\traders.hpp"
+	#include "Vehicles\Boats\traders.hpp"
 	
 	class Community
 	{
