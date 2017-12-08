@@ -1638,6 +1638,7 @@ class CfgExileArsenal
 	#include "Vehicles\Unarmed_Air\prices.hpp"
 	#include "Vehicles\Armed_Air\prices.hpp"
 	#include "Vehicles\Armed_Air\prices.hpp"
+	#include "Vehicles\UAVs\prices.hpp"
 	#include "Vehicles\Boats\prices.hpp"
 				
 	
@@ -2015,11 +2016,7 @@ class CfgExileArsenal
 	class muzzle_snds_L 							{ quality = 1; price = 10; };
 	class muzzle_snds_M 							{ quality = 1; price = 10; };
 
-	///////////////////////////////////////////////////////////////////////////////
-	// UAVS
-	///////////////////////////////////////////////////////////////////////////////
-	class I_UavTerminal								{ quality = 4; price = 750; };
-	class I_UAV_01_backpack_F						{ quality = 4; price = 3000; };
+	
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Static MGs
@@ -4101,6 +4098,7 @@ class CfgTraderCategories
 	#include "Vehicles\Unarmed_Air\traders.hpp"
 	#include "Vehicles\Armed_Air\traders.hpp"
 	#include "Vehicles\Armed_Air\traders.hpp"
+	#include "Vehicles\UAVs\traders.hpp"
 	#include "Vehicles\Boats\traders.hpp"
 	
 	class Community
@@ -4650,16 +4648,7 @@ class CfgTraderCategories
 		};
 	};
 
-	class UAVs
-	{
-		name = "Unmanned Aerial Vehicles";
-		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\gps_ca.paa";
-		items[] =
-		{
-			"I_UavTerminal",
-			"I_UAV_01_backpack_F"
-		};
-	};
+	
 
 	class StaticMGs
 	{

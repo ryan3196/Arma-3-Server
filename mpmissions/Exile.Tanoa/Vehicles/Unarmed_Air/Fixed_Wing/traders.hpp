@@ -8,6 +8,8 @@ class Unarmed_Fixed_Wing
 		{
 			"Exile_Plane_Cessna",
 			"Exile_Plane_AN2_Green",
+			"Exile_Plane_AN2_Stripe",
+			"Exile_Plane_AN2_White",
 			"Exile_Plane_Ceasar",
 			"Exile_Plane_BlackfishInfantry",
 			"Exile_Plane_BlackfishVehicle"

@@ -1,8 +1,14 @@
+///////////////////////////////////////////////////////////////////////////////
+// Cessna
+///////////////////////////////////////////////////////////////////////////////
+class Exile_Plane_Cessna { quality = 1; price = 16500; };
 
 ///////////////////////////////////////////////////////////////////////////////
-// Example of Catigory Lable Here
+// An-2
 ///////////////////////////////////////////////////////////////////////////////
-
-class Example_Vehicle_Class_Name { quality = 6; price = 100000; };
-class CUP_B_C130J_Cargo_USMC { quality = 6; price = 100000; };
-class CUP_B_C130J_GB { quality = 6; price = 100000; };
+class Exile_Plane_AN2_Green { quality = 2; price = 17000; };
+class Exile_Plane_AN2_White { quality = 2; price = 17000; };
+class Exile_Plane_AN2_Stripe { quality = 2; price = 17000; };
+class Exile_Plane_Ceasar { quality = 2; price = 17000 };
+class Exile_Plane_BlackfishInfantry { quality = 4; price = 300000 };
+class Exile_Plane_BlackfishVehicle { quality = 4; price = 350000 };
