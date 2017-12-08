@@ -1629,7 +1629,6 @@ class CfgExileAnimals
 class CfgExileArsenal
 {
 	#include "EBM\prices.hpp"
-	#include "CUP_Vehicles\prices.hpp"
 	#include "CUP_Weapons\prices.hpp"
 	#include "Vehicles\Unarmed_Ground\prices.hpp"
 	#include "Vehicles\Armed_Ground\prices.hpp"
@@ -4092,8 +4091,15 @@ class CfgTerritories
 class CfgTraderCategories
 {
 	#include "EBM\traders.hpp"
-	#include "CUP_Vehicles\traders.hpp"
-	#include "CUP_Weapons\traders.hpp"	
+	#include "CUP_Weapons\traders.hpp"
+	#include "Vehicles\Unarmed_Ground\traders.hpp"
+	#include "Vehicles\Armed_Ground\traders.hpp"
+	#include "Vehicles\MRAP\traders.hpp"
+	#include "Vehicles\Tanks\traders.hpp"
+	#include "Vehicles\Unarmed_Air\traders.hpp"
+	#include "Vehicles\Unarmed_Air\traders.hpp"
+	#include "Vehicles\Armed_Air\traders.hpp"
+	#include "Vehicles\Armed_Air\traders.hpp"
 	
 	class Community
 	{
@@ -5504,8 +5510,8 @@ class CfgTraderCategories
 			"Exile_Boat_SDV_Digital",
 			"Exile_Boat_SDV_Grey",
 			"Exile_Boat_WaterScooter",
-			"Exile_Boat_RHIB",
-			"Burnes_MK10_1"
+			"Exile_Boat_RHIB"
+			
 		};
 	};
 
@@ -5643,9 +5649,10 @@ class CfgTraders
 		showWeaponFilter = 0;
 		categories[] = 
 		{
-			"Cars",
-			"Trucks",
-			"CUP_Vehicles"
+			"Unarmed_Ground",
+			"Armed_Ground",
+			"MRAP",
+			"Tanks"
 		};
 	};
 
@@ -5658,8 +5665,10 @@ class CfgTraders
 		showWeaponFilter = 0;
 		categories[] = 
 		{
-			"Choppers", 
-			"Planes"
+			"Unarmed_Rotor_Wing", 
+			"Armed_Rotor_Wing",
+			"Unarmed_Fixed_Wing",
+			"Armed_Fixed_Wing"
 		};
 	};
 

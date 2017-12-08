@@ -1,8 +1,8 @@
 
 
-class Unarmed_Ground
+class Armed_Rotor_Wing
 	{
-		name = "Unarmed Ground";
+		name = "Armed Rotor Wing";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] = 
 		{
