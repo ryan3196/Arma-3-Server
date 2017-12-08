@@ -6,7 +6,16 @@ class Unarmed_Rotor_Wing
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] = 
 		{
-			"Example_Class_Name_of_Vehicle_1",
-			"Example_Class_Name_of_Vehicle_2" //Notice there is not comma on the last item in this list.
+			"Exile_Chopper_Hummingbird_Green",
+			"Exile_Chopper_Hummingbird_Civillian_Wasp",
+			"Exile_Chopper_Huey_Green",
+			"Exile_Chopper_Huey_Armed_Green",
+			"Exile_Chopper_Taru_Black",
+			"Exile_Chopper_Taru_Covered_Black",
+			"Exile_Chopper_Taru_Transport_Black",
+			"Exile_Chopper_Orca_BlackCustom",
+			"Exile_Chopper_Mohawk_FIA",
+			"Exile_Chopper_Huron_Black",
+			"Exile_Chopper_Hellcat_Green"
 		};
 	};
