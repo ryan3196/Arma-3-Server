@@ -1,9 +1,11 @@
-
 	///////////////////////////////////////////////////////////////////////////////
-	// Example of Catigory Lable Here
+	// Bitpod Attachments
 	///////////////////////////////////////////////////////////////////////////////
-	
-        class Example_Vehicle_Class_Name                                	    { quality = 6; price = 100000; }; 
-        class CUP_B_C130J_Cargo_USMC                                            { quality = 6; price = 100000; };
-        class CUP_B_C130J_GB                                 	                { quality = 6; price = 100000; };
-        
+	class bipod_01_F_blk	 						{ quality = 2; price = 10; };
+	class bipod_01_F_mtp	 						{ quality = 2; price = 10; };
+	class bipod_01_F_snd	 						{ quality = 2; price = 10; };
+	class bipod_02_F_blk	 						{ quality = 2; price = 10; };
+	class bipod_02_F_hex	 						{ quality = 2; price = 10; };
+	class bipod_02_F_tan	 						{ quality = 2; price = 10; };
+	class bipod_03_F_blk	 						{ quality = 2; price = 10; };
+	class bipod_03_F_oli	 						{ quality = 2; price = 10; };

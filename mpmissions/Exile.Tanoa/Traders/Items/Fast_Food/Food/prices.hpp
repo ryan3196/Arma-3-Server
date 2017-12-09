@@ -1,9 +1,50 @@
-
 	///////////////////////////////////////////////////////////////////////////////
-	// Example of Catigory Lable Here
+	// Food
 	///////////////////////////////////////////////////////////////////////////////
-	
-        class Example_Vehicle_Class_Name                                	    { quality = 6; price = 100000; }; 
-        class CUP_B_C130J_Cargo_USMC                                            { quality = 6; price = 100000; };
-        class CUP_B_C130J_GB                                 	                { quality = 6; price = 100000; };
-        
+	class Exile_Item_SheepSteak_Cooked				{ quality = 4; price = 230; }; //100, 30
+	class Exile_Item_AlsatianSteak_Cooked			{ quality = 4; price = 230; }; //100, 30
+	class Exile_Item_CatSharkFilet_Cooked			{ quality = 4; price = 230; }; //100, 30
+	class Exile_Item_FinSteak_Cooked				{ quality = 4; price = 230; }; //100, 30
+	class Exile_Item_GoatSteak_Cooked				{ quality = 4; price = 230; }; //100, 30
+	class Exile_Item_TurtleFilet_Cooked				{ quality = 4; price = 230; }; //100, 30
+	class Exile_Item_TunaFilet_Cooked				{ quality = 3; price = 220; }; //90, 30
+	class Exile_Item_RabbitSteak_Cooked				{ quality = 3; price = 215; }; //80, 30
+	class Exile_Item_EMRE							{ quality = 3; price = 54; }; //75, 60
+	class Exile_Item_ChickenFilet_Cooked			{ quality = 3; price = 205; }; //70, 30
+	class Exile_Item_RoosterFilet_Cooked			{ quality = 3; price = 205; }; //70, 30
+	class Exile_Item_MulletFilet_Cooked				{ quality = 3; price = 200; }; //65, 30
+	class Exile_Item_SalemaFilet_Cooked				{ quality = 3; price = 200; }; //65, 30
+	class Exile_Item_GloriousKnakworst				{ quality = 3; price = 40; }; //60, 30
+	class Exile_Item_MackerelFilet_Cooked			{ quality = 3; price = 190; }; //55, 30
+	class Exile_Item_Surstromming					{ quality = 3; price = 34; }; //55, 25
+	class Exile_Item_SausageGravy					{ quality = 3; price = 30; }; //50, 25
+	class Exile_Item_OrnateFilet_Cooked				{ quality = 3; price = 180; }; //40, 30
+	class Exile_Item_SnakeFilet_Cooked				{ quality = 3; price = 180; }; //40, 30
+	class Exile_Item_Catfood						{ quality = 2; price = 24; }; //40, 40
+	class Exile_Item_ChristmasTinner				{ quality = 3; price = 20; }; //40, 60
+	class Exile_Item_BBQSandwich					{ quality = 3; price = 20; }; //40, 60
+	class Exile_Item_MacasCheese					{ quality = 3; price = 20; }; //40, 60
+	class Exile_Item_Dogfood						{ quality = 2; price = 18; }; //30, 30
+	class Exile_Item_BeefParts						{ quality = 2; price = 18; }; //30, 30
+	class Exile_Item_Cheathas						{ quality = 2; price = 18; }; //30, 30
+	class Exile_Item_CatSharkFilet_Raw				{ quality = 2; price = 125; }; //25, 30
+	class Exile_Item_Noodles						{ quality = 1; price = 14; }; //25, 50
+	class Exile_Item_SeedAstics						{ quality = 1; price = 12; }; //20, 40
+	class Exile_Item_TunaFilet_Raw					{ quality = 2; price = 120; }; //20, 30
+	class Exile_Item_AlsatianSteak_Raw				{ quality = 2; price = 115; };	//15, 30
+	class Exile_Item_TurtleFilet_Raw				{ quality = 2; price = 115; }; //15, 30
+	class Exile_Item_SheepSteak_Raw					{ quality = 2; price = 115; }; //15, 30
+	class Exile_Item_FinSteak_Raw					{ quality = 2; price = 115; }; //15, 30
+	class Exile_Item_GoatSteak_Raw					{ quality = 2; price = 115; }; //15, 30
+	class Exile_Item_Raisins						{ quality = 1; price = 10; }; //15, 30
+	class Exile_Item_ChickenFilet_Raw				{ quality = 2; price = 110; }; //10, 30
+	class Exile_Item_RoosterFilet_Raw				{ quality = 2; price = 110; }; //10, 30
+	class Exile_Item_Moobar							{ quality = 1; price = 8; }; //10, 30
+	class Exile_Item_InstantCoffee					{ quality = 1; price = 20; }; //5, 10
+	class Exile_Item_MackerelFilet_Raw				{ quality = 2; price = 108; }; //5, 30
+	class Exile_Item_MulletFilet_Raw				{ quality = 2; price = 108; }; //5, 30
+	class Exile_Item_OrnateFilet_Raw				{ quality = 2; price = 108; }; //5, 30
+	class Exile_Item_RabbitSteak_Raw				{ quality = 2; price = 108; }; //5, 30
+	class Exile_Item_SalemaFilet_Raw				{ quality = 2; price = 108; }; //5, 30
+	class Exile_Item_SnakeFilet_Raw					{ quality = 2; price = 108; }; //5, 30
+	class Exile_Item_Can_Empty						{ quality = 1; price = 1; sellPrice = 1; };

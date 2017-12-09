@@ -1,9 +1,9 @@
+	///////////////////////////////////////////////////////////////////////////////
+	// First Aid
+	///////////////////////////////////////////////////////////////////////////////
+	class Exile_Item_InstaDoc                       { quality = 5; price = 1250; };
+	class Exile_Item_Vishpirin						{ quality = 3; price = 300; };
+	class Exile_Item_Bandage	                    { quality = 2; price = 100; };
+	class Exile_Item_Heatpack	                    { quality = 1; price = 50; };
 
-	///////////////////////////////////////////////////////////////////////////////
-	// Example of Catigory Lable Here
-	///////////////////////////////////////////////////////////////////////////////
-	
-        class Example_Vehicle_Class_Name                                	    { quality = 6; price = 100000; }; 
-        class CUP_B_C130J_Cargo_USMC                                            { quality = 6; price = 100000; };
-        class CUP_B_C130J_GB                                 	                { quality = 6; price = 100000; };
-        
+	class Exile_Item_Defibrillator					{ quality = 1; price = 7500; sellPrice = 0; };

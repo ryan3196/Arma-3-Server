@@ -1,9 +1,48 @@
-
 	///////////////////////////////////////////////////////////////////////////////
-	// Example of Catigory Lable Here
+	// Glasses
 	///////////////////////////////////////////////////////////////////////////////
-	
-        class Example_Vehicle_Class_Name                                	    { quality = 6; price = 100000; }; 
-        class CUP_B_C130J_Cargo_USMC                                            { quality = 6; price = 100000; };
-        class CUP_B_C130J_GB                                 	                { quality = 6; price = 100000; };
-        
+	class G_Spectacles			 		{ quality = 1; price = 6; };
+	class G_Spectacles_Tinted			{ quality = 1; price = 6; };
+	class G_Combat			 			{ quality = 1; price = 6; };
+	class G_Lowprofile			 		{ quality = 1; price = 6; };
+	class G_Shades_Black			 	{ quality = 1; price = 6; };
+	class G_Shades_Green			 	{ quality = 1; price = 6; };
+	class G_Shades_Red			 		{ quality = 1; price = 6; };
+	class G_Squares			 			{ quality = 1; price = 6; };
+	class G_Squares_Tinted			 	{ quality = 1; price = 6; };
+	class G_Sport_BlackWhite			{ quality = 1; price = 6; };
+	class G_Sport_Blackyellow			{ quality = 1; price = 6; };
+	class G_Sport_Greenblack			{ quality = 1; price = 6; };
+	class G_Sport_Checkered			 	{ quality = 1; price = 6; };
+	class G_Sport_Red			 		{ quality = 1; price = 6; };
+	class G_Tactical_Black			 	{ quality = 1; price = 6; };
+	class G_Aviator			 			{ quality = 1; price = 6; };
+	class G_Lady_Mirror			 		{ quality = 1; price = 6; };
+	class G_Lady_Dark			 		{ quality = 1; price = 6; };
+	class G_Lady_Red			 		{ quality = 1; price = 6; };
+	class G_Lady_Blue			 		{ quality = 1; price = 6; };
+	class G_Diving			 			{ quality = 1; price = 6; };
+	class G_B_Diving			 		{ quality = 1; price = 6; };
+	class G_O_Diving			 		{ quality = 1; price = 6; };
+	class G_I_Diving			 		{ quality = 1; price = 6; };
+	class G_Goggles_VR			 		{ quality = 1; price = 6; };
+	class G_Balaclava_blk			 	{ quality = 2; price = 10; };
+	class G_Balaclava_oli			 	{ quality = 2; price = 10; };
+	class G_Balaclava_combat			{ quality = 2; price = 10; };
+	class G_Balaclava_lowprofile		{ quality = 2; price = 10; };
+	class G_Bandanna_blk			 	{ quality = 1; price = 6; };
+	class G_Bandanna_oli			 	{ quality = 1; price = 6; };
+	class G_Bandanna_khk			 	{ quality = 1; price = 6; };
+	class G_Bandanna_tan			 	{ quality = 1; price = 6; };
+	class G_Bandanna_beast			 	{ quality = 1; price = 6; };
+	class G_Bandanna_shades			 	{ quality = 1; price = 6; };
+	class G_Bandanna_sport			 	{ quality = 1; price = 6; };
+	class G_Bandanna_aviator			{ quality = 1; price = 6; };
+	class G_Shades_Blue			 		{ quality = 1; price = 6; };
+	class G_Sport_Blackred			 	{ quality = 1; price = 6; };
+	class G_Tactical_Clear			 	{ quality = 1; price = 6; };
+	class G_Balaclava_TI_blk_F			{ quality = 2; price = 15; };
+	class G_Balaclava_TI_tna_F			{ quality = 2; price = 15; };
+	class G_Balaclava_TI_G_blk_F		{ quality = 2; price = 15; };
+	class G_Balaclava_TI_G_tna_F		{ quality = 2; price = 15; };
+	class G_Combat_Goggles_tna_F		{ quality = 1; price = 6; };
