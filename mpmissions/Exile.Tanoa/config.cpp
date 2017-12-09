@@ -1630,16 +1630,16 @@ class CfgExileArsenal
 {
 	#include "EBM\prices.hpp"
 	#include "CUP_Weapons\prices.hpp"
-	#include "Vehicles\Unarmed_Ground\prices.hpp"
-	#include "Vehicles\Armed_Ground\prices.hpp"
-	#include "Vehicles\MRAP\prices.hpp"
-	#include "Vehicles\Tanks\prices.hpp"
-	#include "Vehicles\Unarmed_Air\prices.hpp"
-	#include "Vehicles\Unarmed_Air\prices.hpp"
-	#include "Vehicles\Armed_Air\prices.hpp"
-	#include "Vehicles\Armed_Air\prices.hpp"
-	#include "Vehicles\UAVs\prices.hpp"
-	#include "Vehicles\Boats\prices.hpp"
+	#include "Traders\Vehicles\Unarmed_Ground\prices.hpp"
+	#include "Traders\Vehicles\Armed_Ground\prices.hpp"
+	#include "Traders\Vehicles\MRAP\prices.hpp"
+	#include "Traders\Vehicles\Tanks\prices.hpp"
+	#include "Traders\Vehicles\Unarmed_Air\prices.hpp"
+	#include "Traders\Vehicles\Unarmed_Air\prices.hpp"
+	#include "Traders\Vehicles\Armed_Air\prices.hpp"
+	#include "Traders\Vehicles\Armed_Air\prices.hpp"
+	#include "Traders\Vehicles\UAVs\prices.hpp"
+	#include "Traders\Vehicles\Boats\prices.hpp"
 				
 	
 	
@@ -4090,16 +4090,16 @@ class CfgTraderCategories
 {
 	#include "EBM\traders.hpp"
 	#include "CUP_Weapons\traders.hpp"
-	#include "Vehicles\Unarmed_Ground\traders.hpp"
-	#include "Vehicles\Armed_Ground\traders.hpp"
-	#include "Vehicles\MRAP\traders.hpp"
-	#include "Vehicles\Tanks\traders.hpp"
-	#include "Vehicles\Unarmed_Air\traders.hpp"
-	#include "Vehicles\Unarmed_Air\traders.hpp"
-	#include "Vehicles\Armed_Air\traders.hpp"
-	#include "Vehicles\Armed_Air\traders.hpp"
-	#include "Vehicles\UAVs\traders.hpp"
-	#include "Vehicles\Boats\traders.hpp"
+	#include "Traders\Vehicles\Unarmed_Ground\traders.hpp"
+	#include "Traders\Vehicles\Armed_Ground\traders.hpp"
+	#include "Traders\Vehicles\MRAP\traders.hpp"
+	#include "Traders\Vehicles\Tanks\traders.hpp"
+	#include "Traders\Vehicles\Unarmed_Air\traders.hpp"
+	#include "Traders\Vehicles\Unarmed_Air\traders.hpp"
+	#include "Traders\Vehicles\Armed_Air\traders.hpp"
+	#include "Traders\Vehicles\Armed_Air\traders.hpp"
+	#include "Traders\Vehicles\UAVs\traders.hpp"
+	#include "Traders\Vehicles\Boats\traders.hpp"
 	
 	class Community
 	{
@@ -5552,108 +5552,7 @@ class CfgTraders
 		};
 	};
 
-	/**
-	 * Sells Community Items
-	 */ 
-	class Exile_Trader_CommunityCustoms
-	{
-		name = "COMMUNITY";
-		showWeaponFilter = 0;
-		categories[] = 
-		{
-			"Community"
-		};
-	};
-
-	class Exile_Trader_CommunityCustoms2
-	{
-		name = "COMMUNITY";
-		showWeaponFilter = 0;
-		categories[] = 
-		{
-			"Community2"
-		};
-	};
-
-	class Exile_Trader_CommunityCustoms3
-	{
-		name = "COMMUNITY";
-		showWeaponFilter = 0;
-		categories[] = 
-		{
-			"Community3"
-		};
-	};
-
-	class Exile_Trader_CommunityCustoms4
-	{
-		name = "COMMUNITY";
-		showWeaponFilter = 0;
-		categories[] = 
-		{
-			"Community4"
-		};
-	};
-
-	class Exile_Trader_CommunityCustoms5
-	{
-		name = "COMMUNITY";
-		showWeaponFilter = 0;
-		categories[] = 
-		{
-			"Community5"
-		};
-	};
-
-	class Exile_Trader_CommunityCustoms6
-	{
-		name = "COMMUNITY";
-		showWeaponFilter = 0;
-		categories[] = 
-		{
-			"Community6"
-		};
-	};
-
-	class Exile_Trader_CommunityCustoms7
-	{
-		name = "COMMUNITY";
-		showWeaponFilter = 0;
-		categories[] = 
-		{
-			"Community7"
-		};
-	};
-
-	class Exile_Trader_CommunityCustoms8
-	{
-		name = "COMMUNITY";
-		showWeaponFilter = 0;
-		categories[] = 
-		{
-			"Community8"
-		};
-	};
-
-	class Exile_Trader_CommunityCustoms9
-	{
-		name = "COMMUNITY";
-		showWeaponFilter = 0;
-		categories[] = 
-		{
-			"Community9"
-		};
-	};
-
-	class Exile_Trader_CommunityCustoms10
-	{
-		name = "COMMUNITY";
-		showWeaponFilter = 0;
-		categories[] = 
-		{
-			"Community10"
-		};
-	};
+	
 };
 class CfgTrading 
 {
