@@ -2061,7 +2061,7 @@ class CfgExileArsenal
 	class Exile_Item_Rope							{ quality = 1; price = 20; };
 	class Exile_Item_DuctTape						{ quality = 1; price = 300; };
 	class Exile_Item_ExtensionCord					{ quality = 1; price = 40; };
-	class Exile_Item_FuelCanisterEmpty				{ quality = 1; price = 40; };
+	class Exile_Item_FuelCanisterEmpty				{ quality = 1; price = 350; };
 	class Exile_Item_JunkMetal						{ quality = 1; price = 400; };
 	class Exile_Item_LightBulb						{ quality = 1; price = 20; };
 	class Exile_Item_MetalBoard						{ quality = 1; price = 600; };
@@ -2071,11 +2071,11 @@ class CfgExileArsenal
 	//class Exile_Item_Laptop						{ quality = 2; price = 9000; };
 	//class Exile_Item_BaseCameraKit				{ quality = 2; price = 5000; };
 	class Exile_Item_CamoTentKit					{ quality = 1; price = 250; };
-	class Exile_Item_MetalPole						{ quality = 1; price = 800; };
+	class Exile_Item_MetalPole						{ quality = 2; price = 1250; };
 	class Exile_Item_MetalScrews					{ quality = 1; price = 100; };
 	//class Exile_Item_MetalWire					{ quality = 1; price = 100; };
-	//class Exile_Item_Cement						{ quality = 1; price = 20; };
-	//class Exile_Item_Sand							{ quality = 1; price = 20; };
+	class Exile_Item_Cement						{ quality = 2; price = 1000; };
+	class Exile_Item_Sand							{ quality = 2; price = 500; };
 	//class Exile_Item_CarWheel						{ quality = 1; price = 1000; };
 	
 	// Added in 1.0.3, but not used
