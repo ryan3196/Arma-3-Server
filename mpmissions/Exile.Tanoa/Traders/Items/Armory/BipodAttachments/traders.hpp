@@ -1,12 +1,18 @@
-
-
-class Tanks
+class BipodAttachments
+{
+	name = "Bipod Attachments";
+	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itembipod_ca.paa";
+	items[] =
 	{
-		name = "Tanks";
-		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{
-			"Example_Class_Name_of_Vehicle_1",
-			"Example_Class_Name_of_Vehicle_2" //Notice there is not comma on the last item in this list.
-		};
+		"bipod_01_F_blk",
+		"bipod_01_F_mtp",
+		"bipod_01_F_snd",
+		"bipod_02_F_blk",
+		"bipod_02_F_hex",
+		"bipod_02_F_tan",
+		"bipod_03_F_blk",
+		"bipod_03_F_oli",
+		//Apex
+		"bipod_01_F_khk"
 	};
+};

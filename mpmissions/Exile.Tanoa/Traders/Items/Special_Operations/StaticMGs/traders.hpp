@@ -1,12 +1,11 @@
-
-
-class Tanks
+class StaticMGs
+{
+	name = "Static Machine Guns";
+	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+	items[] =
 	{
-		name = "Tanks";
-		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{
-			"Example_Class_Name_of_Vehicle_1",
-			"Example_Class_Name_of_Vehicle_2" //Notice there is not comma on the last item in this list.
-		};
+		"O_HMG_01_support_F",
+		//"O_HMG_01_support_high_F", // Does not seem to work with HMG01, only the lower version does
+		"O_HMG_01_weapon_F"
 	};
+};

@@ -1,12 +1,29 @@
-
-
-class Tanks
+class Smokes
+{
+	name = "Smokes";
+	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+	items[] =
 	{
-		name = "Tanks";
-		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{
-			"Example_Class_Name_of_Vehicle_1",
-			"Example_Class_Name_of_Vehicle_2" //Notice there is not comma on the last item in this list.
-		};
+		"SmokeShell",
+		"SmokeShellBlue",
+		"SmokeShellGreen",
+		"SmokeShellOrange",
+		"SmokeShellPurple",
+		"SmokeShellRed",
+		"SmokeShellYellow",
+		"1Rnd_Smoke_Grenade_shell",
+		"1Rnd_SmokeBlue_Grenade_shell",
+		"1Rnd_SmokeGreen_Grenade_shell",
+		"1Rnd_SmokeOrange_Grenade_shell",
+		"1Rnd_SmokePurple_Grenade_shell",
+		"1Rnd_SmokeRed_Grenade_shell",
+		"1Rnd_SmokeYellow_Grenade_shell",
+		"3Rnd_Smoke_Grenade_shell",
+		"3Rnd_SmokeBlue_Grenade_shell",
+		"3Rnd_SmokeGreen_Grenade_shell",
+		"3Rnd_SmokeOrange_Grenade_shell",
+		"3Rnd_SmokePurple_Grenade_shell",
+		"3Rnd_SmokeRed_Grenade_shell",
+		"3Rnd_SmokeYellow_Grenade_shell"
 	};
+};

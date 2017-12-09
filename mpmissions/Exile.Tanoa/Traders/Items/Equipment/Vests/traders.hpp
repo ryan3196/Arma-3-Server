@@ -1,12 +1,73 @@
-
-
-class Tanks
+class Vests
+{
+	name = "Vests";
+	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\vest_ca.paa";
+	items[] =
 	{
-		name = "Tanks";
-		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{
-			"Example_Class_Name_of_Vehicle_1",
-			"Example_Class_Name_of_Vehicle_2" //Notice there is not comma on the last item in this list.
-		};
+		"V_Press_F",
+		"V_Rangemaster_belt",
+		"V_TacVest_blk",
+		"V_TacVest_blk_POLICE",
+		"V_TacVest_brn",
+		"V_TacVest_camo",
+		"V_TacVest_khk",
+		"V_TacVest_oli",
+		"V_TacVestCamo_khk",
+		"V_TacVestIR_blk",
+		"V_I_G_resistanceLeader_F",
+		"V_BandollierB_blk",
+		"V_BandollierB_cbr",
+		"V_BandollierB_khk",
+		"V_BandollierB_oli",
+		"V_BandollierB_rgr",
+		"V_Chestrig_blk",
+		"V_Chestrig_khk",
+		"V_Chestrig_oli",
+		"V_Chestrig_rgr",
+		"V_HarnessO_brn",
+		"V_HarnessO_gry",
+		"V_HarnessOGL_brn",
+		"V_HarnessOGL_gry",
+		"V_HarnessOSpec_brn",
+		"V_HarnessOSpec_gry",
+		"V_PlateCarrier1_blk",
+		"V_PlateCarrier1_rgr",
+		"V_PlateCarrier2_rgr",
+		"V_PlateCarrier3_rgr",
+		"V_PlateCarrierGL_blk",
+		"V_PlateCarrierGL_mtp",
+		"V_PlateCarrierGL_rgr",
+		"V_PlateCarrierH_CTRG",
+		"V_PlateCarrierIA1_dgtl",
+		"V_PlateCarrierIA2_dgtl",
+		"V_PlateCarrierIAGL_dgtl",
+		"V_PlateCarrierIAGL_oli",
+		"V_PlateCarrierL_CTRG",
+		"V_PlateCarrierSpec_blk",
+		"V_PlateCarrierSpec_mtp",
+		"V_PlateCarrierSpec_rgr",
+		//Apex
+		"V_TacChestrig_grn_F",
+		"V_TacChestrig_oli_F",
+		"V_TacChestrig_cbr_F",
+		"V_PlateCarrier1_tna_F",
+		"V_PlateCarrier2_tna_F",
+		"V_PlateCarrierSpec_tna_F",
+		"V_PlateCarrierGL_tna_F",
+		"V_HarnessO_ghex_F",
+		"V_HarnessOGL_ghex_F",
+		"V_BandollierB_ghex_F",
+		"V_TacVest_gen_F",
+		"V_PlateCarrier1_rgr_noflag_F",
+		"V_PlateCarrier2_rgr_noflag_F",
+		// Jets
+		"V_DeckCrew_yellow_F",
+		"V_DeckCrew_blue_F",
+		"V_DeckCrew_green_F",
+		"V_DeckCrew_red_F",
+		"V_DeckCrew_white_F",
+		"V_DeckCrew_brown_F",
+		"V_DeckCrew_violet_F"
 	};
+
+};

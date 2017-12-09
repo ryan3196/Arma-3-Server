@@ -1,12 +1,53 @@
-
-
-class Tanks
+class Glasses
+{
+	name = "Glasses";
+	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\Goggles_ca.paa";
+	items[] =
 	{
-		name = "Tanks";
-		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{
-			"Example_Class_Name_of_Vehicle_1",
-			"Example_Class_Name_of_Vehicle_2" //Notice there is not comma on the last item in this list.
-		};
+		"G_Spectacles",
+		"G_Spectacles_Tinted",
+		"G_Combat",
+		"G_Lowprofile",
+		"G_Shades_Black",
+		"G_Shades_Green",
+		"G_Shades_Red",
+		"G_Squares",
+		"G_Squares_Tinted",
+		"G_Sport_BlackWhite",
+		"G_Sport_Blackyellow",
+		"G_Sport_Greenblack",
+		"G_Sport_Checkered",
+		"G_Sport_Red",
+		"G_Tactical_Black",
+		"G_Aviator",
+		"G_Lady_Mirror",
+		"G_Lady_Dark",
+		"G_Lady_Red",
+		"G_Lady_Blue",
+		"G_Diving",
+		"G_B_Diving",
+		"G_O_Diving",
+		"G_I_Diving",
+		"G_Goggles_VR",
+		"G_Balaclava_blk",
+		"G_Balaclava_oli",
+		"G_Balaclava_combat",
+		"G_Balaclava_lowprofile",
+		"G_Bandanna_blk",
+		"G_Bandanna_oli",
+		"G_Bandanna_khk",
+		"G_Bandanna_tan",
+		"G_Bandanna_beast",
+		"G_Bandanna_shades",
+		"G_Bandanna_sport",
+		"G_Bandanna_aviator",
+		"G_Shades_Blue",
+		"G_Sport_Blackred",
+		"G_Tactical_Clear",
+		"G_Balaclava_TI_blk_F",
+		"G_Balaclava_TI_tna_F",
+		"G_Balaclava_TI_G_blk_F",
+		"G_Balaclava_TI_G_tna_F",
+		"G_Combat_Goggles_tna_F"
 	};
+};

@@ -1,12 +1,17 @@
-
-
-class Tanks
+class Diving
+{
+	name = "Diving";
+	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+	items[] =
 	{
-		name = "Tanks";
-		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{
-			"Example_Class_Name_of_Vehicle_1",
-			"Example_Class_Name_of_Vehicle_2" //Notice there is not comma on the last item in this list.
-		};
+		"G_B_Diving",
+		"G_O_Diving",
+		"G_I_Diving",
+		"V_RebreatherB",
+		"V_RebreatherIA",
+		"V_RebreatherIR",
+		"U_I_Wetsuit",
+		"U_O_Wetsuit",
+		"U_B_Wetsuit"
 	};
+};

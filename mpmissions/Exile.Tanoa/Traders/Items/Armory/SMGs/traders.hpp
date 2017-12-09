@@ -1,12 +1,12 @@
-
-
-class Tanks
+class SubMachineGuns
+{
+	name = "Sub Machine Guns";
+	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+	items[] =
 	{
-		name = "Tanks";
-		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{
-			"Example_Class_Name_of_Vehicle_1",
-			"Example_Class_Name_of_Vehicle_2" //Notice there is not comma on the last item in this list.
-		};
+		"hgun_PDW2000_F",
+		"SMG_01_F",
+		"SMG_02_F",
+		"SMG_05_F"
 	};
+};
