@@ -1687,42 +1687,6 @@ class CfgExileArsenal
 	class V_BandollierB_oli							{ quality = 1; price = 20; };
 	class V_BandollierB_rgr							{ quality = 1; price = 20; };
 
-	
-
-	
-
-	
-
-	
-
-	
-
-
-
-
-
-	
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	///////////////////////////////////////////////////////////////////////////////
 	// Pilot Stuff
 	///////////////////////////////////////////////////////////////////////////////
@@ -1744,25 +1708,6 @@ class CfgExileArsenal
 	class H_PilotHelmetFighter_B					{ quality = 5; price = 150; };
 	class H_PilotHelmetFighter_I					{ quality = 5; price = 150; };
 	class H_PilotHelmetFighter_O					{ quality = 5; price = 150; };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 	///////////////////////////////////////////////////////////////////////////////
