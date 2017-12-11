@@ -1628,7 +1628,6 @@ class CfgExileAnimals
 };
 class CfgExileArsenal
 {
-	#include "EBM\prices.hpp"
 	//#include "CUP_Weapons\prices.hpp" Commented out. File will be removed when verified CUP is complete
 	#include "Traders\Vehicles\Unarmed_Ground\prices.hpp"
 	#include "Traders\Vehicles\Armed_Ground\prices.hpp"
@@ -3312,8 +3311,8 @@ class CfgTerritories
 };
 class CfgTraderCategories
 {
-	#include "EBM\traders.hpp"
-	#include "CUP_Weapons\traders.hpp"
+	//#include "EBM\traders.hpp" Moved to another folder below
+	//#include "CUP_Weapons\traders.hpp" Will be removed when all CUP is moved to new folders.
 	#include "Traders\Vehicles\Unarmed_Ground\traders.hpp"
 	#include "Traders\Vehicles\Armed_Ground\traders.hpp"
 	#include "Traders\Vehicles\MRAP\traders.hpp"
