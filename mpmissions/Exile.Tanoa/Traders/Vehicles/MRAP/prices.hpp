@@ -18,16 +18,6 @@ class CUP_B_BRDM2_CZ_Des                                  { quality = 5; price =
 class CUP_B_BTR60_CDF                                     { quality = 5; price = 100000; };
 
 ///////////////////////////////////////////////////////////////////////////////
-// BMP2
-///////////////////////////////////////////////////////////////////////////////
-class CUP_B_BMP2_CDF                                      { quality = 5; price = 150000; };
-class CUP_B_BMP_HQ_CDF                                    { quality = 5; price = 90000; };
-class CUP_B_BMP2_CZ                                       { quality = 5; price = 150000; };
-class CUP_B_BMP2_CZ_Des                                   { quality = 5; price = 150000; };
-class CUP_B_BMP_HQ_CZ                                     { quality = 5; price = 90000; };
-class CUP_B_BMP_HQ_CZ_Des                                 { quality = 5; price = 90000; };
-
-///////////////////////////////////////////////////////////////////////////////
 // Unarmed BMP2
 ///////////////////////////////////////////////////////////////////////////////
 class CUP_B_BMP2_AMB_CDF                                  { quality = 5; price = 70000; };
