@@ -50,3 +50,12 @@
 	class V_PlateCarrierSpec_blk 					{ quality = 5; price = 200; };
 	class V_PlateCarrierSpec_mtp 					{ quality = 5; price = 200; };
 	class V_PlateCarrierSpec_rgr 					{ quality = 5; price = 200; };
+
+	///////////////////////////////////////////////////////////////////////////////
+	// Bandolliers
+	///////////////////////////////////////////////////////////////////////////////
+	class V_BandollierB_blk							{ quality = 1; price = 20; };
+	class V_BandollierB_cbr							{ quality = 1; price = 20; };
+	class V_BandollierB_khk							{ quality = 1; price = 20; };
+	class V_BandollierB_oli							{ quality = 1; price = 20; };
+	class V_BandollierB_rgr							{ quality = 1; price = 20; };
