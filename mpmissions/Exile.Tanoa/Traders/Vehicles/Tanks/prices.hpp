@@ -1,6 +1,23 @@
 // Completed by: AkToker 12/10/17
 
 ///////////////////////////////////////////////////////////////////////////////
+// BMP2
+///////////////////////////////////////////////////////////////////////////////
+class CUP_B_BMP2_CDF                                      { quality = 5; price = 150000; };
+class CUP_B_BMP_HQ_CDF                                    { quality = 5; price = 90000; };
+class CUP_B_BMP2_CZ                                       { quality = 5; price = 150000; };
+class CUP_B_BMP2_CZ_Des                                   { quality = 5; price = 150000; };
+class CUP_B_BMP_HQ_CZ                                     { quality = 5; price = 90000; };
+class CUP_B_BMP_HQ_CZ_Des                                 { quality = 5; price = 90000; };
+
+///////////////////////////////////////////////////////////////////////////////
+// Unarmed BMP2
+///////////////////////////////////////////////////////////////////////////////
+class CUP_B_BMP2_AMB_CDF                                  { quality = 5; price = 70000; };
+class CUP_B_BMP2_AMB_CZ                                   { quality = 5; price = 70000; };
+class CUP_B_BMP2_AMB_CZ_Des                               { quality = 5; price = 70000; };
+
+///////////////////////////////////////////////////////////////////////////////
 // LAV 25
 ///////////////////////////////////////////////////////////////////////////////
 class CUP_B_LAV25_USMC                                  { quality = 6; price = 275000; };
