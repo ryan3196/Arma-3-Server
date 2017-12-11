@@ -11,10 +11,10 @@ class Ammunition
 		"10Rnd_762x54_Mag",
 		"10Rnd_93x64_DMR_05_Mag",
 		"11Rnd_45ACP_Mag",
-		//"130Rnd_338_Mag", SPMG
+		"130Rnd_338_Mag", SPMG
 		"150Rnd_762x54_Box",
 		"150Rnd_762x54_Box_Tracer",
-		//"150Rnd_93x64_Mag", // NAVID
+		"150Rnd_93x64_Mag", // NAVID
 		"16Rnd_9x21_Mag",
 		"200Rnd_65x39_cased_Box",
 		"200Rnd_65x39_cased_Box_Tracer",
