@@ -1726,7 +1726,6 @@ class CfgExileArsenal
 	class Exile_Weapon_Makarov						{ quality = 1; price = 100; };
 	class Exile_Weapon_Taurus						{ quality = 1; price = 100; };
 	class Exile_Weapon_TaurusGold					{ quality = 1; price = 150; };
-	class Exile_Weapon_M1014						{ quality = 2; price = 200; };
 	class Exile_Weapon_SA61							{ quality = 1; price = 150; };
 	class Exile_Weapon_m107							{ quality = 5; price = 850; };
 	class Exile_Weapon_ksvk							{ quality = 5; price = 850; };
