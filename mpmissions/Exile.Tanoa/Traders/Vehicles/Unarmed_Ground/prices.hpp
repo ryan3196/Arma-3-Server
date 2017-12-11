@@ -78,9 +78,9 @@
 	class Exile_Car_Ural_Covered_Yellow			{ quality = 2; price = 20000; sellPrice = 20000; };
 	class Exile_Car_Ural_Covered_Worker			{ quality = 2; price = 20000; sellPrice = 20000; };
 	class Exile_Car_Ural_Covered_Military		        { quality = 2; price = 20000; sellPrice = 20000; };
-	class CUP_B_MTVR_USA                                    { quality = 2; price = 100000; sellPrice = 20000; };
-	class CUP_B_MTVR_USMC                                   { quality = 2; price = 100000; sellPrice = 20000; };
-	class CUP_B_Ural_CDF                                    { quality = 2; price = 100000; sellPrice = 20000; };
+	class CUP_B_MTVR_USA                                    { quality = 2; price = 20000; sellPrice = 20000; };
+	class CUP_B_MTVR_USMC                                   { quality = 2; price = 20000; sellPrice = 20000; };
+	class CUP_B_Ural_CDF                                    { quality = 2; price = 20000; sellPrice = 20000; };
 	class CUP_B_MTVR_Ammo_USA                               { quality = 2; price = 20000; sellPrice = 20000; };
 	class CUP_B_MTVR_Refuel_USA                             { quality = 2; price = 20000; sellPrice = 20000; };
 	class CUP_B_MTVR_Repair_USA                             { quality = 2; price = 20000; sellPrice = 20000; };
