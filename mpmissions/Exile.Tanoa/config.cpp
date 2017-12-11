@@ -1633,10 +1633,10 @@ class CfgExileArsenal
 	#include "Traders\Vehicles\Armed_Ground\prices.hpp"
 	#include "Traders\Vehicles\MRAP\prices.hpp"
 	#include "Traders\Vehicles\Tanks\prices.hpp"
-	#include "Traders\Vehicles\Unarmed_Air\prices.hpp"
-	#include "Traders\Vehicles\Unarmed_Air\prices.hpp"
-	#include "Traders\Vehicles\Armed_Air\prices.hpp"
-	#include "Traders\Vehicles\Armed_Air\prices.hpp"
+	#include "Traders\Vehicles\Unarmed_Air\Fixed_Wing\prices.hpp"
+	#include "Traders\Vehicles\Unarmed_Air\Rotor_Wing\prices.hpp"
+	#include "Traders\Vehicles\Armed_Air\Fixed_Wing\prices.hpp"
+	#include "Traders\Vehicles\Armed_Air\Rotor_Wing\prices.hpp"
 	#include "Traders\Vehicles\UAVs\prices.hpp"
 	#include "Traders\Vehicles\Boats\prices.hpp"
 	
@@ -1677,7 +1677,7 @@ class CfgExileArsenal
 
 	
 
-
+	//Items that need to be moved into their folders.
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Pilot Stuff
@@ -3316,10 +3316,10 @@ class CfgTraderCategories
 	#include "Traders\Vehicles\Armed_Ground\traders.hpp"
 	#include "Traders\Vehicles\MRAP\traders.hpp"
 	#include "Traders\Vehicles\Tanks\traders.hpp"
-	#include "Traders\Vehicles\Unarmed_Air\traders.hpp"
-	#include "Traders\Vehicles\Unarmed_Air\traders.hpp"
-	#include "Traders\Vehicles\Armed_Air\traders.hpp"
-	#include "Traders\Vehicles\Armed_Air\traders.hpp"
+	#include "Traders\Vehicles\Unarmed_Air\Fixed_Wing\traders.hpp"
+	#include "Traders\Vehicles\Unarmed_Air\Rotor_Wing\traders.hpp"
+	#include "Traders\Vehicles\Armed_Air\Fixed_Wing\traders.hpp"
+	#include "Traders\Vehicles\Armed_Air\Rotor_Wing\traders.hpp"
 	#include "Traders\Vehicles\UAVs\traders.hpp"
 	#include "Traders\Vehicles\Boats\traders.hpp"
 	
