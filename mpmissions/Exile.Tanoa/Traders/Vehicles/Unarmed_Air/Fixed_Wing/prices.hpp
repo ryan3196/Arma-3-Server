@@ -10,9 +10,9 @@ class Exile_Plane_Cessna                                       { quality = 1; pr
 class Exile_Plane_AN2_Green                                    { quality = 2; price = 17000; };
 class Exile_Plane_AN2_White                                    { quality = 2; price = 17000; };
 class Exile_Plane_AN2_Stripe                                   { quality = 2; price = 17000; };
-class Exile_Plane_Ceasar                                       { quality = 2; price = 17000 };
-class Exile_Plane_BlackfishInfantry                            { quality = 4; price = 200000 };
-class Exile_Plane_BlackfishVehicle                             { quality = 4; price = 250000 };
+class Exile_Plane_Ceasar										{ quality = 2; price = 17000; };
+class Exile_Plane_BlackfishInfantry								{ quality = 4; price = 200000; };
+class Exile_Plane_BlackfishVehicle								{ quality = 4; price = 250000; };
 
 ///////////////////////////////////////////////////////////////////////////////
 // Cup Planes
