@@ -250,8 +250,6 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// BTR40
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_BTR40_MG_Green 				{ quality = 2; price = 15000; };
-	class Exile_Car_BTR40_MG_Camo 				{ quality = 2; price = 15000; };
 	class Exile_Car_BTR40_Green 				{ quality = 2; price = 15000; };
 	class Exile_Car_BTR40_Camo 				{ quality = 2; price = 15000; };
 	
