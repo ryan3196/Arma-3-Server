@@ -3408,7 +3408,7 @@ class CfgTraders
 			"StaticMGs",
 			"Explosives",
 			"Navigation",
-			"CUP_Launchers"
+			"Launchers"
 		};
 	};
 
