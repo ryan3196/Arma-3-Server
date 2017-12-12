@@ -21,9 +21,5 @@ class CUP_B_C130J_USMC                                	       { quality = 3; pri
 class CUP_B_C130J_Cargo_USMC                                   { quality = 3; price = 100000; };
 class CUP_B_C130J_GB                                 	         { quality = 3; price = 100000; };
 class CUP_B_C130J_Cargo_GB                                     { quality = 3; price = 100000; };
-class CUP_B_CH47F_USA                                          { quality = 2; price = 70000; };
-class CUP_B_CH47F_VIV_USA                                      { quality = 2; price = 70000; };
-class CUP_B_CH47F_GB                                           { quality = 2; price = 70000; };
-class CUP_B_CH47F_VIV_GB                                       { quality = 2; price = 70000; };
 class CUP_B_MV22_USMC                                          { quality = 4; price = 150000; };
 class CUP_B_MV22_VIV_USMC                                      { quality = 4; price = 150000; };

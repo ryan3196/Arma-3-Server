@@ -64,10 +64,10 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Ural (Open)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Ural_Open_Blue				{ quality = 2; price = 20000; sellPrice = 20000; sellPrice = 20000; };
-	class Exile_Car_Ural_Open_Yellow			{ quality = 2; price = 20000; sellPrice = 20000; sellPrice = 20000; };
-	class Exile_Car_Ural_Open_Worker			{ quality = 2; price = 20000; sellPrice = 20000; sellPrice = 20000; };
-	class Exile_Car_Ural_Open_Military			{ quality = 2; price = 20000; sellPrice = 20000; sellPrice = 20000; };
+	class Exile_Car_Ural_Open_Blue				{ quality = 2; price = 20000; sellPrice = 20000; };
+	class Exile_Car_Ural_Open_Yellow			{ quality = 2; price = 20000; sellPrice = 20000; };
+	class Exile_Car_Ural_Open_Worker			{ quality = 2; price = 20000; sellPrice = 20000; };
+	class Exile_Car_Ural_Open_Military			{ quality = 2; price = 20000; sellPrice = 20000; };
 	class CUP_B_Ural_Open_CDF                      		{ quality = 2; price = 20000; sellPrice = 20000; };
 	class CUP_B_Ural_Empty_CDF                     		{ quality = 2; price = 20000; sellPrice = 20000; };
 	
@@ -250,8 +250,6 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// BTR40
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_BTR40_MG_Green 				{ quality = 2; price = 15000; };
-	class Exile_Car_BTR40_MG_Camo 				{ quality = 2; price = 15000; };
 	class Exile_Car_BTR40_Green 				{ quality = 2; price = 15000; };
 	class Exile_Car_BTR40_Camo 				{ quality = 2; price = 15000; };
 	

@@ -152,8 +152,6 @@ class Unarmed_Ground
 			"Exile_Car_SUV_Black",
 			"Exile_Car_SUV_Grey",
 			"Exile_Car_SUV_Orange",
-			"Exile_Car_BTR40_MG_Green",
-			"Exile_Car_BTR40_MG_Camo",
 			"Exile_Car_BTR40_Green",
 			"Exile_Car_BTR40_Camo",
 			"Exile_Car_HMMWV_MEV_Green",
