@@ -343,17 +343,17 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	DMS_Bandit_Soldier_MoneyGain		= 50;						// The amount of Poptabs gained for killing a bandit soldier
 	DMS_Bandit_Soldier_RepGain			= 10;						// The amount of Respect gained for killing a bandit soldier
 	DMS_Bandit_Soldier_RankGain			= 15;
-	DMS_Bandit_Soldier_SpawnMoney		= 100;						// The amount of Poptabs carried by a bandit soldier
+	DMS_Bandit_Soldier_SpawnMoney		= 200;						// The amount of Poptabs carried by a bandit soldier
 
 	DMS_Bandit_Static_MoneyGain			= 75;						// The amount of Poptabs gained for killing a bandit static gunner
 	DMS_Bandit_Static_RepGain			= 15;						// The amount of Respect gained for killing a bandit static gunner
 	DMS_Bandit_Static_RankGain			= 30;
-	DMS_Bandit_Static_SpawnMoney		= 150;						// The amount of Poptabs carried by a bandit static gunner
+	DMS_Bandit_Static_SpawnMoney		= 250;						// The amount of Poptabs carried by a bandit static gunner
 
 	DMS_Bandit_Vehicle_MoneyGain		= 100;						// The amount of Poptabs gained for killing a bandit vehicle crew member
 	DMS_Bandit_Vehicle_RepGain			= 25;						// The amount of Respect gained for killing a bandit vehicle crew member
 	DMS_Bandit_Vehicle_RankGain			= 50;
-	DMS_Bandit_Vehicle_SpawnMoney		= 200;						// The amount of Poptabs carried by a bandit vehicle crew member
+	DMS_Bandit_Vehicle_SpawnMoney		= 400;						// The amount of Poptabs carried by a bandit vehicle crew member
 
 /* DonkeyPunchDMS Custom Settings for Hero AI*/
 	DMS_Hero_Soldier_MoneyGain			= 100;						// The amount of Poptabs gained for killing a hero soldier
@@ -968,9 +968,9 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 
 	DMS_ai_use_launchers				= true;						// Enable/disable spawning an AI in a group with a launcher
 	DMS_ai_launchers_per_group			= 2;						// How many units per AI group can get a launcher.
-	DMS_ai_use_launchers_chance			= 50;						// Percentage chance to actually spawn the launcher (per-unit). With "DMS_ai_launchers_per_group" set to 2, and "DMS_ai_use_launchers_chance" set to 50, there will be an average of 1 launcher per group.
-	DMS_AI_launcher_ammo_count			= 2;						// How many rockets an AI will get with its launcher
-	DMS_ai_remove_launchers				= true;						// Remove rocket launchers on AI death
+	DMS_ai_use_launchers_chance			= 100;						// Percentage chance to actually spawn the launcher (per-unit). With "DMS_ai_launchers_per_group" set to 2, and "DMS_ai_use_launchers_chance" set to 50, there will be an average of 1 launcher per group.
+	DMS_AI_launcher_ammo_count			= 1;						// How many rockets an AI will get with its launcher
+	DMS_ai_remove_launchers				= flase;						// Remove rocket launchers on AI death
 
 	DMS_AI_wep_launchers_AT =			[							// AT Launchers
 											#ifdef GIVE_AI_APEX_WEAPONS
@@ -978,20 +978,17 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 											#endif
 											"launch_NLAW_F",
 											"launch_RPG32_F",
-											"launch_B_Titan_short_F",
-											"CUP_launch_Javelin",
+											
+											
 											"CUP_launch_M47",
 											"CUP_launch_MAAWS",
-											"CUP_launch_MAAWS_Scope",
 											"CUP_launch_Metis",
 											"CUP_launch_RPG18"
 										];
 	DMS_AI_wep_launchers_AA =			[							// AA Launchers
 											"launch_B_Titan_F",
 											"CUP_launch_Igla",
-											"CUP_launch_M136",
-											"CUP_launch_MAAWS",
-											"CUP_launch_MAAWS_Scope",
+											"launch_B_Titan_tna_F",
 											"CUP_launch_9K32Strela"
 											
 											
