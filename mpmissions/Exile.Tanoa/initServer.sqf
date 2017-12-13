@@ -141,7 +141,14 @@ private _vehicles = [
 ["Exile_Sign_BoatCustoms_Small", [5405.88, 7569.93, 0.711436], [-0.893927, -0.448213, 0], [0, 0, 1], false],
 ["Exile_Sign_BoatCustoms", [2220.24, 8653.51, 2.08346], [-0.0197386, 0.999805, 0], [0, 0, 1], false],
 ["Exile_Sign_Aircraft", [7194.31, 6955.86, 3.66304], [-0.947899, -0.318572, 0], [0, 0, 1], false],
-["Exile_Sign_AircraftCustoms", [7191.48, 6964.38, 3.70003], [-0.929411, -0.369046, 0], [0, 0, 1], false]
+["Exile_Sign_AircraftCustoms", [7191.48, 6964.38, 3.70003], [-0.929411, -0.369046, 0], [0, 0, 1], false],
+
+// Added Locker at main island south air field and 2 ammo depots.
+
+["USMC_WarfareBVehicleServicePoint", [6910.17, 7490.26, 4.0642], [-0.997917, -0.0645141, 0], [0, 0, 1], true],
+["CDF_WarfareBVehicleServicePoint", [6939.78, 7496.49, 4.30458], [0.148652, -0.98889, 0], [0, 0, 1], true],
+["Exile_Sign_Locker", [7211.62, 6905.14, 3.4447], [-0.753954, -0.656927, 0], [0, 0, 1], true],
+["Exile_Locker", [7210.52, 6906.84, 2.44053], [-0.764592, -0.644228, -0.0192078], [-0.00265204, -0.026657, 0.999641], true]
 ];
 
 {
