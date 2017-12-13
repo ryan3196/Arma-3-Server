@@ -1999,6 +1999,9 @@ class CfgExileCustomCode
 	ExileClient_gui_wasteDumpDialog_show = "overrides\ExileClient_gui_wasteDumpDialog_show.sqf";
 	ExileServer_system_trading_network_wasteDumpRequest = "overrides\ExileServer_system_trading_network_wasteDumpRequest.sqf";
 	
+	ExileClient_gui_selectSpawnLocation_event_onSpawnButtonClick = "overrides\ExileClient_gui_selectSpawnLocation_event_onSpawnButtonClick.sqf";
+	ExileClient_gui_selectSpawnLocation_show = "overrides\ExileClient_gui_selectSpawnLocation_show.sqf";
+	
 	
 	
 	/*
@@ -2923,7 +2926,7 @@ class CfgInteractionMenus
 	class Bikes
 	{
 		targetType = 2;
-		target = "Bicycle";
+		target = "Boat";
 
 		class Actions
 		{
@@ -2936,7 +2939,7 @@ class CfgInteractionMenus
 			
 			class PackDeployedVehicle: ExileAbstractAction
 			{
-				title = "Pack Bike";
+				title = "Pack Boat";
 				condition = "call ExAd_XM8_DV_fnc_canPack";
 				action = "call ExAd_XM8_DV_fnc_pack";
 			};
@@ -3408,7 +3411,7 @@ class CfgTraders
 			"StaticMGs",
 			"Explosives",
 			"Navigation",
-			"Launchers"
+			"CUP_Launchers"
 		};
 	};
 
@@ -4439,7 +4442,7 @@ class CfgVehicleTransport
 
 class CfgXM8
 {
-	extraApps[] = {"ExAd_VG","ExAd_Info","ExAd_CHVD","ExAd_Journal","ExAd_Bike","ExAd_Quad","ExAd_SB"};
+	extraApps[] = {"ExAd_VG","ExAd_Info","ExAd_CHVD","ExAd_Journal","ExAd_Boat","ExAd_Quad","ExAd_SB"};
 	
 	class ExAd_VG 
 	{
@@ -4479,16 +4482,16 @@ class CfgXM8
 		onOpen = "ExAdClient\XM8\Apps\Journal\onOpen.sqf";
 		onClose = "ExAdClient\XM8\Apps\Journal\onClose.sqf";
 	};
-	class ExAd_Bike
+	class ExAd_Boat
 	{
-		title = "Deploy Bike";
+		title = "Deploy Boat";
 		config = "ExadClient\XM8\Apps\DeployVehicle\config.sqf";
 		bambiState = 0;
-		vehicleClass = "Exile_Bike_MountainBike";
-		recipe[] = {{"Exile_Item_ExtensionCord",-1}};
+		vehicleClass = "Exile_Boat_RubberDuck_Black";
+		recipe[] = {{"Exile_Item_DuctTape",-1}};
 		packable = 1;
 		autoCleanUp = 1;
-		quickFunction = "['ExAd_Bike'] call ExAd_XM8_DV_fnc_spawnVehicle";
+		quickFunction = "['ExAd_Boat'] call ExAd_XM8_DV_fnc_spawnVehicle";
 	};
 	class ExAd_Quad
 	{

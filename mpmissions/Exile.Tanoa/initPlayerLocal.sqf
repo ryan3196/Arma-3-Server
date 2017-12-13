@@ -82,7 +82,15 @@ private _npcs = [
 ["Exile_Guard_01", ["Acts_TreatingWounded01","Acts_TreatingWounded02","Acts_TreatingWounded03","Acts_TreatingWounded04","Acts_TreatingWounded05","Acts_TreatingWounded06"], "", "WhiteHead_16", [[],[],[],["U_I_C_Soldier_Para_1_F",[]],[],[],"H_Cap_tan","",[],["","","","","",""]], [7980.3, 12419.1, 122.93], [-0.195554, -0.980272, 0.0287372], [0, 0.029303, 0.999571]],
 ["Exile_Guard_02", ["Acts_LyingWounded_loop1","Acts_LyingWounded_loop2","Acts_LyingWounded_loop3"], "", "WhiteHead_16", [[],[],[],["U_I_C_Soldier_Bandit_3_F",[]],[],[],"","",[],["","","","","",""]], [7979.94, 12418.6, 122.979], [-0.965939, 0.258769, 0], [0, 0, 1]],
 ["Exile_Guard_02", ["InBaseMoves_SittingRifle1","InBaseMoves_SittingRifle2"], "", "GreekHead_A3_09", [["arifle_AKM_F","","","",["30Rnd_762x39_Mag_F",30],[],""],[],[],["U_I_C_Soldier_Para_5_F",[["30Rnd_762x39_Mag_F",30,3]]],[],[],"H_StrawHat_dark","",[],["","","","","",""]], [7994.25, 12416.7, 123.691], [0.368708, 0.929545, 0], [0, 0, 1]],
-["Exile_Trader_BoatCustoms", ["HubSittingChairB_idle1","HubSittingChairB_idle2","HubSittingChairB_idle3","HubSittingChairB_move1"], "Exile_Trader_BoatCustoms", "WhiteHead_06", [["arifle_CTAR_blk_F","","","",["30Rnd_580x42_Mag_F",30],[],""],[],[],["U_C_Poloshirt_salmon",[["30Rnd_580x42_Mag_F",30,1]]],[],[],"","",[],["","","","","",""]], [11058.1, 13384.3, 0.884787], [-0.881628, 0.471944, 0], [0, 0, 1]]
+["Exile_Trader_BoatCustoms", ["HubSittingChairB_idle1","HubSittingChairB_idle2","HubSittingChairB_idle3","HubSittingChairB_move1"], "Exile_Trader_BoatCustoms", "WhiteHead_06", [["arifle_CTAR_blk_F","","","",["30Rnd_580x42_Mag_F",30],[],""],[],[],["U_C_Poloshirt_salmon",[["30Rnd_580x42_Mag_F",30,1]]],[],[],"","",[],["","","","","",""]], [11058.1, 13384.3, 0.884787], [-0.881628, 0.471944, 0], [0, 0, 1]],
+
+// New Traders
+
+["Exile_Trader_WasteDump", [], "Exile_Trader_WasteDump", "WhiteHead_19", [[],[],[],["U_I_G_Story_Protagonist_F",[]],["V_Rangemaster_belt",[]],[],"H_MilCap_gry","G_Tactical_Black",[],["","","","","",""]], [11592.3, 13125.4, 6.95144], [-0.0976671, -0.995219, 0], [0, 0, 1]],
+["Exile_Trader_Armory", [], "Exile_Trader_Armory", "WhiteHead_12", [["srifle_DMR_06_olive_F","","","",[],[],""],[],[],["U_Rangemaster",[]],["V_Rangemaster_belt",[]],[],"H_Cap_headphones","G_Shades_Black",[],["","","","","",""]], [11545.6, 13153.4, 6.95144], [-0.263351, -0.9647, 0], [0, 0, 1]],
+["Exile_Trader_Equipment", [], "Exile_Trader_Equipment", "WhiteHead_09", [["arifle_MX_GL_Black_F","","","",[],[],""],[],[],["U_BG_Guerrilla_6_1",[]],["V_I_G_resistanceLeader_F",[]],[],"H_Watchcap_khk","",[],["","","","","",""]], [11544, 13154.1, 6.95144], [-0.25774, -0.966214, 0], [0, 0, 1]],
+["Exile_Trader_Hardware", [], "Exile_Trader_Hardware", "GreekHead_A3_07", [[],[],[],["U_C_WorkerCoveralls",[]],["V_BandollierB_rgr",[]],["B_UAV_01_backpack_F",[]],"H_Booniehat_khk_hs","G_Tactical_Black",[],["","","","","",""]], [11542.4, 13154.3, 6.95144], [-0.223792, -0.974637, 0], [0, 0, 1]]
+
 ];
 
 {
@@ -115,3 +123,8 @@ private _npcs = [
 }
 forEach _npcs;
 
+eXpochClientPlayerLastBaseSpawn = diag_tickTime;		// Do not change this
+eXpochBaseRespawnTimeLimit = 900;					// How long before the players can respawn at their base since the last death or joining server  - default: 900
+eXpochBaseSpawnLevelRequired = 4; 					// Required Level of Base for Allowing Spawn - default: 4
+eXpochBaseSpawnAllowedType = "ExileTerritoryBuildRights"; // If only owners can spawn change this to "ExileOwnerUID" - default: "ExileTerritoryBuildRights"
+eXpochBaseSpawnDeadBodyDistLimit = 500;		// If the players dead body is within 500m of their own base, they will not get the option to spawn there
