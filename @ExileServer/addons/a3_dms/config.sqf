@@ -970,7 +970,7 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	DMS_ai_launchers_per_group			= 2;						// How many units per AI group can get a launcher.
 	DMS_ai_use_launchers_chance			= 100;						// Percentage chance to actually spawn the launcher (per-unit). With "DMS_ai_launchers_per_group" set to 2, and "DMS_ai_use_launchers_chance" set to 50, there will be an average of 1 launcher per group.
 	DMS_AI_launcher_ammo_count			= 1;						// How many rockets an AI will get with its launcher
-	DMS_ai_remove_launchers				= flase;						// Remove rocket launchers on AI death
+	DMS_ai_remove_launchers				= false;						// Remove rocket launchers on AI death
 
 	DMS_AI_wep_launchers_AT =			[							// AT Launchers
 											#ifdef GIVE_AI_APEX_WEAPONS
