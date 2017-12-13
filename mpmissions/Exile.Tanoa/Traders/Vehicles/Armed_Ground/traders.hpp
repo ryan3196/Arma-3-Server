@@ -44,6 +44,18 @@ class Armed_Ground
 			"CUP_B_UAZ_SPG9_CDF",
 			"CUP_B_UAZ_SPG9_ACR",
 			"CUP_B_UAZ_METIS_CDF",
-			"CUP_B_UAZ_METIS_ACR"
+			"CUP_B_UAZ_METIS_ACR",
+
+			"O_T_MRAP_02_hmg_ghex_F",
+			"O_T_MRAP_02_gmg_ghex_F",
+			"O_T_UGV_01_rcws_ghex_F",
+			"B_MRAP_01_gmg_F",
+			"B_MRAP_01_hmg_F",
+			"B_UGV_01_rcws_F",
+			"B_T_MRAP_01_gmg_F",
+			"B_T_MRAP_01_hmg_F",
+			"I_MRAP_03_hmg_F",
+			"I_MRAP_03_gmg_F",
+			"I_UGV_01_rcws_F"
 		};
 	};
