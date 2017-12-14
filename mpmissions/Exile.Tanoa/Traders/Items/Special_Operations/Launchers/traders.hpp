@@ -14,6 +14,11 @@ class Launchers
 		"CUP_launch_MAAWS",
 		"CUP_launch_MAAWS_Scope",
 		"CUP_launch_Metis",
-		"CUP_launch_RPG18"
+		"CUP_launch_RPG18",
+		"launch_B_Titan_tna_F",
+		"launch_B_Titan_F",
+		"launch_RPG32_F",
+		"launch_NLAW_F",
+		"launch_RPG7_F"
 	};
 };
