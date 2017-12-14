@@ -332,6 +332,25 @@
 	// Zamak
 	///////////////////////////////////////////////////////////////////////////////
 	class Exile_Car_Zamak 					{ quality = 3; price = 43000; };
+	class 0_Truck_02_covered_F 				{ quality = 3; price = 43000; };
+	class 0_Truck_02_transport_F 				{ quality = 3; price = 43000; };
+	class I_Truck_02_covered_F 				{ quality = 3; price = 43000; };
+	class I_Truck_02_transport_F 				{ quality = 3; price = 43000; };
+	class C_Truck_02_transport_F 				{ quality = 3; price = 43000; };
+	class C_Truck_02_transport_F 				{ quality = 3; price = 43000; };
+	class 0_Truck_02_box_F 					{ quality = 3; price = 43000; };
+	class 0_Truck_02_medical_F 				{ quality = 3; price = 43000; };
+	class 0_Truck_02_Ammo_F 				{ quality = 3; price = 43000; };
+	class 0_Truck_02_fuel_F 				{ quality = 3; price = 43000; };
+	class I_Truck_02_box_F 					{ quality = 3; price = 43000; };
+	class I_Truck_02_medical_F 				{ quality = 3; price = 43000; };
+	class I_Truck_02_Ammo_F 				{ quality = 3; price = 43000; };
+	class I_Truck_02_fuel_F 				{ quality = 3; price = 43000; };
+	class C_Truck_02_box_F 					{ quality = 3; price = 43000; };
+	class C_Truck_02_fuel_F 				{ quality = 3; price = 43000; };
+	class C_IDAP_Truck_02_F 				{ quality = 3; price = 43000; };
+	class C_IDAP_Truck_02_transport_F 			{ quality = 3; price = 43000; };
+	class C_IDAP_Truck_02_water_F 				{ quality = 3; price = 43000; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Prowler
