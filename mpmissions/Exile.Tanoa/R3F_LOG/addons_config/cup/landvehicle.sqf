@@ -513,6 +513,8 @@ R3F_LOG_CFG_can_transport_cargo = R3F_LOG_CFG_can_transport_cargo +
             ["CUP_I_UAZ_AGS30_UN", 25],
             ["CUP_I_M113_RACS", 25],
             ["CUP_I_M113_UN", 25],
+            ["CUP_B_M113_USA", 25],
+	    ["CUP_B_M163_USA", 25],
             ["CUP_BAF_Jackal2_L2A1_W", 25],
             ["CUP_BAF_Jackal2_L2A1_D", 25],
             ["CUP_BAF_Jackal2_GMG_D", 25],
