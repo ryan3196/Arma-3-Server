@@ -18,7 +18,7 @@ class Boats
 		"Exile_Boat_SDV_Digital",
 		"Exile_Boat_SDV_Grey",
 		"Exile_Boat_WaterScooter",
-		"Exile_Boat_RHIB",
+		//"Exile_Boat_RHIB",         //Commented out because of error in server
 		"CUP_B_RHIB2Turret_USMC"
 
 	};
