@@ -80,6 +80,15 @@ class CfgFunctions
 
 class RscTitles
 {
+	class Default
+	{
+		idd = -1;
+		fadein = 0;
+		fadeout = 0;
+		duration = 0;
+	};
+	// Scavenge system
+	#include "dialogs\ExileScavengeUI.hpp"
 	#include "ExAdClient\RscTitles.cpp"
 };
 
@@ -97,6 +106,11 @@ class CfgNetworkMessages
 	#include "infiSTAR_defines.hpp"
 	#include "infiSTAR_AdminMenu.hpp"
 	#include "infiSTAR_chat.hpp"
+	
+	#include "CfgFunctions.cpp"
+	#include "CfgScavengeRecipes.cpp"
+	#include "CfgExileScavenge.cpp"
+	#include "CfgExileHoldActions.cpp"
 
 
 

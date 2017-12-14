@@ -2002,6 +2002,8 @@ class CfgExileCustomCode
 	ExileClient_gui_selectSpawnLocation_event_onSpawnButtonClick = "overrides\ExileClient_gui_selectSpawnLocation_event_onSpawnButtonClick.sqf";
 	ExileClient_gui_selectSpawnLocation_show = "overrides\ExileClient_gui_selectSpawnLocation_show.sqf";
 	
+	// Exile Client Overrides
+	ExileClient_object_player_initialize = "Exile_Client_Overrides\ExileClient_object_player_initialize.sqf";
 	
 	
 	/*
@@ -2433,21 +2435,29 @@ class CfgInteractionMenus
 				action = "call ExileClient_ClaimVehicles_network_claimRequestSend";
 			};
 
-			// Repairs a vehicle to 100%. Requires Duckttape
-			class Repair: ExileAbstractAction
-			{
-				title = "Repair";
-				condition = "true";
-				action = "['RepairVehicle', _this select 0] call ExileClient_action_execute";
-			};
-
-			// Hot-wires a vehicle
-			class Hotwire: ExileAbstractAction
-			{
-				title = "Hotwire";
-				condition = "((locked ExileClientInteractionObject) isEqualTo 2) && ((locked ExileClientInteractionObject) != 1)";
-				action = "['HotwireVehicle', _this select 0] call ExileClient_action_execute";
-			};
+            // Repairs a vehicle to 100%. Requires Duckttape
+            class Repair: ExileAbstractAction
+            {
+                title = "Repair";
+                condition = "true";
+                action = "['RepairVehicle', _this select 0] call ExileClient_action_execute";
+            };
+            
+            // Salvage a vehicle
+            class Salvage: ExileAbstractAction
+            {
+                title = "Salvage Vehicle";
+                condition = "(!(alive (ExileClientInteractionObject)))";
+                action = "_this call SV_fnc_SalvageVehicle";
+            };            
+            
+            // Hot-wires a vehicle
+            class Hotwire: ExileAbstractAction
+            {
+                title = "Hotwire";
+                condition = "((locked ExileClientInteractionObject) isEqualTo 2) && ((locked ExileClientInteractionObject) != 1)";
+                action = "['HotwireVehicle', _this select 0] call ExileClient_action_execute";
+            };
 
 			// Flips a vehicle so the player doesnt have to call an admin
 			// Check if vector up is fucked
