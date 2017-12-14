@@ -976,11 +976,7 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 											#ifdef GIVE_AI_APEX_WEAPONS
 											"launch_RPG7_F",
 											#endif
-											"launch_NLAW_F",
 											"launch_RPG32_F",
-											
-											
-											"CUP_launch_M47",
 											"CUP_launch_MAAWS",
 											"CUP_launch_Metis",
 											"CUP_launch_RPG18"
