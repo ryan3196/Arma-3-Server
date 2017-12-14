@@ -69,7 +69,6 @@ class Unarmed_Ground
 			"Exile_Car_Tractor_Red",
 			"Exile_Car_OldTractor_Red",
 			"Exile_Car_TowTractor_White",
-			"CUP_B_TowingTractor_USMC",
 			"Exile_Car_Octavius_White",
 			"Exile_Car_Octavius_Black",
 			"Exile_Car_UAZ_Green",
