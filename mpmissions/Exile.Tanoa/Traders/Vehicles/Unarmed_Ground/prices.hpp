@@ -180,7 +180,7 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Hatchback (Sport)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Hatchback_Sport_Red			{ quality = 4; price = 14000; };
+	class Exile_Car_Hatchback_Sport_Red			{ quality = 2; price = 14000; };
 	class Exile_Car_Hatchback_Sport_Blue			{ quality = 2; price = 12000; };
 	class Exile_Car_Hatchback_Sport_Orange			{ quality = 2; price = 12000; };
 	class Exile_Car_Hatchback_Sport_White			{ quality = 2; price = 12000; };
