@@ -3301,22 +3301,22 @@ class CfgTerritories
 	maximumRadius = 150;
 
 	// The above * 2 plus coverving the 20m you can move while placing things
-	minimumDistanceToOtherTerritories = 325; 
+	minimumDistanceToOtherTerritories = 200; 
 
 	// Maximum number of territories a player can own
-	maximumNumberOfTerritoriesPerPlayer = 2;
+	maximumNumberOfTerritoriesPerPlayer = 3;
 
 	/**
 	 * Defines the minimum distance to safe zones / trader cities where players
 	 * cannot build territories
 	 */
-	minimumDistanceToTraderZones = 1000;
+	minimumDistanceToTraderZones = 800;
 
 	/**
 	 * Defines the minimum distance to spawn zones where players
 	 * cannot build territories
 	 */
-	minimumDistanceToSpawnZones = 1000;
+	minimumDistanceToSpawnZones = 800;
 
 	// Amount of pop tabs per object to pay
 	popTabAmountPerObject = 10;
@@ -3548,8 +3548,9 @@ class CfgTrading
 		Level2 = 5000;
 		Level3 = 10000;
 		Level4 = 15000;
-		Level5 = 20000;
-		Level6 = 25000;
+		Level5 = 25000;
+		Level6 = 40000;
+		Level7 = 60000;
 	};
 };
 class CfgVehicleCustoms

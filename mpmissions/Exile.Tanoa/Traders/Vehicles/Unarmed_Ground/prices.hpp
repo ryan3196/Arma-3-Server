@@ -204,7 +204,6 @@
 	class B_T_Truck_01_fuel_F 				{ quality = 4; price = 75000; };
 	class B_T_Truck_01_medical_F 				{ quality = 3; price = 48000; };
 	class B_T_Truck_01_repair_F 				{ quality = 4; price = 75000; };
-	class B_T_Truck_01_repair_F 				{ quality = 4; price = 75000; };
 	class B_T_Truck_01_transport_F 				{ quality = 3; price = 48000; };
 	class B_T_Truck_01_covered_F 				{ quality = 3; price = 48000; };
 
