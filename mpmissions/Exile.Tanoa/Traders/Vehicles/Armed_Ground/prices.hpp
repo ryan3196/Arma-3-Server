@@ -1,6 +1,32 @@
 // Completed by: AkToker 12/10/17
 
-
+///////////////////////////////////////////////////////////////////////////////
+// Prowlers
+///////////////////////////////////////////////////////////////////////////////
+class B_T_LSV_01_armed_F                                { quality = 4; price = 40000; };
+class B_T_LSV_01_armed_CTRG_F                           { quality = 4; price = 40000; };
+class B_LSV_01_armed_F                                  { quality = 4; price = 40000; };
+class B_LSV_01_armed_olive_F                            { quality = 4; price = 40000; };
+class B_LSV_01_armed_sand_F                             { quality = 4; price = 40000; };                      
+class B_LSV_01_Armed_black_F                            { quality = 4; price = 40000; };
+class B_T_LSV_01_Armed_olive_F                          { quality = 4; price = 40000; };
+class B_T_LSV_01_Armed_sand_F                           { quality = 4; price = 40000; };
+class B_T_LSV_01_Armed_black_F                          { quality = 4; price = 40000; };
+  
+///////////////////////////////////////////////////////////////////////////////
+// Qilins
+///////////////////////////////////////////////////////////////////////////////
+class O_T_LSV_02_armed_viper_F                           { quality = 4; price = 40000; };
+class O_T_LSV_02_armed_F                                 { quality = 4; price = 40000; };
+class O_LSV_02_armed_viper_F                             { quality = 4; price = 40000; };
+class O_LSV_02_armed_F                                   { quality = 4; price = 40000; };
+class O_T_LSV_02_armed_black_F                           { quality = 4; price = 40000; };
+class O_T_LSV_02_armed_ghex_F                            { quality = 4; price = 40000; };
+class O_T_LSV_02_armed_arid_F                            { quality = 4; price = 40000; };
+class O_LSV_02_armed_black_F                             { quality = 4; price = 40000; };
+class O_LSV_02_armed_ghex_F                              { quality = 4; price = 40000; };
+class O_LSV_02_armed_arid_F                              { quality = 4; price = 40000; };
+ 
 ///////////////////////////////////////////////////////////////////////////////
 // Offroad (Armed)
 ///////////////////////////////////////////////////////////////////////////////
