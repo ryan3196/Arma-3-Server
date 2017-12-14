@@ -1,4 +1,4 @@
-//Mike - Updated: Added CUP Vehicles.
+//Mike - Updated: Added ALL the HEMTTs and HEMMTs. 12/14/2017
 
 	///////////////////////////////////////////////////////////////////////////////		
 	// BIKES		
@@ -188,9 +188,25 @@
 	class Exile_Car_Hatchback_Sport_Green			{ quality = 2; price = 12000; };
 	
 	///////////////////////////////////////////////////////////////////////////////
-	// HEMMT
+	// HEMMT & HEMTT
 	///////////////////////////////////////////////////////////////////////////////
 	class Exile_Car_HEMMT 					{ quality = 3; price = 48000; };
+	class B_Truck_01_transport_F 				{ quality = 3; price = 48000; };
+	class B_Truck_01_covered_F 				{ quality = 3; price = 48000; };
+	class B_Truck_01_mover_F 				{ quality = 3; price = 48000; };
+	class B_Truck_01_box_F 					{ quality = 3; price = 48000; };
+	class B_Truck_01_repair_F 				{ quality = 4; price = 75000; };
+	class B_Truck_01_ammo_F 				{ quality = 4; price = 75000; };
+	class B_Truck_01_fuel_F 				{ quality = 4; price = 75000; };
+	class B_T_Truck_01_mover_F 				{ quality = 3; price = 48000; };
+	class B_T_Truck_01_ammo_F 				{ quality = 4; price = 75000; };
+	class B_T_Truck_01_box_F 				{ quality = 3; price = 48000; };
+	class B_T_Truck_01_fuel_F 				{ quality = 4; price = 75000; };
+	class B_T_Truck_01_medical_F 				{ quality = 3; price = 48000; };
+	class B_T_Truck_01_repair_F 				{ quality = 4; price = 75000; };
+	class B_T_Truck_01_repair_F 				{ quality = 4; price = 75000; };
+	class B_T_Truck_01_transport_F 				{ quality = 3; price = 48000; };
+	class B_T_Truck_01_covered_F 				{ quality = 3; price = 48000; };
 
 	// Offroad
 	///////////////////////////////////////////////////////////////////////////////
