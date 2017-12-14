@@ -44,11 +44,11 @@ class Armed_Ground
 			"CUP_B_UAZ_SPG9_CDF",
 			"CUP_B_UAZ_SPG9_ACR",
 			"CUP_B_UAZ_METIS_CDF",
-			"CUP_B_UAZ_METIS_ACR"
-			"B_T_LSV_01_Armed_black_F"
-			"B_T_LSV_01_Armed_olive_F"
-		        "O_T_LSV_02_armed_arid_F"
-			"O_T_LSV_02_armed_ghex_F"
+			"CUP_B_UAZ_METIS_ACR",
+			"B_T_LSV_01_Armed_black_F",
+			"B_T_LSV_01_Armed_olive_F",
+		        "O_T_LSV_02_armed_arid_F",
+			"O_T_LSV_02_armed_ghex_F",
 			"O_T_LSV_02_armed_black_F"
 		};
 	};
