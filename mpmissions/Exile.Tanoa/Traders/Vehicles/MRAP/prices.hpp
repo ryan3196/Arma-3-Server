@@ -108,17 +108,17 @@ class Exile_Car_Strider 				  { quality = 4; price = 40000; };
 // Striders and other missing vanilla
 ///////////////////////////////////////////////////////////////////////////////
 
-class O_T_MRAP_02_hmg_ghex_F							 { quality = 3; price = 50000; };
-class O_T_MRAP_02_gmg_ghex_F							 { quality = 3; price = 50000; };
-class O_T_UGV_01_rcws_ghex_F							 { quality = 3; price = 50000; };
-class B_MRAP_01_gmg_F									 { quality = 3; price = 50000; };
-class B_MRAP_01_hmg_F									 { quality = 3; price = 50000; };
-class B_UGV_01_rcws_F									 { quality = 3; price = 50000; };
-class B_T_MRAP_01_gmg_F									 { quality = 3; price = 50000; };
-class B_T_MRAP_01_hmg_F									 { quality = 3; price = 50000; };
-class I_MRAP_03_hmg_F									 { quality = 3; price = 50000; };
-class I_MRAP_03_gmg_F									 { quality = 3; price = 50000; };
-class I_UGV_01_rcws_F									 { quality = 3; price = 50000; };
+class O_T_MRAP_02_hmg_ghex_F							 { quality = 5; price = 120000; };
+class O_T_MRAP_02_gmg_ghex_F							 { quality = 5; price = 125000; };
+class O_T_UGV_01_rcws_ghex_F							 { quality = 6; price = 200000; };
+class B_MRAP_01_gmg_F									 { quality = 5; price = 130000; };
+class B_MRAP_01_hmg_F									 { quality = 5; price = 135000; };
+class B_UGV_01_rcws_F									 { quality = 6; price = 200000; };
+class B_T_MRAP_01_gmg_F									 { quality = 5; price = 145000; };
+class B_T_MRAP_01_hmg_F									 { quality = 5; price = 140000; };
+class I_MRAP_03_hmg_F									 { quality = 5; price = 130000; };
+class I_MRAP_03_gmg_F									 { quality = 5; price = 135000; };
+class I_UGV_01_rcws_F									 { quality = 6; price = 200000; };
 
 
 
