@@ -1,4 +1,5 @@
 // Completed by: AkToker 12/10/17
+// Added Missing Armed Ground by: Zat 12/13/17
 
 ///////////////////////////////////////////////////////////////////////////////
 // BRDM2
@@ -103,7 +104,21 @@ class Exile_Car_Hunter 					  { quality = 4; price = 26500; };
 ///////////////////////////////////////////////////////////////////////////////
 class Exile_Car_Strider 				  { quality = 4; price = 40000; };
 
+///////////////////////////////////////////////////////////////////////////////
+// Striders and other missing vanilla
+///////////////////////////////////////////////////////////////////////////////
 
+class O_T_MRAP_02_hmg_ghex_F							 { quality = 3; price = 50000; };
+class O_T_MRAP_02_gmg_ghex_F							 { quality = 3; price = 50000; };
+class O_T_UGV_01_rcws_ghex_F							 { quality = 3; price = 50000; };
+class B_MRAP_01_gmg_F									 { quality = 3; price = 50000; };
+class B_MRAP_01_hmg_F									 { quality = 3; price = 50000; };
+class B_UGV_01_rcws_F									 { quality = 3; price = 50000; };
+class B_T_MRAP_01_gmg_F									 { quality = 3; price = 50000; };
+class B_T_MRAP_01_hmg_F									 { quality = 3; price = 50000; };
+class I_MRAP_03_hmg_F									 { quality = 3; price = 50000; };
+class I_MRAP_03_gmg_F									 { quality = 3; price = 50000; };
+class I_UGV_01_rcws_F									 { quality = 3; price = 50000; };
 
 
 

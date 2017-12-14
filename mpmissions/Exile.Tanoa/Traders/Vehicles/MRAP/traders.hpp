@@ -45,6 +45,18 @@ class MRAP
 			"CUP_B_M1133_MEV_Woodland_Slat",
 			"Exile_Car_Ifrit",
 			"Exile_Car_Hunter",
-			"Exile_Car_Strider"
+			"Exile_Car_Strider",
+
+			"O_T_MRAP_02_hmg_ghex_F",
+			"O_T_MRAP_02_gmg_ghex_F",
+			"O_T_UGV_01_rcws_ghex_F",
+			"B_MRAP_01_gmg_F",
+			"B_MRAP_01_hmg_F",
+			"B_UGV_01_rcws_F",
+			"B_T_MRAP_01_gmg_F",
+			"B_T_MRAP_01_hmg_F",
+			"I_MRAP_03_hmg_F",
+			"I_MRAP_03_gmg_F",
+			"I_UGV_01_rcws_F"
 		};
 	};

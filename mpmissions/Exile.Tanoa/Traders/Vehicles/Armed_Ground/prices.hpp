@@ -1,5 +1,5 @@
 // Completed by: AkToker 12/10/17
-// Added Missing Armed Ground by: Zat 12/13/17
+
 
 ///////////////////////////////////////////////////////////////////////////////
 // Offroad (Armed)
@@ -88,21 +88,3 @@ class CUP_B_UAZ_SPG9_CDF                                  { quality = 4; price =
 class CUP_B_UAZ_SPG9_ACR                                  { quality = 4; price = 40000; };
 class CUP_B_UAZ_METIS_CDF                                 { quality = 4; price = 42000; };
 class CUP_B_UAZ_METIS_ACR                                 { quality = 4; price = 42000; };
-
-///////////////////////////////////////////////////////////////////////////////
-// Striders and other missing vanilla
-///////////////////////////////////////////////////////////////////////////////
-
-class O_T_MRAP_02_hmg_ghex_F							 { quality = 3; price = 50000; };
-class O_T_MRAP_02_gmg_ghex_F							 { quality = 3; price = 50000; };
-class O_T_UGV_01_rcws_ghex_F							 { quality = 3; price = 50000; };
-class B_MRAP_01_gmg_F									 { quality = 3; price = 50000; };
-class B_MRAP_01_hmg_F									 { quality = 3; price = 50000; };
-class B_UGV_01_rcws_F									 { quality = 3; price = 50000; };
-class B_T_MRAP_01_gmg_F									 { quality = 3; price = 50000; };
-class B_T_MRAP_01_hmg_F									 { quality = 3; price = 50000; };
-class I_MRAP_03_hmg_F									 { quality = 3; price = 50000; };
-class I_MRAP_03_gmg_F									 { quality = 3; price = 50000; };
-class I_UGV_01_rcws_F									 { quality = 3; price = 50000; };
-
-
