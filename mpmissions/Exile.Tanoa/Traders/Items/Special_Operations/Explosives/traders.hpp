@@ -22,5 +22,7 @@ class Explosives
 		"IEDUrbanSmall_Remote_Mag",
 		"SatchelCharge_Remote_Mag",
 		"SLAMDirectionalMine_Wire_Mag"
+		"APERSMineDispenser_Mag"
+		"TrainingMine_Mag"
 	};
 };
