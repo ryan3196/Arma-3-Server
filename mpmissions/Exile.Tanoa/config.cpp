@@ -3549,8 +3549,11 @@ class CfgTrading
 		Level3 = 10000;
 		Level4 = 15000;
 		Level5 = 25000;
-		Level6 = 40000;
-		Level7 = 60000;
+		Level6 = 35000;
+		Level7 = 45000;
+		Level8 = 60000;
+		Level9 = 75000;
+		Level10 = 100000;
 	};
 };
 class CfgVehicleCustoms
