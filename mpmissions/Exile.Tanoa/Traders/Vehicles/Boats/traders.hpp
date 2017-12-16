@@ -18,7 +18,8 @@ class Boats
 		"Exile_Boat_SDV_Digital",
 		"Exile_Boat_SDV_Grey",
 		"Exile_Boat_WaterScooter",
-		"Exile_Boat_RHIB",        
+		"Exile_Boat_RHIB",
+		"Burnes_MK10_1",
 		"CUP_B_RHIB2Turret_USMC"
 
 	};

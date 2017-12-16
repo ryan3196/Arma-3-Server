@@ -35,3 +35,8 @@ class Exile_Boat_RubberDuck_Black 	{ quality = 1; price = 500; };
 class Exile_Boat_MotorBoat_Police	{ quality = 1; price = 700; };
 class Exile_Boat_MotorBoat_Orange	{ quality = 1; price = 700; };
 class Exile_Boat_MotorBoat_White	{ quality = 1; price = 700; };
+
+///////////////////////////////////////////////////////////////////////////////
+// Landing Craft
+///////////////////////////////////////////////////////////////////////////////
+class Burnes_MK10_1					{ quality = 4; price = 60000; };
