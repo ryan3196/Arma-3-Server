@@ -280,7 +280,7 @@ class CfgA3XAISettings {
 	--------------------------------------------------------------------------------------------------------------------*/		
 
 	//Global maximum number of active AI air vehicle patrols. Set at 0 to disable (Default: 0).							
-	maxAirPatrols = 0;	
+	maxAirPatrols = 2;	
 	
 	//Probability of spawning Level 0/1/2/3 AI air vehicle patrol spawns. Probabilities should add up to 1.00		
 	levelChancesAir[] = {0.00,0.50,0.35,0.15};
@@ -653,13 +653,13 @@ class CfgA3XAISettings {
 	--------------------------------------------------------------------------------------------------------------------*/
 
 	//Enable Exile-style handling (ie: Respect rewards, kill-count tracking) for AI kills (Default: 1)
-	enableRespectRewards = 1;
+	enableRespectRewards = 0;
 	
 	//Respect bonus for kills with Axe
 	respectHumiliation = 300;
 	
 	//Respect bonus for standard kills
-	respectFragged = 100;
+	respectFragged = 50;
 	
 	//Respect bonus for collision kills with parachute
 	respectChute = 600;
@@ -668,16 +668,16 @@ class CfgA3XAISettings {
 	respectBigBird = 600;
 	
 	//Respect bonus for collision kills by vehicle driver
-	respectRoadkill = 500;
+	respectRoadkill = 100;
 	
 	//Respect bonus for kills with vehicle weapons
-	respectLetItRain = 150;
+	respectLetItRain = 50;
 	
 	//Respect bonus per kill streak
-	respectKillstreak = 50;
+	respectKillstreak = 0;
 	
 	//Respect bonus per 100m distance from target
-	respectPer100m = 10;
+	respectPer100m = 2;
 	
 	
 	/*
