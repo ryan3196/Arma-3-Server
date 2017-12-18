@@ -46,7 +46,7 @@ DMS_Enable_RankChange = false; // Whether or not to use Rank Changes. (Required 
 	I am sharing this upgrade to all. If you utilize GR8 Humanity (fully compatible) or a custom version of a ranking system(simple variable changes), this will allow your players to score +/- for Bandit and Hero kills as well as a custom Survivor Faction added to DMS as well. You can still utilize the HERO / BANDIT / SURVIVOR respect and poptab settings for gameplay :) ENJOY! DONKEYPUNCH.INFO!
 */
 
-DMS_Add_AIKill2DB = false;  // Adds killstat for player in the database ;)
+DMS_Add_AIKill2DB = true;  // Adds killstat for player in the database ;)
 
 DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a scheduled environment. Setting to true may help with lag when certain missions spawn.
 //Note, if you have the above to true, you need to set DMS_ai_freezeOnSpawn = false; and DMS_ai_share_info = true;

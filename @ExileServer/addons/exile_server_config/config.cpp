@@ -4289,12 +4289,9 @@ class CfgSettings
 			"ItemMap", // Because why not
 			"Exile_Item_XM8",
 			"ItemRadio",
-			"Exile_Item_PlasticBottleFreshWater",
 			"hgun_Pistol_heavy_02_F",
 			"6Rnd_45ACP_Cylinder",
 			"6Rnd_45ACP_Cylinder",
-			"6Rnd_45ACP_Cylinder",
-			"Exile_Item_EMRE",
 			"Exile_Item_Bandage",
 			"Exile_Melee_Axe",
 			"Exile_Item_DuctTape"

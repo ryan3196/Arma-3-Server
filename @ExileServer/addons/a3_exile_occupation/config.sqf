@@ -68,7 +68,7 @@ SC_randomSpawnMaxGroups        	= 4;                    	// Maximum amount of ra
 SC_randomSpawnMinGroupSize      = 3;                    	// Minimum amount of random AI groups allowed per group
 SC_randomSpawnMaxGroupSize      = 5;                    	// Maximum amount of random AI groups allowed per group
 SC_randomSpawnChance			= 12;						// Percentage chance of spawning if suitable player found
-SC_randomSpawnIgnoreCount		= true;						// true if you want spawn random AI groups regardless of overall AI count (they still count towards the total though)
+SC_randomSpawnIgnoreCount		= false;						// true if you want spawn random AI groups regardless of overall AI count (they still count towards the total though)
 SC_randomSpawnFrequency			= 3600;						// time in seconds between the possibility of random AI hunting the same player (1800 for 30 minutes)
 SC_randomSpawnNearBases			= true;						// true if you want to allow random spawns in range of territories
 SC_randomSpawnNearSpawns		= false;					// true if you want to allow random spawns in range of spawn zones
@@ -255,7 +255,7 @@ SC_maximumCrewAmount        	= 5;     	// Maximum amount of AI allowed in a vehi
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 SC_maxNumberofVehicles 	    	= 10;		// How many roaming vehicles to spawn	
-SC_occupyLandVehicleIgnoreCount		= true;	// true if you want spawn vehicles regardless of overall AI count
+SC_occupyLandVehicleIgnoreCount		= false;	// true if you want spawn vehicles regardless of overall AI count
 SC_occupyVehiclesLocked			= false;	// true if AI vehicles to stay locked until all the linked AI are dead		
 SC_occupyVehicleSurvivors		= false;	// true if you want a chance to spawn survivor AI as well as bandits (SC_occupyVehicle must be true to use this option)
 
@@ -310,7 +310,7 @@ SC_SurvivorVehicleClassToUseRare		=   [
 																					
 // Settings for roaming airborne AI (non armed helis will just fly around)
 SC_maxNumberofHelis		    	= 1;
-SC_occupySkyVehicleIgnoreCount		= true;	// true if you want spawn vehicles regardless of overall AI count
+SC_occupySkyVehicleIgnoreCount		= false;	// true if you want spawn vehicles regardless of overall AI count
 
 // Array of aircraft which can be used by AI patrols (the number next to next vehicle is the maximum amount of that class allowed, 0 for no limit)
 SC_HeliClassToUse 		    	=   [ ["Exile_Chopper_Huey_Armed_Green",0] ];
@@ -332,7 +332,7 @@ SC_occupyHeliFixedPositions		= [
 
 // Settings for roaming seaborne AI (non armed boats will just sail around)
 SC_maxNumberofBoats		    = 4;
-SC_occupySeaVehicleIgnoreCount		= true;	// true if you want spawn vehicles regardless of overall AI count
+SC_occupySeaVehicleIgnoreCount		= false;	// true if you want spawn vehicles regardless of overall AI count
 
 // Array of boats which can be used by AI patrols (the number next to next vehicle is the maximum amount of that class allowed, 0 for no limit)
 SC_BoatClassToUse 		    =   [	
@@ -563,7 +563,7 @@ if (SC_debug) then
     SC_maxNumberofBoats			= 5;
     SC_maxNumberofHelis			= 1; 
 	SC_randomSpawnChance		= 100;
-	SC_randomSpawnIgnoreCount	= true;
+	SC_randomSpawnIgnoreCount	= false;
 	SC_randomSpawnFrequency		= 120;
 };
 
