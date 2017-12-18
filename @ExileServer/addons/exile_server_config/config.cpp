@@ -4258,7 +4258,7 @@ class CfgSettings
 			killStreak = 50;
 
 			// Kills within this amount of seconds stack (default: 2 minutes)
-			killStreakTimeout = 900;
+			killStreakTimeout = 120;
 		};
 	};
 
