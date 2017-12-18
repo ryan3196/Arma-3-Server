@@ -76,6 +76,18 @@ showHUD[] =
 class CfgFunctions
 {
 	#include "ExAdClient\CfgFunctions.cpp"
+	//class ExileExpansionMission // Comment out if kicked by infiSTAR
+	//{
+	//	class Bootstrap
+	//	{
+	//		file="bootstrap";
+	//		class preInit
+	//		{
+	//			preInit=1;
+	//		};
+	//	};
+	//};
+	
 };
 
 class RscTitles
@@ -107,7 +119,7 @@ class CfgNetworkMessages
 	#include "infiSTAR_AdminMenu.hpp"
 	#include "infiSTAR_chat.hpp"
 	
-	#include "CfgFunctions.cpp"
+	//#include "CfgFunctions.cpp" Duplicate
 	#include "CfgScavengeRecipes.cpp"
 	#include "CfgExileScavenge.cpp"
 	#include "CfgExileHoldActions.cpp"

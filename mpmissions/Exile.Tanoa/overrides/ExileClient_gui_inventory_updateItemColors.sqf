@@ -52,12 +52,16 @@ private["_display", "_timeWaited", "_exitLoop", "_listBoxIds", "_listBox", "_lis
 						_color = [1, 1, 1, 1];
 						switch (_quality) do
 						{
-							case 2: 		{ _color = [0.62, 0.87 ,0.23, 1]; };
-							case 3:		{ _color = [0, 0.78, 0.92, 1]; };
-							case 4:		{ _color = [0.62, 0.27, 0.58, 1]; };
-							case 5:		{ _color = [1, 0.7, 0.09, 1]; };
-							case 6:		{ _color = [0.93, 0, 0.48, 1]; };
-							default 					{ _color = [1, 1, 1, 1]; };						
+							default		{ _color = [1, 1, 1, 1]; };				//White
+							case 2: 	{ _color = [0.62, 0.87 ,0.23, 1]; };	//Green
+							case 3:		{ _color = [1, 0.961, 0.392, 1]; };		//Yellow
+							case 4:		{ _color = [0.91, 0.592 ,0.212, 1]; }; 	//Orange
+							case 5:		{ _color = [1, 0.043 ,0, 1]; };			//Red
+							case 6:		{ _color = [0.878, 0.545 ,0.91, 1]; }; 	//Pink
+							case 7: 	{ _color = [0.875, 0.118, 0.91, 1]; };	//Purple
+							case 8: 	{ _color = [0.392, 0.349, 0.91, 1]; };	//Blue
+							case 9: 	{ _color = [0.063, 0.941 ,1, 1]; };		//Turquois
+							case 10: 	{ _color = [0.318, 1 , 0.667, 1]; };	//Teal
 						};
 						_listBox lbSetColor [_i, _color];
 					};
