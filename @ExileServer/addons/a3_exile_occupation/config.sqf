@@ -47,7 +47,7 @@ SC_occupyRandomSpawn        	= false;                		// (WORK IN PROGRESS) tru
 SC_occupyMilitary 		    	= true;			    	// true if you want military buildings patrolled
 SC_occupyVehicle				= true;						// true if you want to have roaming AI land vehicles
 SC_occupySky					= true;						// true if you want to have roaming AI helis
-SC_occupySea					= false;					// true if you want to have roaming AI boats
+SC_occupySea					= true;					// true if you want to have roaming AI boats
 SC_occupyHeliCrashes			= true;						// true if you want to have Dayz style helicrashes
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -254,8 +254,8 @@ SC_maximumCrewAmount        	= 5;     	// Maximum amount of AI allowed in a vehi
 //	Roaming Land Vehicle Setup
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-SC_maxNumberofVehicles 	    	= 3;		// How many roaming vehicles to spawn	
-SC_occupyLandVehicleIgnoreCount		= false;	// true if you want spawn vehicles regardless of overall AI count
+SC_maxNumberofVehicles 	    	= 10;		// How many roaming vehicles to spawn	
+SC_occupyLandVehicleIgnoreCount		= true;	// true if you want spawn vehicles regardless of overall AI count
 SC_occupyVehiclesLocked			= false;	// true if AI vehicles to stay locked until all the linked AI are dead		
 SC_occupyVehicleSurvivors		= false;	// true if you want a chance to spawn survivor AI as well as bandits (SC_occupyVehicle must be true to use this option)
 
@@ -272,17 +272,21 @@ SC_occupyVehicleFixedPositions	= [
 
 // Array of arrays of ground vehicles which can be used by AI patrols (the number next to next vehicle is the maximum amount of that class allowed, 0 for no limit)				
 SC_VehicleClassToUse 			=   [	
-									["Exile_Car_LandRover_Green",0],
-                                    ["Exile_Bike_QuadBike_Black",2],
-                                    ["Exile_Car_UAZ_Open_Green",2] 
+				    ["Exile_Car_LandRover_Green",0],
+                                    ["Exile_Bike_QuadBike_Black",0],
+                                    ["Exile_Car_UAZ_Open_Green",0],
+				    ["Exile_Car_SUVXL_Black",0],
+				    ["B_LSV_01_Armed_black_F",0]
                                 ];
 SC_VehicleClassToUseRare		=   [	
-                                    ["Exile_Car_Hunter",1],
-                                    ["Exile_Car_HEMMT",1],
-                                    ["Exile_Car_Zamak",1],
-                                    ["Exile_Car_Offroad_Armed_Guerilla12",1],
-                                    ["Exile_Car_Offroad_Armed_Guerilla03",1],
-                                    ["Exile_Car_Tempest",1] 
+				    ["CUP_B_Dingo_GER_Wdl",0],
+				    ["O_T_MRAP_02_gmg_ghex_F",0],
+                                    ["Exile_Car_Hunter",0],
+                                    ["Exile_Car_HEMMT",0],
+                                    ["Exile_Car_Zamak",0],
+                                    ["Exile_Car_Offroad_Armed_Guerilla12",0],
+                                    ["Exile_Car_Offroad_Armed_Guerilla03",0],
+                                    ["Exile_Car_Tempest",0] 
                                 ];
 								
 // Array of arrays of ground vehicles which can be used by Survivor AI patrols (the number next to next vehicle is the maximum amount of that class allowed, 0 for no limit)									
@@ -306,12 +310,12 @@ SC_SurvivorVehicleClassToUseRare		=   [
 																					
 // Settings for roaming airborne AI (non armed helis will just fly around)
 SC_maxNumberofHelis		    	= 1;
-SC_occupySkyVehicleIgnoreCount		= false;	// true if you want spawn vehicles regardless of overall AI count
+SC_occupySkyVehicleIgnoreCount		= true;	// true if you want spawn vehicles regardless of overall AI count
 
 // Array of aircraft which can be used by AI patrols (the number next to next vehicle is the maximum amount of that class allowed, 0 for no limit)
 SC_HeliClassToUse 		    	=   [ ["Exile_Chopper_Huey_Armed_Green",0] ];
 
-SC_occupyHeliUseFixedPos		= true;		// True if you want to specify the patrol positions and radius of the area to patrol / false for random
+SC_occupyHeliUseFixedPos		= false;		// True if you want to specify the patrol positions and radius of the area to patrol / false for random
 
 											// if you set SC_maxNumberofHelis higher than the number of static positions, the remainder will be random
 											// they will also ignore any blacklisted areas
@@ -327,8 +331,8 @@ SC_occupyHeliFixedPositions		= [
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Settings for roaming seaborne AI (non armed boats will just sail around)
-SC_maxNumberofBoats		    = 1;
-SC_occupySeaVehicleIgnoreCount		= false;	// true if you want spawn vehicles regardless of overall AI count
+SC_maxNumberofBoats		    = 4;
+SC_occupySeaVehicleIgnoreCount		= true;	// true if you want spawn vehicles regardless of overall AI count
 
 // Array of boats which can be used by AI patrols (the number next to next vehicle is the maximum amount of that class allowed, 0 for no limit)
 SC_BoatClassToUse 		    =   [	
@@ -385,8 +389,8 @@ SC_useRealNames         		= true;
 // Arrays of names used to generate names for AI
 SC_SurvivorFirstNames   		= ["John","Dave","Steve","Rob","Richard","Bob","Andrew","Nick","Adrian","Mark","Adam","Will","Graham"]; 
 SC_SurvivorLastNames    		= ["Smith","Jones","Davids","Johnson","Jobs","Andrews","White","Brown","Taylor","Walker","Williams","Clarke","Jackson","Woods"]; 
-SC_BanditFirstNames     		= ["Alex","Nikita","George","Daniel","Adam","Alexander","Sasha","Sergey","Dmitry","Anton","Jakub","Vlad","Maxim","Oleg","Denis","Wojtek"]; 
-SC_BanditLastNames      		= ["Dimitrov","Petrov","Horvat","Novak","Dvorak","Vesely","Horak","Hansen","Larsen","Tamm","Ivanov","Pavlov","Virtanen"];
+SC_BanditFirstNames     		= ["Guy","Adam","Greg","Scott","Alisha","Jake","Ryan","Alex","Logan","Charles","Bob","David","Jason","Stubby"]; 
+SC_BanditLastNames      		= ["Pegg","Legg","Toppins","Youseff","Bojangles","Man","Dude","Goldenbrown","Teabag"];
 		
 SC_SurvivorsChance          	= 20;						// chance in % to spawn survivors instead of bandits (for places and land vehicles)
 
