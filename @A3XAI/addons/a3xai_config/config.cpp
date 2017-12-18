@@ -653,7 +653,7 @@ class CfgA3XAISettings {
 	--------------------------------------------------------------------------------------------------------------------*/
 
 	//Enable Exile-style handling (ie: Respect rewards, kill-count tracking) for AI kills (Default: 1)
-	enableRespectRewards = 0;
+	enableRespectRewards = 1;
 	
 	//Respect bonus for kills with Axe
 	respectHumiliation = 300;
