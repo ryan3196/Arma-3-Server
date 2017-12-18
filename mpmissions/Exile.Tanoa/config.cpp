@@ -1990,6 +1990,7 @@ class CfgExileArsenal
 
 class CfgExileCustomCode 
 {
+	ExileClient_gui_inventory_updateItemColors = "overrides\ExileClient_gui_inventory_updateItemColors.sqf";
 	ExileClient_gui_xm8_slide = "ExAdClient\XM8\CustomCode\ExileClient_gui_xm8_slide.sqf";
 	ExileClient_gui_xm8_show = "ExAdClient\XM8\CustomCode\ExileClient_gui_xm8_show.sqf";
 	ExileServer_system_territory_database_load = "ExAdClient\VirtualGarage\CustomCode\ExileServer_system_territory_database_load.sqf";
