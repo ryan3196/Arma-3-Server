@@ -674,10 +674,10 @@ class CfgA3XAISettings {
 	respectLetItRain = 50;
 	
 	//Respect bonus per kill streak
-	respectKillstreak = 0;
+	respectKillstreak = 50;
 	
 	//Respect bonus per 100m distance from target
-	respectPer100m = 2;
+	respectPer100m = 10;
 	
 	
 	/*
