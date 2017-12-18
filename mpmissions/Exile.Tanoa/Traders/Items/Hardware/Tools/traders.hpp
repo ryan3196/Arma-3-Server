@@ -21,7 +21,6 @@ class Tools
 		"Exile_Item_Shovel",
 		"Exile_Item_SleepingMat",
 		"Exile_Item_ToiletPaper",
-		"Exile_Item_ZipTie",
 		"Exile_Item_BurlapSack",
 		"Exile_Item_Bullets_556",
 		"Exile_Item_Bullets_762",
@@ -44,6 +43,7 @@ class Tools
 		"MineDetector",
 		"Exile_Item_Hammer",
 		"Exile_Item_Wrench",
-		"Exile_Item_XM8"
+		"Exile_Item_XM8",
+		"Exile_Item_ZipTie"
 	};
 };

@@ -19,5 +19,5 @@
 	class Exile_Item_Wrench							{ quality = 1; price = 250; };
 	//class Exile_Item_SleepingMat					{ quality = 1; price = 1250; };
 	//class Exile_Item_ToiletPaper					{ quality = 1; price = 5; };
-	//class Exile_Item_ZipTie						{ quality = 1; price = 250; };
+	class Exile_Item_ZipTie							{ quality = 1; price = 250; };
 	class MineDetector								{ quality = 1; price = 500; };

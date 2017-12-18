@@ -4226,10 +4226,10 @@ class CfgSettings
 
 		class Handcuffs 
 		{
-			trapping = -50;					// A handcuffs B
-			breakingFree = 100; 			// B broke free
+			trapping = -1000;					// A handcuffs B
+			breakingFree = 500; 			// B broke free
 			releasedByHero = 100; 			// C releases B
-			releasedByHostageTaker = 50; 	// A releases B	
+			releasedByHostageTaker = 1000; 	// A releases B	
 		};
 
 		class Bonus
