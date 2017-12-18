@@ -2485,7 +2485,9 @@ class CfgInteractionMenus
 			};
 		};
 	};
-class Tank {
+	
+	// IF THIS DOESN'T WORK, COMMENT THIS CLASS OUT FOR NOW
+	class Tank {
         targetType = 2;
         target = "Tank";
 
@@ -2509,7 +2511,15 @@ class Tank {
                 action = "_this call ExileClient_object_vehicle_Repair";
             };
 
-            class Flip: ExileAbstractAction {
+            // Hot-wires a vehicle
+            class Hotwire: ExileAbstractAction
+            {
+                title = "Hotwire";
+                condition = "((locked ExileClientInteractionObject) isEqualTo 2) && ((locked ExileClientInteractionObject) != 1)";
+                action = "['HotwireVehicle', _this select 0] call ExileClient_action_execute";
+            };
+			
+			class Flip: ExileAbstractAction {
                 title = "Flip";
                 condition = "call ExileClient_object_vehicle_interaction_show";
                 action = "_this call Exileclient_object_vehicle_flip";
