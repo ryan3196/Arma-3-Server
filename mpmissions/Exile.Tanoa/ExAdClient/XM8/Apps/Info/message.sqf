@@ -42,4 +42,4 @@ character information will be lost. This causes lost gear and strange log in loc
 please be sure to log off before the 5 minute warning.<br />
 ______________________________________________________________________________<br />
 
-<t align='center' color='#FF0000'><a href="http://www.spokanesurvival.com">Visit our Website!</a></t><br />
+<t align='center' color='#FF0000'><a href="http://spokanesurvival.com">Visit our Website!</a></t><br />
