@@ -230,6 +230,8 @@
 	class Exile_Car_Offroad_Rusty1				{ quality = 1; price = 10000; };
 	class Exile_Car_Offroad_Rusty2				{ quality = 1; price = 10000; };
 	class Exile_Car_Offroad_Rusty3				{ quality = 1; price = 10000; };
+	class O_G_Offroad_01_F					{ quality = 1; price = 10000; };
+	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Offroad (Repair)
@@ -327,6 +329,7 @@
 	class Exile_Car_Van_Fuel_Guerilla01 			{ quality = 3; price = 12500; };
 	class Exile_Car_Van_Fuel_Guerilla02 			{ quality = 3; price = 12500; };
 	class Exile_Car_Van_Fuel_Guerilla03 			{ quality = 3; price = 12500; };
+	class C_Van_01_fuel_white_v2_F				{ quality = 3; price = 12500; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Zamak
@@ -356,6 +359,7 @@
 	///////////////////////////////////////////////////////////////////////////////
 	class Exile_Car_ProwlerLight				{ quality = 2; price = 22000; };
 	class Exile_Car_ProwlerUnarmed				{ quality = 2; price = 22000; };
+	class B_T_LSV_01_unarmed_sand_F				{ quality = 2; price = 22000; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Qilin
