@@ -272,10 +272,11 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 
 
 	DMS_StaticMissionTypes =			[								// List of STATIC missions with spawn chances.
-											//["saltflats",1]		//<--Example (already imported by default on Altis in map configs)
-											//["slums",1]			//<--Example (already imported by default on Altis in map configs)
-											//["occupation",1]		//<--Example
-											//["sectorB",1]			//<--Example for Taviana
+											["saltflats",1]		//<--Example (already imported by default on Altis in map configs)
+											["slums",1]			//<--Example (already imported by default on Altis in map configs)
+											["occupation",1]		//<--Example
+											["sectorB",1]			//<--Example for Taviana
+											["zmission",1]
 										];
 
 	DMS_SpecialMissions =				[								// List of special missions with restrictions. Each element must be defined as [mission<STRING>, minPlayers<SCALAR>, maxPlayers<SCALAR>, timesPerRestart<SCALAR>, _timeBetween<SCALAR>].
@@ -294,7 +295,7 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	DMS_StaticMissionsOnServerStart =	[								// List of STATIC missions with spawn chances.
 											//"saltflats"			//<--Example
 											//"slums"				//<--Example
-											//"occupation"			//<--Example
+											"occupation"			//<--Example
 											//"sectorB"				//<--Example for Taviana
 										];
 
