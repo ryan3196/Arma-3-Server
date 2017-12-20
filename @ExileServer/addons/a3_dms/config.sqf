@@ -272,10 +272,10 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 
 
 	DMS_StaticMissionTypes =			[								// List of STATIC missions with spawn chances.
-											["saltflats",1]		//<--Example (already imported by default on Altis in map configs)
-											["slums",1]			//<--Example (already imported by default on Altis in map configs)
+											//["saltflats",1]		//<--Example (already imported by default on Altis in map configs)
+											//["slums",1]			//<--Example (already imported by default on Altis in map configs)
 											["occupation",1]		//<--Example
-											["sectorB",1]			//<--Example for Taviana
+											//["sectorB",1]			//<--Example for Taviana
 											//["zmission",1]
 										];
 
