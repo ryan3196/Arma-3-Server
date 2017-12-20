@@ -176,7 +176,7 @@ Trigger_1 = [				 //Cities
 Trigger_2 = [				 //Military
 /* 0  Use this trigger */    True,               
 /* 1  Trigger Positions */   Military,        
-/* 2  Max Zombies */         10,                 
+/* 2  Max Zombies */         20,                 
 /* 3  Activation Delay */    15,                 
 /* 4  Spawn Delay */         15,                 
 /* 5  Respawn Delay */       45,                 
