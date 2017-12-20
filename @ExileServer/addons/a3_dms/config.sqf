@@ -276,7 +276,7 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 											["slums",1]			//<--Example (already imported by default on Altis in map configs)
 											["occupation",1]		//<--Example
 											["sectorB",1]			//<--Example for Taviana
-											["zmission",1]
+											//["zmission",1]
 										];
 
 	DMS_SpecialMissions =				[								// List of special missions with restrictions. Each element must be defined as [mission<STRING>, minPlayers<SCALAR>, maxPlayers<SCALAR>, timesPerRestart<SCALAR>, _timeBetween<SCALAR>].
