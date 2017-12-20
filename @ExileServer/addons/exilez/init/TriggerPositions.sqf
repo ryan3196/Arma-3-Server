@@ -3,10 +3,10 @@
 // Tanoa
 
 	Military = [         
-						[2081,13190,500],	     	// Tuvanaka Airbase
+						[2081,13190,800],	     	// Tuvanaka Airbase
 						//[2193,3544,300],      	// Bala Airstrip
 						//[12100,2500,125],			// Fortress ruins
-						[11667,3118,300],			// Saint-George Airstrip
+						[11667,3118,400],			// Saint-George Airstrip
 						[13548,12149,550]			// Blue Pearl Industrial Port
 						//[11860,13162,300],		// La Rochelle Aerodrome
 						//[8903,13734,100],			// Railyard
@@ -20,7 +20,7 @@
 ////[4138,12387,100]       // Maze
 //];                      
                         
-	MainCities = [              
+	Cities = [              
 						//[5508,4081,300],		// Katkoula   
 						//[11641,2707,300],		// Lijnhaven
 						[9707,13577,400],		// La Rochelle
