@@ -64,8 +64,7 @@ class Ammunition
 		"Exile_Magazine_10Rnd_762x54",
 		"Exile_Magazine_10Rnd_9x39",
 		"Exile_Magazine_20Rnd_9x39",
-		//"Exile_Magazine_8Rnd_74Pellets",
-		"Exile_Magazine_8Rnd_74Slug",
+		
 		//Apex
 		"30Rnd_9x21_Mag_SMG_02",
 		"30Rnd_9x21_Mag_SMG_02_Tracer_Red",
@@ -104,6 +103,11 @@ class Ammunition
 		"Exile_Magazine_20Rnd_765x17_SA61",
 		"Exile_Magazine_10Rnd_127x99_m107",
 		"Exile_Magazine_5Rnd_127x108_APDS_KSVK",
-		"Exile_Magazine_5Rnd_127x108_KSVK"
+		"Exile_Magazine_5Rnd_127x108_KSVK",
+		
+		//CUP
+		"CUP_8Rnd_B_Beneli_74Slug",
+		"CUP_8Rnd_B_Beneli_74Pellets"
+	
 	};
 };

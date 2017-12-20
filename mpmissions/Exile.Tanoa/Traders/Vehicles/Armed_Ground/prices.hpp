@@ -42,7 +42,7 @@ class Exile_Car_Offroad_Armed_Guerilla09                  { quality = 4; price =
 class Exile_Car_Offroad_Armed_Guerilla10                  { quality = 4; price = 30000; };
 class Exile_Car_Offroad_Armed_Guerilla11                  { quality = 4; price = 30000; };
 class Exile_Car_Offroad_Armed_Guerilla12                  { quality = 4; price = 30000; };
-class I_G_Offroad_01_armed_F                              { quality = 4; price = 30000; };
+class I_G_Offroad_01_F                                    { quality = 4; price = 30000; };
 
 
 ///////////////////////////////////////////////////////////////////////////////

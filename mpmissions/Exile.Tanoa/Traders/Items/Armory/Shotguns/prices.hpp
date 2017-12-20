@@ -3,4 +3,4 @@
 	// Example of Catigory Lable Here
 	///////////////////////////////////////////////////////////////////////////////
 	
-        class Exile_Weapon_M1014						{ quality = 2; price = 200; };
+        class CUP_sgun_M1014						{ quality = 2; price = 200; };

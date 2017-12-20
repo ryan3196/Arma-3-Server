@@ -45,6 +45,11 @@
 	class 6Rnd_RedSignal_F 									{ quality = 1; price = 30; };
 	class 7Rnd_408_Mag 										{ quality = 6; price = 10; };
 	class 9Rnd_45ACP_Mag 									{ quality = 1; price = 6; };
+	
+	//Shotgun Ammo
+	class CUP_8Rnd_B_Beneli_74Slug						{ quality = 1; price = 20; };
+	class CUP_8Rnd_B_Beneli_74Pellets 					{ quality = 1; price = 20; };
+	
 
 	// Price for bullet cam magazines is normal magazine price + 20 pop tabs per bullet
 	class Exile_Magazine_5Rnd_127x108_Bullet_Cam_Mag 			{ quality = 6; price = 40 +  5 * 20; };

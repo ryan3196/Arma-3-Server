@@ -4,6 +4,6 @@ class Shotguns
 	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 	items[] =
 	{
-		"Exile_Weapon_M1014"
+		"CUP_sgun_M1014"
 	};
 };
