@@ -157,7 +157,7 @@ Trigger_1 = [				 //Cities
 /* 1  Trigger Positions */   Cities,             // The name of the array used to list all trigger position in the TriggerPositions.sqf file
 /* 2  Max Zombies */         30,                 // The maximum number of zombies for that trigger.
 /* 3  Activation Delay */    15,                 // The delay before the activation of the trigger.
-/* 4  Spawn Delay */         15,                 // The delay between each zombie spawn right after the activation until the Max group size is reached.
+/* 4  Spawn Delay */         5,                 // The delay between each zombie spawn right after the activation until the Max group size is reached.
 /* 5  Respawn Delay */       60,                 // The respawn delay after the max group size was reached
 /* 6  Show Trigger On Map */ true,               // Put a marker at the location and radius of the trigger on the map
 /* 7  Marker Color */        "ColorRed",         // Color of the trigger
@@ -167,8 +167,8 @@ Trigger_1 = [				 //Cities
 /* 11 Vest group */          Basic,              // The name of the Array used to list all the possible vest for that trigger. ZVest.sqf
 /* 12 Loot group */          DocAndAmmo,             // The name of the Array used to list all the possible loot for that trigger. ZLoot.sqf
 /* 13 Zombie group */        MediumCiv,          // The name of the Group used to list the zombies possible for that trigger.  ZClasses.sqf
-/* 14 Avoid Territory */     false,              // Zombie will not spawn in territories and will die in them if RemoveZfromTerritory is true
-/* 15 Mission Radius */      50,                  // Up to how far from the center of the trigger the mission LOOT can spawn.
+/* 14 Avoid Territory */     true,              // Zombie will not spawn in territories and will die in them if RemoveZfromTerritory is true
+/* 15 Mission Radius */      300,                  // Up to how far from the center of the trigger the mission LOOT can spawn.
 /* 16 Mission SQF */         nil,                // The location of the Mission file related to that trigger *(use M3Editor to create the file.) THIS IS STATIC AND WILL NOT MOVE WITH THE TRIGGER
 /* 17 Loot Box */            nil                 // The location of the Missionloot file related to that trigger *(See example file zmissionloot.sqf)
 ];
@@ -178,7 +178,7 @@ Trigger_2 = [				 //Military
 /* 1  Trigger Positions */   Military,        
 /* 2  Max Zombies */         30,                 
 /* 3  Activation Delay */    15,                 
-/* 4  Spawn Delay */         15,                 
+/* 4  Spawn Delay */         5,                 
 /* 5  Respawn Delay */       45,                 
 /* 6  Show Trigger On Map */ true,               
 /* 7  Marker Color */        "ColorRed",         
@@ -188,8 +188,8 @@ Trigger_2 = [				 //Military
 /* 11 Vest group */          Basic,              
 /* 12 Loot group */          DocAndAmmo,             
 /* 13 Zombie group */        MediumMil,          
-/* 14 Avoid Territory */     false,              
-/* 15 Mission Radius */      0,                  
+/* 14 Avoid Territory */     true,              
+/* 15 Mission Radius */      300,                  
 /* 16 Mission SQF */         nil,                
 /* 17 Loot Box */            nil                 
 ];
