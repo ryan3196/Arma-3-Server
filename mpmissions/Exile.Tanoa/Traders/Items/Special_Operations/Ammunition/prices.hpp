@@ -1,23 +1,23 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Explosives
 	///////////////////////////////////////////////////////////////////////////////
-	class HandGrenade								{ quality = 3; price = 40; };
-	class MiniGrenade								{ quality = 2; price = 30; };
-	class B_IR_Grenade								{ quality = 1; price = 50; };
-	class O_IR_Grenade								{ quality = 1; price = 50; };
-	class I_IR_Grenade								{ quality = 1; price = 50; };
-	class 1Rnd_HE_Grenade_shell						{ quality = 2; price = 70; };
-	class 3Rnd_HE_Grenade_shell						{ quality = 3; price = 70*3; };
-	class APERSBoundingMine_Range_Mag				{ quality = 3; price = 500; };
-	class APERSMine_Range_Mag						{ quality = 3; price = 600; };
-	class APERSTripMine_Wire_Mag					{ quality = 3; price = 300; };
-	class APERSMineDispenser_Mag					{ quality = 5; price = 10000; };
-	class TrainingMine_Mag							{ quality = 5; price = 100; };
-	class ClaymoreDirectionalMine_Remote_Mag		{ quality = 3; price = 350; };
-	class DemoCharge_Remote_Mag						{ quality = 4; price = 700; };
-	class IEDLandBig_Remote_Mag						{ quality = 3; price = 600; };
-	class IEDLandSmall_Remote_Mag					{ quality = 3; price = 300; };
-	class IEDUrbanBig_Remote_Mag					{ quality = 3; price = 800; };
-	class IEDUrbanSmall_Remote_Mag					{ quality = 3; price = 400; };
-	class SatchelCharge_Remote_Mag					{ quality = 5; price = 1000; };
-	class SLAMDirectionalMine_Wire_Mag				{ quality = 3; price = 700; };
+class HandGrenade								{ quality = 3; price = 100; };
+	class CUP_PG7V_M								{ quality = 3; price = 100; };
+	class CUP_PG7VM_M								{ quality = 3; price = 100; };
+	class CUP_PG7VL_M								{ quality = 3; price = 100; };
+	class CUP_PG7VR_M								{ quality = 3; price = 100; };
+	class CUP_OG7_M						{ quality =32; price = 100; };
+	class CUP_TBG7V_M						{ quality = 3; price = 100; };
+	class CUP_Javelin_M				{ quality = 4; price = 500; };
+	class CUP_Igla_M						{ quality = 4; price = 600; };
+	class CUP_MAAWS_HEAT_M					{ quality = 4; price = 300; };
+	class CUP_MAAWS_HEDP_M					{ quality = 4; price = 10000; };
+	class CUP_SMAW_HEAA_M							{ quality = 4; price = 100; };
+	class CUP_SMAW_HEDP_M		{ quality = 4; price = 350; };
+	class CUP_SMAW_Spotting						{ quality = 4; price = 700; };
+	class CUP_M72A6_M						{ quality = 4; price = 600; };
+	class RPG32_F					{ quality = 4; price = 300; };
+	class RPG32_HE_F					{ quality = 4; price = 800; };
+	class Titan_AA					{ quality = 4; price = 400; };
+	class Titan_AT					{ quality = 5; price = 1000; };
+	class SLAMDirectionalMine_Wire_Mag				{ quality = 4; price = 700; };
