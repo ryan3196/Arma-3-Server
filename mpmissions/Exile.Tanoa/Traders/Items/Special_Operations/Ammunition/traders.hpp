@@ -21,12 +21,9 @@ class Launcher_Ammo
 		"RPG32_F",
 		"RPG32_HE_F",
 		"Titan_AA",
-		"Titan_AT"
-
-
-
-
-
-		
+		"Titan_AT",
+		"LAW_F",
+		"CUP_Stinger_M",
+		"CUP_AT13_M",
 	};
 };
