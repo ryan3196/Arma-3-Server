@@ -9,7 +9,7 @@ class Launchers
 		"launch_B_Titan_F",
 		"launch_B_Titan_tna_F",
 		"launch_NLAW_F",
-		"CUP_launch_RPG7V"",
+		"CUP_launch_RPG7V",
 		"launch_RPG32_F",
 		"CUP_launch_Igla",
 		"CUP_launch_M136",
