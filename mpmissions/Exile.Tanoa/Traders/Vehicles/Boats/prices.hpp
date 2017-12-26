@@ -3,9 +3,9 @@
 // Water Craft of all types
 ///////////////////////////////////////////////////////////////////////////////
 class Exile_Boat_WaterScooter		{ quality = 2; price = 800; };
-class CUP_B_Zodiac_USMC				  { quality = 4; price = 25000; };
-class CUP_B_RHIB_USMC				    { quality = 4; price = 25000; };
-class CUP_B_RHIB2Turret_USMC		{ quality = 4; price = 25000; };
+class CUP_B_Zodiac_USMC				  { quality = 4; price = 20000; };
+class CUP_B_RHIB_USMC				    { quality = 4; price = 20000; };
+class CUP_B_RHIB2Turret_USMC		{ quality = 4; price = 20000; };
 class B_G_Boat_Transport_02_F   { quality = 2; price = 2000; };
 class O_G_Boat_Transport_02_F   { quality = 2; price = 2000; };
 class I_G_Boat_Transport_02_F   { quality = 2; price = 2000; };
@@ -35,6 +35,9 @@ class Exile_Boat_RubberDuck_Black 	{ quality = 1; price = 500; };
 class Exile_Boat_MotorBoat_Police	{ quality = 1; price = 700; };
 class Exile_Boat_MotorBoat_Orange	{ quality = 1; price = 700; };
 class Exile_Boat_MotorBoat_White	{ quality = 1; price = 700; };
+class CUP_C_Fishing_Boat_Chernarus { quality = 1; price = 2500; };
+class I_Boat_Armed_01_minigun_F { quality = 1; price = 25000; };
+class O_Boat_Armed_01_hmg_F { quality = = 1; price = 25000; };
 
 ///////////////////////////////////////////////////////////////////////////////
 // Landing Craft
