@@ -19,4 +19,7 @@
 	class RPG32_HE_F								{ quality = 4; price = 8000; };
 	class Titan_AA									{ quality = 4; price = 4000; };
 	class Titan_AT									{ quality = 5; price = 1000; };
-	
+	class CUP_RPG18_M								{ quality = 3; price = 1000; };
+	class CUP_AT13_M								{ quality = 4; price = 1500; };
+	class CUP_Stinger_M								{ quality = 4; price = 800; };
+	class NLAW_F									{ quality = 4; price = 800; };
