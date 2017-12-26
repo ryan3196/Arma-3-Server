@@ -1757,8 +1757,6 @@ class CfgExileArsenal
 	class Exile_Magazine_10Rnd_762x54					{ quality = 1; price = 20; };
 	class Exile_Magazine_10Rnd_9x39						{ quality = 1; price = 20; };
 	class Exile_Magazine_20Rnd_9x39						{ quality = 1; price = 20; };
-	class Exile_Magazine_8Rnd_74Slug					{ quality = 1; price = 20; };
-	class Exile_Magazine_8Rnd_74Pellets					{ quality = 1; price = 20; }; // broken?
 	class Exile_Magazine_10Rnd_765x17_SA61				{ quality = 1; price = 10; };
 	class Exile_Magazine_20Rnd_765x17_SA61				{ quality = 1; price = 20; };
 	class Exile_Magazine_10Rnd_127x99_m107				{ quality = 3; price = 30; };
@@ -3471,7 +3469,7 @@ class CfgTraders
 		{
 			"Flares",
 			"Smokes",
-			"UAVs",
+			"Drones",
 			"StaticMGs",
 			"Explosives",
 			"Navigation",
@@ -3556,7 +3554,8 @@ class CfgTraders
 			"Unarmed_Rotor_Wing", 
 			"Armed_Rotor_Wing",
 			"Unarmed_Fixed_Wing",
-			"Armed_Fixed_Wing"
+			"Armed_Fixed_Wing",
+			"UAVs"
 		};
 	};
 

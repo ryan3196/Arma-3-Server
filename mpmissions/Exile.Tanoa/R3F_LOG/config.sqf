@@ -34,7 +34,7 @@ R3F_LOG_CFG_disabled_by_default = false;
  * See also the config variable R3F_LOG_CFG_unlock_objects_timer.
  * 
  */
-R3F_LOG_CFG_lock_objects_mode = "none";
+R3F_LOG_CFG_lock_objects_mode = "side";
 
 /**
  * COUNTDOWN TO UNLOCK AN OBJECT
@@ -147,7 +147,9 @@ R3F_LOG_CFG_string_condition_allow_creation_factory_on_this_client = "false";
 //#include "addons_config\A3_vanilla.sqf" // THIS IS INCLUDED IN EXILE.SQF
 #include "addons_config\CUP.sqf" // REMOVE THIS LINE IF YOU DONT USE CUP VEHICLES
 #include "addons_config\Exile.sqf"
-//#include "addons_config\Super.sqf"
+#include "addons_config\R3F_addons.sqf"
+#include "addons_config\All_in_Arma.sqf"
+#include "addons_config\Super.sqf"
 //#include "addons_config\YOUR_ADDITIONAL_ADDON.sqf"
 
 /****** TOW WITH VEHICLE / REMORQUER AVEC VEHICULE ******/
@@ -156,7 +158,7 @@ R3F_LOG_CFG_string_condition_allow_creation_factory_on_this_client = "false";
  * List of class names of ground vehicles which can tow objects.
  * Liste des noms de classes des véhicules terrestres pouvant remorquer des objets.
  */
-R3F_LOG_CFG_can_tow =  //R3F_LOG_CFG_can_tow +
+R3F_LOG_CFG_can_tow = R3F_LOG_CFG_can_tow +
 [
 	// e.g. : "MyTowingVehicleClassName1", "MyTowingVehicleClassName2"
 ];
@@ -165,7 +167,7 @@ R3F_LOG_CFG_can_tow =  //R3F_LOG_CFG_can_tow +
  * List of class names of objects which can be towed.
  * Liste des noms de classes des objets remorquables.
  */
-R3F_LOG_CFG_can_be_towed = //R3F_LOG_CFG_can_be_towed +
+R3F_LOG_CFG_can_be_towed = R3F_LOG_CFG_can_be_towed +
 [
 	// e.g. : "MyTowableObjectClassName1", "MyTowableObjectClassName2"
 ];
@@ -177,7 +179,7 @@ R3F_LOG_CFG_can_be_towed = //R3F_LOG_CFG_can_be_towed +
  * List of class names of helicopters which can lift objects.
  * Liste des noms de classes des hélicoptères pouvant héliporter des objets.
  */
-R3F_LOG_CFG_can_lift = //R3F_LOG_CFG_can_lift +
+R3F_LOG_CFG_can_lift = R3F_LOG_CFG_can_lift +
 [
 	// e.g. : "MyLifterVehicleClassName1", "MyLifterVehicleClassName2"
 ];
@@ -186,7 +188,7 @@ R3F_LOG_CFG_can_lift = //R3F_LOG_CFG_can_lift +
  * List of class names of objects which can be lifted.
  * Liste des noms de classes des objets héliportables.
  */
-R3F_LOG_CFG_can_be_lifted = //R3F_LOG_CFG_can_be_lifted +
+R3F_LOG_CFG_can_be_lifted = R3F_LOG_CFG_can_be_lifted +
 [
 	// e.g. : "MyLiftableObjectClassName1", "MyLiftableObjectClassName2"
 ];

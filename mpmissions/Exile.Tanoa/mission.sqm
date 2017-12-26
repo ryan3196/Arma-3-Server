@@ -50,6 +50,12 @@ class ScenarioData
 
 class Mission
 {
+	addOns[]=
+	{
+		"Ryanzombies",
+		"ryanzombiesfunctions"
+	};
+	
 	class Intel
 	{
 		timeOfChanges = 1800.0002;
@@ -1978,7 +1984,8 @@ class Mission
 	        id = 142;
 	        atlOffset = 0;
 	    };
-	    class Item43
+		
+		class Item43
 	    {
 	        dataType = "Marker";
 	        position[] = {7199.99, 0, 6961.1};

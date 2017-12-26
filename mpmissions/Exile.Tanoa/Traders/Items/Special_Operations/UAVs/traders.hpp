@@ -1,6 +1,6 @@
 
 
-class UAVs
+class Drones
 	{
 		name = "UAVs";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";

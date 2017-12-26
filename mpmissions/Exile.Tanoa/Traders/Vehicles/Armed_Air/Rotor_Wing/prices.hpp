@@ -47,11 +47,10 @@ class CUP_B_Mi24_D_CDF						   { quality = 6; price = 450000; };
 ///////////////////////////////////////////////////////////////////////////////
 // Mi-35 Hind
 ///////////////////////////////////////////////////////////////////////////////
-class CUP_B_Mi35_CZ						   { quality = 6; price = 450000; };
+class CUP_B_Mi35_CZ						   	{ quality = 6; price = 450000; };
 class CUP_B_Mi35_CZ_Des						   { quality = 6; price = 450000; };
 class CUP_B_Mi35_CZ_Ram						   { quality = 6; price = 450000; };
 class CUP_B_Mi35_CZ_Tiger					   { quality = 6; price = 450000; };
-class CUP_B_Mi35_CZ_Dark					   { quality = 6; price = 450000; };
 class CUP_B_Mi35_CZ_Dark					   { quality = 6; price = 450000; };
 
 ///////////////////////////////////////////////////////////////////////////////
