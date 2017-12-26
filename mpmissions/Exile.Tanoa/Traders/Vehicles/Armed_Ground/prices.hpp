@@ -115,3 +115,7 @@ class CUP_B_UAZ_SPG9_CDF                                  { quality = 4; price =
 class CUP_B_UAZ_SPG9_ACR                                  { quality = 4; price = 40000; };
 class CUP_B_UAZ_METIS_CDF                                 { quality = 4; price = 42000; };
 class CUP_B_UAZ_METIS_ACR                                 { quality = 4; price = 42000; };
+///////////////////////////////////////////////////////////////////////////////
+// Ural ZU-23
+///////////////////////////////////////////////////////////////////////////////
+class CUP_I_Ural_ZU23_NAPA                                { quality = 4; price = 40000; };
