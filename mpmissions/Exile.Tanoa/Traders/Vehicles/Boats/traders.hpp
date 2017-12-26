@@ -20,9 +20,9 @@ class Boats
 		"Exile_Boat_WaterScooter",
 		"Exile_Boat_RHIB",
 		"Burnes_MK10_1",
-		"CUP_B_RHIB2Turret_USMC"
-		"CUP_C_Fishing_Boat_Chernarus"
-		"I_Boat_Armed_01_minigun_F"
+		"CUP_B_RHIB2Turret_USMC",
+		"CUP_C_Fishing_Boat_Chernarus",
+		"I_Boat_Armed_01_minigun_F",
 		"O_Boat_Armed_01_hmg_F"
 
 	};
