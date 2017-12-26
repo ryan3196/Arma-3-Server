@@ -40,6 +40,7 @@ class Tanks
 			"CUP_B_T72_CDF",
 			"CUP_B_T72_CZ",
 			"CUP_B_ZSU23_CDF",
+			"CUP_I_T34_NAPA",
 
 			"O_APC_Tracked_02_AA_F",
 			"O_APC_Tracked_02_cannon_F",
