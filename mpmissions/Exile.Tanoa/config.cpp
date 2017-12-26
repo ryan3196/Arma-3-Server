@@ -3473,7 +3473,8 @@ class CfgTraders
 			"StaticMGs",
 			"Explosives",
 			"Navigation",
-			"Launchers"
+			"Launchers",
+			"Launcher_Ammo"
 		};
 	};
 
