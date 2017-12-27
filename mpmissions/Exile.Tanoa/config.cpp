@@ -1671,7 +1671,7 @@ class CfgExileArsenal
 	#include "Traders\Items\Special_Operations\Smoke\prices.hpp"
 	#include "Traders\Items\Special_Operations\StaticMGs\prices.hpp"
 	#include "Traders\Items\Special_Operations\UAVs\prices.hpp"
-	
+	#include "Traders\Items\Special_Operations\Ammunition\prices.hpp"
 	
 	class Exile_Uniform_BambiOverall				{ quality = 1; price = 1; sellPrice = 1; };
 
@@ -3419,7 +3419,7 @@ class CfgTraderCategories
 	#include "Traders\Items\Special_Operations\Smoke\traders.hpp"
 	#include "Traders\Items\Special_Operations\StaticMGs\traders.hpp"
 	#include "Traders\Items\Special_Operations\UAVs\traders.hpp"
-	
+	#include "Traders\Items\Special_Operations\Ammunition\traders.hpp"
 	
 	class Community
 	{
