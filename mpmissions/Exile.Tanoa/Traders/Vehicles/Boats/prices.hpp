@@ -36,10 +36,12 @@ class Exile_Boat_MotorBoat_Police			{ quality = 1; price = 700; };
 class Exile_Boat_MotorBoat_Orange			{ quality = 1; price = 700; };
 class Exile_Boat_MotorBoat_White			{ quality = 1; price = 700; };
 class CUP_C_Fishing_Boat_Chernarus			{ quality = 1; price = 2500; };
-class I_Boat_Armed_01_minigun_F				{ quality = 1; price = 30000; };
-class O_Boat_Armed_01_hmg_F					{ quality = 1; price = 30000; };
 
 ///////////////////////////////////////////////////////////////////////////////
-// Landing Craft
+// Armed
 ///////////////////////////////////////////////////////////////////////////////
-class Burnes_MK10_1							{ quality = 4; price = 60000; };
+class O_Boat_Armed_01_hmg_F					{ quality = 4; price = 60000; };
+class I_Boat_Armed_01_minigun_F				{ quality = 4; price = 60000; };
+class B_T_Boat_Armed_01_minigun_F			{ quality = 4; price = 60000; };
+class B_Boat_Armed_01_minigun_F				{ quality = 4; price = 60000; };
+class O_T_Boat_Armed_01_hmg_F				{ quality = 4; price = 60000; };
