@@ -17,17 +17,18 @@ class Launchers
 		"CUP_launch_Javelin",
 		"CUP_launch_M47",
 		"CUP_launch_MAAWS",
-		"CUP_Weapon_launch_M72A6_Special",
 		"CUP_launch_Metis",
-		"CUP_launch_RPG18",
-		"CUP_Weapon_launch_Mk153Mod0",
-		"Weapon_launch_RPG32_ghex_F",
-		"CUP_Weapon_launch_Igla",
-		"CUP_Weapon_launch_Metis",
-		"CUP_Weapon_launch_FIM92Stinger",
-		"Weapon_launch_NLAW_F",
-		"CUP_Weapon_launch_Javelin",
-		"Weapon_launch_I_Titan_F",
-		"Weapon_launch_I_Titan_short_F"
+		"CUP_launch_RPG18"
+		
+		//"CUP_Weapon_launch_M72A6_Special",
+		//"CUP_Weapon_launch_Mk153Mod0",
+		//"Weapon_launch_RPG32_ghex_F",
+		//"CUP_Weapon_launch_Igla",
+		//"CUP_Weapon_launch_Metis",
+		//"CUP_Weapon_launch_FIM92Stinger",
+		//"Weapon_launch_NLAW_F",
+		//"CUP_Weapon_launch_Javelin",
+		//"Weapon_launch_I_Titan_F",
+		//"Weapon_launch_I_Titan_short_F"
 	};
 };
