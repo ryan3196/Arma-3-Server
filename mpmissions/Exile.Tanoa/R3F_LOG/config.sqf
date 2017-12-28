@@ -34,7 +34,7 @@ R3F_LOG_CFG_disabled_by_default = false;
  * See also the config variable R3F_LOG_CFG_unlock_objects_timer.
  * 
  */
-R3F_LOG_CFG_lock_objects_mode = "side";
+R3F_LOG_CFG_lock_objects_mode = "none";
 
 /**
  * COUNTDOWN TO UNLOCK AN OBJECT
@@ -123,7 +123,7 @@ R3F_LOG_CFG_string_condition_allow_logistics_on_this_client = "true";
  * To allow the creation factory to everyone, just set the condition to "true".
  * 
  */
-R3F_LOG_CFG_string_condition_allow_creation_factory_on_this_client = "false";
+R3F_LOG_CFG_string_condition_allow_creation_factory_on_this_client = "true";
 
 /*
  ********************************************************************************************
