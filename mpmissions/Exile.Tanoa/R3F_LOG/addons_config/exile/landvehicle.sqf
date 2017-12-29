@@ -28,7 +28,6 @@ R3F_LOG_CFG_can_tow = R3F_LOG_CFG_can_tow +
 	"Boat_Transport_02_base_F",
 	"SDV_01_base_F",
 	"Boat_Civil_01_base_F"
-		
 ];
 
 R3F_LOG_CFG_can_be_towed = R3F_LOG_CFG_can_be_towed +
@@ -66,9 +65,7 @@ R3F_LOG_CFG_can_be_towed = R3F_LOG_CFG_can_be_towed +
     //Boats
 	"Boat_Transport_02_base_F",
 	"SDV_01_base_F",
-	"Boat_Civil_01_base_F",
-	
-	
+	"Boat_Civil_01_base_F"
                         
 ];
 
