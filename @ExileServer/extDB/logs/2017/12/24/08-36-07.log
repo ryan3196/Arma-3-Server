@@ -1,0 +1,20 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[00:36:08:108875 --7:00] [Thread 2936] extDB2: Database Type: MySQL
+[00:36:08:110341 --7:00] [Thread 2936] extDB2: Database Session Pool Started
+[00:36:08:111661 --7:00] [Thread 2936] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Spokane_Survivalists\Game_Servers\Arma\@exileserver\extDB\sql_custom_v2\exile.ini
+[00:36:08:111803 --7:00] [Thread 2936] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[04:35:28:391461 --7:00] [Thread 2936] extDB2: Stopping ...

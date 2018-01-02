@@ -279,15 +279,102 @@ SC_VehicleClassToUse 			=   [
 				    ["B_LSV_01_Armed_black_F",0]
                                 ];
 SC_VehicleClassToUseRare		=   [	
-				    ["CUP_B_Dingo_GER_Wdl",0],
-				    ["O_T_MRAP_02_gmg_ghex_F",0],
-                                    ["Exile_Car_Hunter",0],
-                                    ["Exile_Car_HEMMT",0],
-                                    ["Exile_Car_Zamak",0],
-                                    ["Exile_Car_Offroad_Armed_Guerilla12",0],
-                                    ["Exile_Car_Offroad_Armed_Guerilla03",0],
-                                    ["Exile_Car_Tempest",0] 
-                                ];
+				    ["CUP_B_LAV25M240_USMC",0],
+["CUP_B_LAV25_HQ_USMC",0],
+["CUP_B_M1126_ICV_M2_Desert",0],
+["CUP_B_M1126_ICV_M2_Woodland",0],
+["CUP_B_M1126_ICV_MK19_Desert",0],
+["CUP_B_M1126_ICV_MK19_Woodland",0],
+["CUP_B_M1130_CV_M2_Desert",0],
+["CUP_B_M1130_CV_M2_Woodland",0],
+["CUP_B_M1135_ATGMV_Desert",0],
+["CUP_B_M1135_ATGMV_Woodland",0],
+["CUP_B_M1128_MGS_Desert",0],
+["CUP_B_M1128_MGS_Woodland",0],
+["CUP_B_AAV_USMC",0],
+["CUP_B_FV432_Bulldog_GB_D",0],
+["CUP_B_FV432_Bulldog_GB_D_RWS",0],
+["CUP_B_FV510_GB_D_SLAT",0],
+["CUP_B_FV510_GB_D",0],
+["CUP_B_M113_USA",0],
+["CUP_B_M163_USA",0],
+["CUP_B_MCV80_GB_D_SLAT",0],
+["CUP_B_MCV80_GB_D",0],
+["CUP_B_M2Bradley_USA_D",0],
+["CUP_B_M2A3Bradley_USA_D",0],
+["CUP_B_M2A3Bradley_USA_W",0],
+["CUP_B_M7Bradley_USA_D",0],
+["CUP_B_M6LineBacker_USA_D",0],
+["CUP_B_M1A1_Woodland_US_Army",0],
+["CUP_B_M1A1_DES_US_Army",0],
+["CUP_B_M1A2_TUSK_MG_US_Army",0],
+["CUP_B_M1A2_TUSK_MG_DES_US_Army",0],
+["CUP_B_T72_CDF",0],
+["CUP_B_T72_CZ",0],
+["CUP_B_ZSU23_CDF",0],
+["CUP_I_T34_NAPA",0],
+["O_APC_Tracked_02_AA_F",0],
+["O_APC_Tracked_02_cannon_F",0],
+["O_MBT_02_cannon_F",0],
+["I_APC_Wheeled_03_cannon_F",0],
+["I_MBT_03_cannon_F",0],
+["I_APC_tracked_03_cannon_F",0],
+["B_APC_Tracked_01_rcws_F",0],
+["B_APC_Tracked_01_CRV_F",0],
+["B_APC_Tracked_01_AA_F",0],
+["B_MBT_01_cannon_F",0],
+["Exile_Car_BRDM2_HQ",0],
+["CUP_B_BRDM2_HQ_CDF",0],
+["CUP_B_BRDM2_HQ_CZ",0],
+["CUP_B_BRDM2_HQ_Des",0],
+["CUP_B_BRDM2_CDF",0],
+["CUP_B_BRDM2_ATGM_CDF",0],
+["CUP_B_BRDM2_CZ",0],
+["CUP_B_BTR60_CDF",0],
+["CUP_B_BMP2_CDF",0],
+["CUP_B_BMP_HQ_CDF",0],
+["CUP_B_BMP2_CZ_Des",0],
+["CUP_B_BMP_HQ_CZ",0],
+["CUP_B_BMP_HQ_CZ_Des",0],
+["CUP_B_BMP2_AMB_CZ_Des",0],
+["CUP_B_Dingo_CZ_Wdl",0],
+["CUP_B_Dingo_CZ_Des",0],
+["CUP_B_Dingo_GER_Des",0],
+["CUP_B_Dingo_GL_CZ_Des",0],
+["CUP_B_Dingo_GL_GER_Des",0],
+["CUP_B_Mastiff_HMG_GB_W",0],
+["CUP_B_Mastiff_GMG_GB_W",0],
+["CUP_B_Mastiff_LMG_GB_W",0],
+["CUP_B_Ridgback_HMG_GB_W",0],
+["CUP_B_Ridgback_GMG_GB_W",0],
+["CUP_B_Ridgback_LMG_GB_W",0],
+["CUP_B_Wolfhound_HMG_GB_W",0],
+["CUP_B_Wolfhound_GMG_GB_W",0],
+["CUP_B_Wolfhound_LMG_GB_W",0],
+["CUP_B_RG31_M2_USMC",0],
+["CUP_B_RG31_M2_OD_USMC",0],
+["CUP_B_RG31_M2_GC_USMC",0],
+["CUP_B_RG31_Mk19_USMC",0],
+["CUP_B_RG31_Mk19_OD_USMC",0],
+["CUP_B_RG31E_M2_USMC",0],
+["CUP_B_M1133_MEV_Desert",0],
+["CUP_B_M1133_MEV_Woodland",0],
+["CUP_B_M1133_MEV_Woodland_Slat",0],
+["Exile_Car_Ifrit",0],
+["Exile_Car_Hunter",0],
+["Exile_Car_Strider",0],
+["O_T_MRAP_02_hmg_ghex_F",0],
+["O_T_MRAP_02_gmg_ghex_F",0],
+["O_T_UGV_01_rcws_ghex_F",0],
+["B_MRAP_01_gmg_F",0],
+["B_MRAP_01_hmg_F",0],
+["B_UGV_01_rcws_F",0],
+["B_T_MRAP_01_gmg_F",0],
+["B_T_MRAP_01_hmg_F",0],
+["I_MRAP_03_hmg_F",0],
+["I_MRAP_03_gmg_F",0],
+["I_UGV_01_rcws_F",0]            
+							];
 								
 // Array of arrays of ground vehicles which can be used by Survivor AI patrols (the number next to next vehicle is the maximum amount of that class allowed, 0 for no limit)									
 SC_SurvivorVehicleClassToUse 			=   [	
@@ -423,7 +510,7 @@ SC_BanditMagazines          	= ["Exile_Item_InstaDoc","Exile_Item_Vishpirin","Ex
 SC_BanditPistol             	= ["hgun_ACPC2_F","hgun_P07_F","hgun_Pistol_heavy_01_F","hgun_Pistol_heavy_02_F","hgun_Rook40_F"];
 SC_BanditPistolAttachments  	= [];
 SC_BanditAssignedItems      	= ["ItemMap","ItemCompass","ItemRadio","ItemWatch"]; // all these items will be added
-SC_BanditLauncher           	= [];
+SC_BanditLauncher           	= ["launch_B_Titan_F","CUP_launch_Igla","launch_B_Titan_tna_F","CUP_launch_9K32Strela"];
 SC_BanditBackpack           	= ["B_HuntingBackpack","B_Kitbag_cbr","B_Kitbag_mcamo","B_Kitbag_sgg","B_OutdoorPack_blk","B_OutdoorPack_blu","B_OutdoorPack_tan","B_TacticalPack_blk","B_TacticalPack_mcamo","B_TacticalPack_ocamo","B_TacticalPack_oli","B_TacticalPack_rgr"];
 
 // Possible equipment for random ai to spawn with 
@@ -549,11 +636,11 @@ if (SC_debug) then
     SC_mapMarkers			    = true;
     SC_occupyPlaces 			= false;
     SC_occupyVehicle			= true;
-    SC_occupyMilitary 			= false;
+    SC_occupyMilitary 			= true;
 	SC_occupyRandomSpawn        = true;
     SC_occupyStatic				= false;
     SC_occupySky				= false;
-    SC_occupySea				= false;
+    SC_occupySea				= true;
 	SC_occupyTraders            = false;	
     SC_occupyTransport			= true;
     SC_occupyLootCrates			= false;

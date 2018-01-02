@@ -76,17 +76,17 @@ showHUD[] =
 class CfgFunctions
 {
 	#include "ExAdClient\CfgFunctions.cpp"
-	//class ExileExpansionMission // Comment out if kicked by infiSTAR
-	//{
-	//	class Bootstrap
-	//	{
-	//		file="bootstrap";
-	//		class preInit
-	//		{
-	//			preInit=1;
-	//		};
-	//	};
-	//};
+	class ExileExpansionMission // Comment out if kicked by infiSTAR
+	{
+		class Bootstrap
+		{
+			file="bootstrap";
+			class preInit
+			{
+				preInit=1;
+			};
+		};
+	};
 	
 };
 

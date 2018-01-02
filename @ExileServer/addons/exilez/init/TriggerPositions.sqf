@@ -29,13 +29,13 @@
 						//[8904,10200,300]		// Tanouka
 				];                      
                         
-//NoMansLand = [        
-//[2901.51,12333.8,1600]       // No man's land (Contaminated Zone)
-//];                      
-//                        
-//Mission = [             
-//[2901.51,12333.8,300]        // Mission (Contaminated Zone)
-//];
+	NoMansLand = [        
+						[2901.51,12333.8,1600]       // No man's land (Contaminated Zone)
+				];                      
+                        
+	Mission = [             
+						[2901.51,12333.8,300]        // Mission (Contaminated Zone)
+				];
 //
 //Towns = [
 //[12461,14212,125],		// Hotel Resort

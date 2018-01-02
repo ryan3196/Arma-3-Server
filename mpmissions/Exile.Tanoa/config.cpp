@@ -2004,6 +2004,9 @@ class CfgExileCustomCode
 	// Exile Client Overrides
 	ExileClient_object_player_initialize = "Exile_Client_Overrides\ExileClient_object_player_initialize.sqf";
 	
+	//Rocket Launcher Fix
+	ExileClient_util_playerEquipment_add = "overrides\ExileClient_util_playerEquipment_add.sqf";
+	
 	
 	/*
 		You can overwrite every single file of our code without touching it.

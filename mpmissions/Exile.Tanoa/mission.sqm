@@ -1958,7 +1958,8 @@ class Mission
 	        id = 140;
 	        atlOffset = 0;
 	    };
-	    class Item41
+	    
+		class Item41
 	    {
 	        dataType = "Marker";
 	        position[] = {2901.51, 0, 12333.8};
@@ -1968,8 +1969,8 @@ class Mission
 	        type = "ExileContaminatedZone";
 	        colorName = "ColorBlack";
 	        fillName = "Border";
-	        a = 1600;
-	        b = 1600;
+	        a = 100;
+	        b = 100;
 	        drawBorder = 1;
 	        id = 141;
 	        atlOffset = 0;
@@ -1984,6 +1985,7 @@ class Mission
 	        id = 142;
 	        atlOffset = 0;
 	    };
+		
 		
 		class Item43
 	    {

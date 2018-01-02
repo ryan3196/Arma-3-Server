@@ -35,6 +35,13 @@ class CfgRemoteExec
 		class SA_Set_Owner		{ allowedTargets=2; }; 
 		class SA_Hint			{ allowedTargets=1; }; 
 		class SA_Hide_Object_Global	{ allowedTargets=2; };
+		
+		//Rappelling
+		class AUR_Hint { allowedTargets=1; }; 
+		class AUR_Hide_Object_Global { allowedTargets=2; }; 
+		class AUR_Enable_Rappelling_Animation_Global { allowedTargets=2; }; 
+		class AUR_Play_Rappelling_Sounds_Global { allowedTargets=2; };
+		
 
 	};
 	class Commands

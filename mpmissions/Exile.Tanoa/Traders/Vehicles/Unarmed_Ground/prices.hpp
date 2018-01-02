@@ -127,16 +127,16 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// UAZ
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_UAZ_Green				{ quality = 2; price = 9000; };
-	class CUP_B_UAZ_Unarmed_CDF                             { quality = 2; price = 9000; };
-	class CUP_B_UAZ_Unarmed_ACR                             { quality = 2; price = 9000; };
+	class Exile_Car_UAZ_Green					{ quality = 2; price = 9000; };
+	class CUP_B_UAZ_Unarmed_CDF                 { quality = 2; price = 9000; };
+	class CUP_B_UAZ_Unarmed_ACR                 { quality = 2; price = 9000; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// UAZ (Open)
 	///////////////////////////////////////////////////////////////////////////////
 	class Exile_Car_UAZ_Open_Green				{ quality = 2; price = 9000; };
-	class CUP_B_UAZ_Open_ACR                       		{ quality = 2; price = 9000; };
-	class CUP_B_UAZ_Open_CDF                        	{ quality = 2; price = 9000; };
+	class CUP_B_UAZ_Open_ACR                    { quality = 2; price = 9000; };
+	class CUP_B_UAZ_Open_CDF                    { quality = 2; price = 9000; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Land Rover
@@ -253,6 +253,15 @@
 	class Exile_Car_Offroad_Repair_Guerilla10 		{ quality = 3; price = 12500; };
 	class Exile_Car_Offroad_Repair_Guerilla11 		{ quality = 3; price = 12500; };
 	class Exile_Car_Offroad_Repair_Guerilla12 		{ quality = 3; price = 12500; };
+	
+	///////////////////////////////////////////////////////////////////////////////
+	// Missing Cars For Sale
+	///////////////////////////////////////////////////////////////////////////////
+	class O_G_Offroad_01_F 							{ quality = 3; price = 12500; };
+	class I_G_Offroad_01_armed_F 					{ quality = 4; price = 30000; };
+	class C_Van_01_fuel_white_v2_F			 		{ quality = 3; price = 20000; };
+	class B_T_LSV_01_unarmed_sand_F			 		{ quality = 3; price = 20000; };
+	
 
 	///////////////////////////////////////////////////////////////////////////////
 	// SUV

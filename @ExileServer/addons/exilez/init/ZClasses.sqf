@@ -80,3 +80,11 @@ Hardcore = [
 [crawlers,		    1],
 [spiders,			3]
 ];
+
+BossMode = [
+[mediumCivilians,	50],
+[mediumSoldiers,	40],
+[fastCivilians,	    30],
+[fastSoldiers,	    20],
+[boss,				10]
+];
