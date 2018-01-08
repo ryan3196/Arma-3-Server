@@ -19,6 +19,8 @@ class Navigation
 		"O_NVGoggles_hex_F",
 		"O_NVGoggles_urb_F",
 		"O_NVGoggles_ghex_F",
-		"NVGoggles_tna_F"
+		"NVGoggles_tna_F",
+		"H_HelmetO_ViperSP_ghex_F",
+		"H_HelmetO_ViperSP_hex_F"
 	};
 };

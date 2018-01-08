@@ -1403,6 +1403,7 @@ class Mission
 					id = 100;
 					type = "Exile_Unit_GhostPlayer";
 				};
+				
 			};
 			class Attributes{};
 			id = 0;
@@ -1763,33 +1764,60 @@ class Mission
 	        id = 126;
 	        atlOffset = 0;
 	    };
-	    class Item27
-	    {
-	        dataType = "Marker";
-	        position[] = {11579.8, 0, 13156};
-	        name = "ExileMarker27";
-	        text = "Non-Construction Zone";
-	        markerType = "ELLIPSE";
-	        type = "ExileNonConstructionZone";
-	        colorName = "ColorBlack";
-	        fillName = "Border";
-	        alpha = 0;
-	        a = 600;
-	        b = 600;
-	        drawBorder = 1;
-	        id = 127;
-	        atlOffset = 0;
-	    };
-	    class Item28
-	    {
-	        dataType = "Marker";
-	        position[] = {11579.8, 0, 13156};
-	        name = "ExileMarker28";
-	        text = "";
-	        type = "ExileAircraftTraderIcon";
-	        id = 128;
-	        atlOffset = 0;
-	    };
+	    //class Item27
+	    //{
+	    //    dataType = "Marker";
+	    //    position[] = {11579.8, 0, 13156};
+	    //    name = "ExileMarker27";
+	    //    text = "Non-Construction Zone";
+	    //    markerType = "ELLIPSE";
+	    //    type = "ExileNonConstructionZone";
+	    //    colorName = "ColorBlack";
+	    //    fillName = "Border";
+	    //    alpha = 0;
+	    //    a = 600;
+	    //    b = 600;
+	    //    drawBorder = 1;
+	    //    id = 127;
+	    //    atlOffset = 0;
+	    //};
+	    //class Item28
+	    //{
+	    //    dataType = "Marker";
+	    //    position[] = {11579.8, 0, 13156};
+	    //    name = "ExileMarker28";
+	    //    text = "";
+	    //    type = "ExileAircraftTraderIcon";
+	    //    id = 128;
+	    //    atlOffset = 0;
+	    //};
+		class Item27
+		{
+			dataType = "Marker";
+			position[] = {11579, 0, 13141.2};
+			name = "ExileMarker27";
+			text = "";
+			markerType = "ELLIPSE";
+			type = "ExileTraderZone";
+			colorName = "ColorBlack";
+			fillName = "Border";
+			a = 150;
+			b = 150;
+			drawBorder = 1;
+			id = 127;
+			atlOffset = 0;
+		};
+		class Item28
+		{
+			dataType = "Marker";
+			position[] = {11579, 0, 13141.2};
+			name = "ExileMarker28";
+			text = "";
+			type = "ExileTraderZoneIcon";
+			id = 128;
+			atlOffset = 0;
+		};
+		
 	    class Item29
 	    {
 	        dataType = "Marker";
@@ -1987,33 +2015,61 @@ class Mission
 	    };
 		
 		
+		//class Item43
+	    //{
+	    //    dataType = "Marker";
+	    //    position[] = {7199.99, 0, 6961.1};
+	    //    name = "ExileMarker43";
+	    //    text = "Non-Construction Zone";
+	    //    markerType = "ELLIPSE";
+	    //    type = "ExileNonConstructionZone";
+	    //    colorName = "ColorBlack";
+	    //    fillName = "Border";
+	    //    alpha = 0;
+	    //    a = 620;
+	    //    b = 620;
+	    //    drawBorder = 1;
+	    //    id = 143;
+	    //    atlOffset = 0;
+	    //};
+	    //class Item44
+	    //{
+	    //    dataType = "Marker";
+	    //   position[] = {7199.99, 0, 6961.1};
+	    //    name = "ExileMarker44";
+	    //    text = "";
+	    //    type = "ExileAircraftTraderIcon";
+	    //    id = 144;
+	    //    atlOffset = 0;
+	    //};
+		// South Airport Trader
 		class Item43
-	    {
-	        dataType = "Marker";
-	        position[] = {7199.99, 0, 6961.1};
-	        name = "ExileMarker43";
-	        text = "Non-Construction Zone";
-	        markerType = "ELLIPSE";
-	        type = "ExileNonConstructionZone";
-	        colorName = "ColorBlack";
-	        fillName = "Border";
-	        alpha = 0;
-	        a = 620;
-	        b = 620;
-	        drawBorder = 1;
-	        id = 143;
-	        atlOffset = 0;
-	    };
-	    class Item44
-	    {
-	        dataType = "Marker";
-	        position[] = {7199.99, 0, 6961.1};
-	        name = "ExileMarker44";
-	        text = "";
-	        type = "ExileAircraftTraderIcon";
-	        id = 144;
-	        atlOffset = 0;
-	    };
+		{
+			dataType = "Marker";
+			position[] = {6885.71, 0, 7463.28};
+			name = "ExileMarker43";
+			text = "";
+			markerType = "ELLIPSE";
+			type = "ExileTraderZone";
+			colorName = "ColorBlack";
+			fillName = "Border";
+			a = 150;
+			b = 150;
+			drawBorder = 1;
+			id = 143;
+			atlOffset = 0;
+		};
+		class Item44
+		{
+			dataType = "Marker";
+			position[] = {6885.71, 0, 7463.28};
+			name = "ExileMarker44";
+			text = "";
+			type = "ExileTraderZoneIcon";
+			id = 144;
+			atlOffset = 0;
+		};
+		
 	    class Item45
 	    {
 	        dataType = "Marker";

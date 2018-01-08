@@ -16,3 +16,5 @@
 	class NVGoggles_OPFOR							{ quality = 2; price = 100; };
 	class Exile_Item_XM8							{ quality = 2; price = 20; };
 	class Exile_Item_MobilePhone					{ quality = 6; price = 500; };
+	class H_HelmetO_ViperSP_hex_F					{ quality = 7; price = 1000; };
+	class H_HelmetO_ViperSP_ghex_F					{ quality = 7; price = 1000; };

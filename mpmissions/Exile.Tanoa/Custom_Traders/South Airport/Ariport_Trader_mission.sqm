@@ -1,0 +1,30 @@
+class Entities
+{
+    class Item1
+    {
+        dataType = "Marker";
+        position[] = {6885.71, 0, 7463.28};
+        name = "ExileMarker1";
+        text = "";
+        markerType = "ELLIPSE";
+        type = "ExileTraderZone";
+        colorName = "ColorBlack";
+        fillName = "Border";
+        a = 150;
+        b = 150;
+        drawBorder = 1;
+        id = 101;
+        atlOffset = 0;
+    };
+    class Item2
+    {
+        dataType = "Marker";
+        position[] = {6885.71, 0, 7463.28};
+        name = "ExileMarker2";
+        text = "";
+        type = "ExileTraderZoneIcon";
+        id = 102;
+        atlOffset = 0;
+    };
+    items = 2;
+};

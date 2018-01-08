@@ -40,6 +40,11 @@ class Armed_Rotor_Wing
 			"CUP_B_AH6J_Escort_USA",
 			"CUP_B_AH6J_AT_USA",
 			"CUP_B_AH6J_MP_USA",
-			"CUP_B_AH6J_Escort19_USA"
+			"CUP_B_AH6J_Escort19_USA",
+			"B_Heli_Attack_01_F",
+			"B_Heli_Attack_01_dynamicLoadout_F",
+			"O_Heli_Attack_02_F",
+			"O_Heli_Attack_02_black_F",
+			"O_Heli_Attack_02_dynamicLoadout_F"
 		};
 	};

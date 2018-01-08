@@ -2007,6 +2007,8 @@ class CfgExileCustomCode
 	//Rocket Launcher Fix
 	ExileClient_util_playerEquipment_add = "overrides\ExileClient_util_playerEquipment_add.sqf";
 	
+	//Custom Loadouts
+	ExileServer_object_player_createBambi = "loadout\ExileServer_object_player_createBambi.sqf";
 	
 	/*
 		You can overwrite every single file of our code without touching it.
@@ -4513,7 +4515,7 @@ class CfgVehicleTransport
 
 class CfgXM8
 {
-	extraApps[] = {"ExAd_VG","ExAd_Info","ExAd_CHVD","ExAd_Journal","ExAd_Boat","ExAd_Quad","ExAd_SB"};
+	extraApps[] = {"ExAd_VG","ExAd_Info","ExAd_CHVD","ExAd_Journal","ExAd_Boat","ExAd_Quad","ExAd_SB","ExAd_APOC_Airdrop"};
 	
 	class ExAd_VG 
 	{
@@ -4579,6 +4581,16 @@ class CfgXM8
 		controlID = 50400;					//IDC:50400 -> 50475 || These need to be unique and out of range from each other
 		logo = "ExadClient\XM8\Apps\SB_Settings\Icon_SB.paa";
 		onLoad = "ExAdClient\XM8\Apps\SB_Settings\onLoad.sqf";
+	};
+	class ExAd_APOC_Airdrop
+	{
+		title = "Airdrop";
+		controlID = 66000;					//IDC:66000 -> 66005 || These need to be unique and out of range from each other
+		logo = "\a3\Ui_f\data\GUI\Cfg\CommunicationMenu\supplydrop_ca.paa";
+		config = "ExadClient\XM8\Apps\APOC_Airdrop\config.sqf";
+		onLoad = "ExAdClient\XM8\Apps\APOC_Airdrop\onLoad.sqf";
+		onOpen = "ExAdClient\XM8\Apps\APOC_Airdrop\onOpen.sqf";
+		onClose = "ExAdClient\XM8\Apps\APOC_Airdrop\onClose.sqf";
 	};
 }; 
 

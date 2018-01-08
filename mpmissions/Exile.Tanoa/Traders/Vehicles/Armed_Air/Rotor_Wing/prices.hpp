@@ -86,3 +86,11 @@ class CUP_B_AH6J_AT_USA                             	           { quality = 5; p
 class CUP_B_AH6J_MP_USA                                 	   { quality = 5; price = 300000; };
 class CUP_B_AH6J_Escort19_USA                                      { quality = 5; price = 300000; };
 
+//More
+	
+class B_Heli_Attack_01_F                                      		{ quality = 7; price = 500000; };
+class B_Heli_Attack_01_dynamicLoadout_F                             { quality = 7; price = 500000; };
+class O_Heli_Attack_02_F                                      		{ quality = 7; price = 550000; };
+class O_Heli_Attack_02_black_F                                      { quality = 7; price = 550000; };
+class O_Heli_Attack_02_dynamicLoadout_F                             { quality = 7; price = 550000; };
+
