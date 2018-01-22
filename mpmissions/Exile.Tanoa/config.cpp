@@ -9,7 +9,9 @@
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
  */
  
-
+//Bounty
+#include "MostWanted_Client\CfgMostWanted.cpp"
+ 
 class CfgClans
 {
 	/*
@@ -1650,6 +1652,7 @@ class CfgExileArsenal
 	#include "Traders\Items\Armory\PointerAttachments\prices.hpp"
 	#include "Traders\Items\Armory\Shotguns\prices.hpp"
 	#include "Traders\Items\Armory\SMGs\prices.hpp"
+	#include "Traders\Items\Armory\MMGs\prices.hpp"
 	#include "Traders\Items\Armory\SniperRifles\prices.hpp"
 	#include "Traders\Items\Divers\prices.hpp"
 	#include "Traders\Items\Equipment\Backpacks\prices.hpp"
@@ -2009,6 +2012,13 @@ class CfgExileCustomCode
 	
 	//Custom Loadouts
 	ExileServer_object_player_createBambi = "loadout\ExileServer_object_player_createBambi.sqf";
+	
+	//Bounty
+	ExileClient_gui_xm8_showPartySlides = "MostWanted_Client\overwrites\ExileClient_gui_xm8_showPartySlides.sqf";
+	//ExileServer_object_player_createBambi = "MostWanted_Client\overwrites\ExileServer_object_player_createBambi.sqf"; //Merged with Loadouts
+	ExileServer_object_player_database_load = "MostWanted_Client\overwrites\ExileServer_object_player_database_load.sqf";
+	ExileServer_object_player_event_onMpKilled = "MostWanted_Client\overwrites\ExileServer_object_player_event_onMpKilled.sqf";
+	ExileServer_system_network_event_onPlayerConnected = "MostWanted_Client\overwrites\ExileServer_system_network_event_onPlayerConnected.sqf";
 	
 	/*
 		You can overwrite every single file of our code without touching it.
@@ -2393,6 +2403,23 @@ class ExileAbstractAction
  */
 class CfgInteractionMenus
 {
+	//Bounty
+	class Bounties
+	{
+		targetType = 2;
+		target = "Exile_Trader_Office";
+
+		class Actions
+		{
+			class MostWanted: ExileAbstractAction
+			{
+				title = "Most Wanted";
+				condition = "true";
+				action = "createDialog 'MostWantedDialog';";
+			};
+		};
+	};
+	
 	#include "EBM\menus.hpp"
 	class Car 
 	{
@@ -3403,6 +3430,7 @@ class CfgTraderCategories
 	#include "Traders\Items\Armory\PointerAttachments\traders.hpp"
 	#include "Traders\Items\Armory\Shotguns\traders.hpp"
 	#include "Traders\Items\Armory\SMGs\traders.hpp"
+	#include "Traders\Items\Armory\MMGs\traders.hpp"
 	#include "Traders\Items\Armory\SniperRifles\traders.hpp"
 	#include "Traders\Items\Divers\traders.hpp"
 	#include "Traders\Items\Equipment\Backpacks\traders.hpp"
@@ -3479,7 +3507,8 @@ class CfgTraders
 			"Explosives",
 			"Navigation",
 			"Launchers",
-			"Launcher_Ammo"
+			"Launcher_Ammo",
+			"MediumMachineGuns"
 		};
 	};
 

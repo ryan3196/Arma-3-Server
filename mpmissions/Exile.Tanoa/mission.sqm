@@ -27,7 +27,7 @@ class AddonsMetaData
 {
 	class List
 	{
-		items = 2;
+		items = 12;
 		class Item0
 		{
 			className = "exile_client";
@@ -39,6 +39,79 @@ class AddonsMetaData
 			name = "Arma 3 - User Interface";
 			author = "Bohemia Interactive";
 			url = "http://www.arma3.com";
+		};
+		
+		//North Trader at La Rochelle
+		
+		class Item2
+		{
+			className="A3_Structures_F_Orange";
+			name="Arma 3 Orange - Buildings and Structures";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
+		class Item3
+		{
+			className="A3_Soft_F";
+			name="Arma 3 Alpha - Unarmored Land Vehicles";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
+		class Item4
+		{
+			className="A3_Structures_F_EPB";
+			name="Arma 3 Adapt Episode - Buildings and Structures";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
+		class Item5
+		{
+			className="A3_Structures_F_Argo";
+			name="Arma 3 Malden - Buildings and Structures";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
+		class Item6
+		{
+			className="A3_Structures_F_Mil";
+			name="Arma 3 - Military Buildings and Structures";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
+		class Item7
+		{
+			className="A3_Props_F_Exp_A";
+			name="Arma 3 Nexus Update - Decorative and Mission Objects";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
+		class Item8
+		{
+			className="A3_Structures_F";
+			name="Arma 3 - Buildings and Structures";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
+		class Item9
+		{
+			className="A3_Soft_F_Kart";
+			name="Arma 3 Karts - Unarmored Land Vehicles";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
+		class Item10
+		{
+			className="A3_Soft_F_Orange";
+			name="Arma 3 Orange - Unarmored Land Vehicles";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
+		class Item11
+		{
+			className="A3_Soft_F_Beta";
+			name="Arma 3 Beta - Unarmored Land Vehicles";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
 		};
 	};
 };
@@ -78,7 +151,7 @@ class Mission
 	};
 	class Entities
 	{
-		items = 58;
+		items = 60;
 
 		class Item0
 		{
@@ -86,7 +159,7 @@ class Mission
 			side = "Independent";
 			class Entities
 			{
-				items = 100;
+				items = 118;
 				class Item0
 				{
 					dataType = "Object";
@@ -1404,6 +1477,415 @@ class Mission
 					type = "Exile_Unit_GhostPlayer";
 				};
 				
+				//North Trader at La Rochelle
+				
+				class Item100
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9507.5303,5.1724877,13587.91};
+						angles[]={0,3.2440958,0};
+					};
+					side="Empty";
+					flags=1;
+					class Attributes
+					{
+						init="call{this setObjectTexture [0, ""Textures\SSS_LOGO.jpeg""];}";
+						disableSimulation=1;
+					};
+					id=1046;
+					type="Banner_01_F";
+					atlOffset=1.4003353;
+				};
+				class Item101
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9522.1514,5.6206141,13562.572};
+						angles[]={0.034644786,4.8183827,0.0053232545};
+					};
+					side="Empty";
+					flags=4;
+					class Attributes
+					{
+						lock="LOCKED";
+						init="call{this animateDoor [""Door_rear"", 1, true];}";
+						disableSimulation=1;
+					};
+					id=968;
+					type="O_MRAP_02_F";
+					atlOffset=2.3841858e-007;
+					class CustomAttributes
+					{
+						class Attribute0
+						{
+							property="ammoBox";
+							expression="[_this,_value] call bis_fnc_initAmmoBox;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"STRING"
+										};
+									};
+									value="[[[[],[]],[[],[]],[[],[]],[[],[]]],true]";
+								};
+							};
+						};
+						nAttributes=1;
+					};
+				};
+				class Item102
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9556.6563,4.0451531,13584.797};
+						angles[]={0,0.034469102,0};
+					};
+					side="Empty";
+					class Attributes
+					{
+						init="call{this setObjectTexture [0, ""\A3\Structures_F_Argo\Commercial\Billboards\Data\Advertisements\bill_ygont_co.paa""];}";
+						disableSimulation=1;
+					};
+					id=1183;
+					type="Land_Poster_01_F";
+					atlOffset=1.4676037;
+				};
+				class Item103
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9554.8691,4.0458274,13584.904};
+						angles[]={0,0.049288094,0};
+					};
+					side="Empty";
+					class Attributes
+					{
+						init="call{this setObjectTexture [0, ""\A3\Structures_F_Argo\Commercial\Billboards\Data\Advertisements\bill_action_co.paa""];}";
+						disableSimulation=1;
+					};
+					id=1184;
+					type="Land_Poster_01_F";
+					atlOffset=1.4677367;
+				};
+				class Item104
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9558.7188,3.1050589,13583.56};
+						angles[]={0,4.8047514,0};
+					};
+					side="Empty";
+					flags=5;
+					class Attributes
+					{
+						init="call{this setObjectTexture [0, ""exile_assets\model\exile_sign_foolbox_co.paa""];}";
+						disableSimulation=1;
+					};
+					id=1178;
+					type="Banner_01_F";
+					atlOffset=0.063666344;
+				};
+				class Item105
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9548.5186,3.4848831,13600.811};
+						angles[]={0,1.5936078,0};
+					};
+					side="Empty";
+					flags=5;
+					class Attributes
+					{
+						init="call{this setObjectTexture [0, ""Textures\Patreonlogo.jpeg""];}";
+						disableSimulation=1;
+					};
+					id=1050;
+					type="Land_Billboard_02_blank_F";
+				};
+				class Item106
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9550.1309,3.4848831,13602.417};
+						angles[]={0,3.2211623,0};
+					};
+					side="Empty";
+					flags=5;
+					class Attributes
+					{
+						init="call{this setObjectTexture [0, ""Textures\Discord.jpeg""];}";
+						disableSimulation=1;
+					};
+					id=1051;
+					type="Land_Billboard_02_blank_F";
+				};
+				class Item107
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9543.7588,9.273119,13524.799};
+						angles[]={0,4.3793101,0};
+					};
+					side="Empty";
+					flags=5;
+					class Attributes
+					{
+						init="call{this setObjectTexture [1, ""Textures\SSS_LOGO.jpeg""];" \n "this setObjectTexture [0, ""Textures\Promo.jpeg""];" \n "}";
+						disableSimulation=1;
+					};
+					id=1048;
+					type="Land_Billboard_04_blank_F";
+					atlOffset=-2.3841858e-007;
+				};
+				class Item108
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9521.1973,6.2868047,13589.781};
+						angles[]={0,0.31719613,0};
+					};
+					side="Empty";
+					flags=5;
+					class Attributes
+					{
+						init="call{this setFlagTexture ""Textures\SSS_LOGO.jpeg"";}";
+						disableSimulation=1;
+					};
+					id=755;
+					type="Flag_White_F";
+				};
+				class Item109
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9585.8564,2.9848831,13592.004};
+						angles[]={0,3.2577269,0};
+					};
+					side="Empty";
+					flags=5;
+					class Attributes
+					{
+						init="call{this setObjectTexture [0, ""Textures\Alphacorp2.jpeg""];" \n "}";
+						disableSimulation=1;
+					};
+					id=1132;
+					type="Land_Billboard_02_blank_F";
+					atlOffset=-0.5;
+				};
+				class Item110
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9649.6885,3.4848831,13589.016};
+						angles[]={0,3.2525082,0};
+					};
+					side="Empty";
+					flags=5;
+					class Attributes
+					{
+						init="call{this setObjectTexture [0, ""exile_assets\model\exile_sign_vehiclecustoms_co.paa""];}";
+						disableSimulation=1;
+					};
+					id=1107;
+					type="Land_Billboard_02_blank_F";
+				};
+				class Item111
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9658.1162,4.3085976,13576.751};
+						angles[]={0,0.039618973,0};
+					};
+					side="Empty";
+					flags=1;
+					class Attributes
+					{
+						disableSimulation=1;
+					};
+					id=1082;
+					type="Banner_01_FIA_F";
+					atlOffset=1.479692;
+				};
+				class Item112
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9504.1143,3.3135056,13588.072};
+						angles[]={0,0.080878794,0};
+					};
+					side="Empty";
+					flags=4;
+					class Attributes
+					{
+						disableSimulation=1;
+					};
+					id=159;
+					type="Land_DataTerminal_01_F";
+					atlOffset=9.5367432e-007;
+				};
+				class Item113
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9554.3535,10.895187,13591.947};
+						angles[]={0,2.4233723,0};
+					};
+					side="Empty";
+					flags=1;
+					class Attributes
+					{
+						disableSimulation=1;
+					};
+					id=419;
+					type="Land_Billboard_F";
+					atlOffset=2.8683333;
+					class CustomAttributes
+					{
+						class Attribute0
+						{
+							property="ObjectTextureCustom0";
+							expression="_this setObjectTextureGlobal [0,_value]";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"STRING"
+										};
+									};
+									value="exile_assets\model\exile_sign_armory_co.paa";
+								};
+							};
+						};
+						nAttributes=1;
+					};
+				};
+				class Item114
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9661.0352,3.975528,13583.176};
+						angles[]={6.2823472,0.10049605,0};
+					};
+					side="Empty";
+					flags=4;
+					class Attributes
+					{
+						lock="LOCKED";
+						createAsSimpleObject=1;
+						disableSimulation=1;
+					};
+					id=1053;
+					type="O_G_Offroad_01_repair_F";
+					atlOffset=1.6212463e-005;
+				};
+				class Item115
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9657.8555,4.2267122,13583.549};
+					};
+					side="Empty";
+					class Attributes
+					{
+						lock="LOCKED";
+						createAsSimpleObject=1;
+						disableSimulation=1;
+					};
+					id=1101;
+					type="C_Kart_01_F";
+					atlOffset=0.8087523;
+					class CustomAttributes
+					{
+						class Attribute0
+						{
+							property="ammoBox";
+							expression="[_this,_value] call bis_fnc_initAmmoBox;";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"STRING"
+										};
+									};
+									value="[[[[],[]],[[],[]],[[],[]],[[],[]]],true]";
+								};
+							};
+						};
+						nAttributes=1;
+					};
+				};
+				class Item116
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9511.6309,4.2102518,13713.634};
+						angles[]={0,2.9888065,6.2826962};
+					};
+					side="Empty";
+					class Attributes
+					{
+						lock="LOCKED";
+						createAsSimpleObject=1;
+						disableSimulation=1;
+					};
+					id=994;
+					type="C_IDAP_Van_02_medevac_F";
+					atlOffset=9.6610012;
+				};
+				class Item117
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={9611.5547,4.7627039,13612.004};
+						angles[]={0,0.71078533,0};
+					};
+					side="Empty";
+					flags=4;
+					class Attributes
+					{
+						lock="LOCKED";
+						createAsSimpleObject=1;
+						disableSimulation=1;
+					};
+					id=1189;
+					type="C_Truck_02_transport_F";
+					atlOffset=0.00035810471;
+				};
+				
+				//End of Trader
+				
 			};
 			class Attributes{};
 			id = 0;
@@ -1764,38 +2246,40 @@ class Mission
 	        id = 126;
 	        atlOffset = 0;
 	    };
-	    //class Item27
-	    //{
-	    //    dataType = "Marker";
-	    //    position[] = {11579.8, 0, 13156};
-	    //    name = "ExileMarker27";
-	    //    text = "Non-Construction Zone";
-	    //    markerType = "ELLIPSE";
-	    //    type = "ExileNonConstructionZone";
-	    //    colorName = "ColorBlack";
-	    //    fillName = "Border";
-	    //    alpha = 0;
-	    //    a = 600;
-	    //    b = 600;
-	    //    drawBorder = 1;
-	    //    id = 127;
-	    //    atlOffset = 0;
-	    //};
-	    //class Item28
-	    //{
-	    //    dataType = "Marker";
-	    //    position[] = {11579.8, 0, 13156};
-	    //    name = "ExileMarker28";
-	    //    text = "";
-	    //    type = "ExileAircraftTraderIcon";
-	    //    id = 128;
-	    //    atlOffset = 0;
-	    //};
-		class Item27
+	    class Item27
+	    {
+	        dataType = "Marker";
+	        position[] = {11579.8, 0, 13156};
+	        name = "ExileMarker27";
+	        text = "Non-Construction Zone";
+	        markerType = "ELLIPSE";
+	        type = "ExileNonConstructionZone";
+	        colorName = "ColorBlack";
+	        fillName = "Border";
+	        alpha = 0;
+	        a = 600;
+	        b = 600;
+	        drawBorder = 1;
+	        id = 127;
+	        atlOffset = 0;
+	    };
+	    class Item28
+	    {
+	        dataType = "Marker";
+	        position[] = {11579.8, 0, 13156};
+	        name = "ExileMarker28";
+	        text = "";
+	        type = "ExileAircraftTraderIcon";
+	        id = 128;
+	        atlOffset = 0;
+	    };
+		
+		//North Airport Safe Zone
+		class Item1027
 		{
 			dataType = "Marker";
-			position[] = {11579, 0, 13141.2};
-			name = "ExileMarker27";
+			position[] = {11579.8, 0, 13156};
+			name = "ExileMarker1027";
 			text = "";
 			markerType = "ELLIPSE";
 			type = "ExileTraderZone";
@@ -1804,10 +2288,10 @@ class Mission
 			a = 150;
 			b = 150;
 			drawBorder = 1;
-			id = 127;
+			id = 1027;
 			atlOffset = 0;
 		};
-		class Item28
+		/*class Item28
 		{
 			dataType = "Marker";
 			position[] = {11579, 0, 13141.2};
@@ -1816,7 +2300,7 @@ class Mission
 			type = "ExileTraderZoneIcon";
 			id = 128;
 			atlOffset = 0;
-		};
+		};*/
 		
 	    class Item29
 	    {
@@ -2248,5 +2732,36 @@ class Mission
 	        id = 157;
 	        atlOffset = 0;
 	    };
+		
+		//North Trader at La Rochelle
+
+		class Item58
+		{
+			dataType = "Marker";
+			position[] = {9564.51, 0, 13607.3};
+			name = "ExileMarker58";
+			text = "";
+			markerType = "ELLIPSE";
+			type = "ExileTraderZone";
+			colorName = "ColorBlack";
+			fillName = "Border";
+			a = 150;
+			b = 150;
+			drawBorder = 1;
+			id = 158;
+			atlOffset = 0;
+		};
+		class Item59
+		{
+			dataType = "Marker";
+			position[] = {9564.51, 0, 13607.3};
+			name = "ExileMarker59";
+			text = "";
+			type = "ExileTraderZoneIcon";
+			id = 159;
+			atlOffset = 0;
+		};
+		
+		
 	};
 };

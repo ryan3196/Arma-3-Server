@@ -39,6 +39,25 @@ else
     };
 };
 
+// Most-Wanted
+private ["_bounty","_lock","_interval","_type","_immunity"];
+_interval = getNumber(missionConfigFile >> "CfgMostWanted" >> "Database" >> "Immunity" >> "interval");
+_immunity = format ["hasImmunity:%1:%2",(getPlayerUID _requestingPlayer),_interval] call ExileServer_system_database_query_selectSingleField;
+_bambiPlayer setVariable ["ExileBountyImmunity", _immunity, true];
+
+_bounty = format ["getBounty:%1",(getPlayerUID _requestingPlayer)] call ExileServer_system_database_query_selectSingle;
+_bambiPlayer setVariable ["ExileBounty",_bounty select 0];
+_lock = false;
+if ((_bounty select 1) isEqualTo 1) then
+{
+	_lock = true;
+};
+_bambiPlayer setVariable ["ExileBountyLock",_lock,true];
+_bambiPlayer setVariable ["ExileBountyContract",_bounty select 2,true];
+_bambiPlayer setVariable ["ExileBountyCompletedContracts",_bounty select 3];
+_bambiPlayer setVariable ["ExileBountyFriends",_bounty select 4,true];
+// Most-Wanted
+
 _name = name _requestingPlayer;
 _clanID = (_accountData select 3);
 if !((typeName _clanID) isEqualTo "SCALAR") then
@@ -103,11 +122,14 @@ if (_devFriendlyMode isEqualTo 1) then
     forEach _devs;
 };
 _parachuteNetID = "";
-
+if ((getNumber(configFile >> "CfgSettings" >> "BambiSettings" >> "parachuteSpawning")) isEqualTo 1) then
+//Isn't Working?
+/*
 _thugToCheck = _sessionID call ExileServer_system_session_getPlayerObject;
 _HaloSpawnCheck = _thugToCheck getVariable ["playerWantsHaloSpawn", 0];
 
 if (_HaloSpawnCheck isEqualTo 1) then
+*/
 {
     _position set [2, getNumber(configFile >> "CfgSettings" >> "BambiSettings" >> "parachuteDropHeight")]; 
     if ((getNumber(configFile >> "CfgSettings" >> "BambiSettings" >> "haloJump")) isEqualTo 1) then
@@ -139,8 +161,8 @@ switch (true) do
      _bambiPlayer forceAddUniform "Exile_Uniform_BambiOverall";
      _bambiplayer addItem "Exile_Item_PlasticBottleFreshWater";
      _bambiplayer addItem "Exile_Item_DuctTape";
-     _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
-     _bambiPlayer addWeaponGlobal "Exile_Weapon_Colt1911";
+     _bambiplayer addItem "10Rnd_9x21_Mag";
+     _bambiPlayer addWeaponGlobal "hgun_Pistol_01_F";
      
       };
    
@@ -153,8 +175,8 @@ switch (true) do
      _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_Noodles";
      _bambiplayer addItem "Exile_Item_DuctTape";
-     _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
-     _bambiPlayer addWeaponGlobal "Exile_Weapon_Colt1911";
+     _bambiplayer addItem "10Rnd_9x21_Mag";
+     _bambiPlayer addWeaponGlobal "hgun_Pistol_01_F";
     };
  
     case (_Respect > 4999 && _Respect < 7500):
@@ -168,138 +190,150 @@ switch (true) do
      _bambiplayer addItem "Exile_Item_CanOpener";
      _bambiplayer addItem "Exile_Item_DuctTape";
      _bambiplayer addHeadGear "H_Hat_blue";
-     _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
-     _bambiPlayer addWeaponGlobal "Exile_Weapon_Colt1911";
+     _bambiplayer addItem "9Rnd_45ACP_Mag";
+     _bambiPlayer addWeaponGlobal "hgun_ACPC2_F";
+	 _bambiPlayer addSecondaryWeaponItem  "acc_flashlight_pistol";
     };
  
     case (_Respect > 7499 && _Respect < 10000):
     //Definetly Not a Bambi
     {
-     _bambiPlayer forceAddUniform "U_C_Man_casual_5_F";
+     _bambiPlayer forceAddUniform "U_I_C_Soldier_Bandit_4_F";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PlasticBottleCoffee";
      _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_Noodles";
-     _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
-     _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
-     _bambiplayer addItem "Exile_Item_DuctTape";
-     _bambiPlayer addWeaponGlobal "Exile_Weapon_Colt1911";
+	 _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "9Rnd_45ACP_Mag";
+     _bambiplayer addItem "9Rnd_45ACP_Mag";
+     _bambiPlayer addWeaponGlobal "hgun_ACPC2_F";
+	 _bambiPlayer addSecondaryWeaponItem  "acc_flashlight_pistol";
     };
  
     case (_Respect > 9999 && _Respect < 12500):
     //Woodman
     {
-     _bambiPlayer forceAddUniform "U_C_Man_casual_6_F";
+     _bambiPlayer forceAddUniform "U_I_C_Soldier_Bandit_1_F";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PlasticBottleCoffee";
      _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_Noodles";
      _bambiplayer addItem "Exile_Item_DuctTape";
-     _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
-     _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
-     _bambiPlayer addWeaponGlobal "Exile_Weapon_Colt1911";
-     _bambiplayer addHeadGear "H_Hat_blue";
+     _bambiplayer addItem "9Rnd_45ACP_Mag";
+     _bambiplayer addItem "9Rnd_45ACP_Mag";
+     _bambiPlayer addWeaponGlobal "hgun_ACPC2_F";
+     _bambiPlayer addSecondaryWeaponItem  "acc_flashlight_pistol";
+	 _bambiplayer addHeadGear "H_Booniehat_oli";
     };
     case (_Respect > 12499 && _Respect < 15000):
     //Robber
     {
-     _bambiPlayer forceAddUniform "U_C_Man_casual_1_F";
+     _bambiPlayer forceAddUniform "U_I_C_Soldier_Bandit_2_F";
      _bambiplayer addItem "Exile_Item_PlasticBottleCoffee";
-     _bambiplayer addVest "V_Rangemaster_belt";
+     _bambiplayer addVest "V_BandollierB_rgr";
      _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_DuctTape";
      _bambiplayer addItem "Exile_Item_Noodles";
-     _bambiPlayer addMagazine "Exile_Magazine_8Rnd_9x18";
-     _bambiPlayer addWeaponGlobal "Exile_Weapon_Makarov";
-     _bambiplayer addHeadGear "H_Hat_checker";
+     _bambiPlayer addMagazine "11Rnd_45ACP_Mag";
+     _bambiPlayer addWeaponGlobal "hgun_Pistol_heavy_01_F";
+	 _bambiPlayer addSecondaryWeaponItem  "acc_flashlight_pistol";
+     _bambiplayer addHeadGear "H_Bandanna_khk";
     };
     case (_Respect > 14999 && _Respect < 20000):
     //Hunter
     {
      _bambiPlayer forceAddUniform "U_C_HunterBody_grn";
-     _bambiplayer addBackpack "B_HuntingBackpack";
-     _bambiplayer addVest "V_Rangemaster_belt";
+     _bambiplayer addBackpack "B_FieldPack_oli";
+     _bambiplayer addVest "V_BandollierB_rgr";
      _bambiplayer addItem "Exile_Item_EnergyDrink";
      _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_DuctTape";
      _bambiplayer addItem "Exile_Item_Noodles";
      _bambiplayer addItem "Exile_Item_CanOpener";
-     _bambiPlayer addMagazine "Exile_Magazine_8Rnd_9x18";
-     _bambiPlayer addMagazine "Exile_Magazine_8Rnd_9x18";
-     _bambiPlayer addWeaponGlobal "Exile_Weapon_Makarov";
-     _bambiplayer addHeadGear "H_StrawHat_dark";
+     _bambiPlayer addMagazine "11Rnd_45ACP_Mag";
+     _bambiPlayer addMagazine "11Rnd_45ACP_Mag";
+     _bambiPlayer addWeaponGlobal "hgun_Pistol_heavy_01_F";
+	 _bambiPlayer addSecondaryWeaponItem  "acc_flashlight_pistol";
+     _bambiplayer addGoggles  "G_Bandanna_oli";
     };
     case (_Respect > 19999 && _Respect < 25000):
     //Worker
     {
      _bambiPlayer forceAddUniform "U_C_WorkerCoveralls";
-     _bambiplayer addBackpack "B_HuntingBackpack";
-     _bambiplayer addVest "V_Rangemaster_belt";
+     _bambiplayer addBackpack "B_FieldPack_oli";
+     _bambiplayer addVest "V_BandollierB_rgr";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_DuctTape";
      _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_BeefParts";
      _bambiplayer addItem "Exile_Item_CanOpener";
-     _bambiPlayer addMagazine "10Rnd_9x21_Mag";
-     _bambiPlayer addMagazine "10Rnd_9x21_Mag";
-     _bambiPlayer addWeaponGlobal "hgun_Pistol_01_F";
-     _bambiplayer addHeadGear "H_Booniehat_oli";
+     _bambiPlayer addMagazine "11Rnd_45ACP_Mag";
+     _bambiPlayer addMagazine "11Rnd_45ACP_Mag";
+     _bambiPlayer addWeaponGlobal "hgun_Pistol_heavy_01_F";
+	 _bambiPlayer addSecondaryWeaponItem  "acc_flashlight_pistol";
+     _bambiplayer addHeadGear "Exile_Headgear_SafetyHelmet";
     };
     case (_Respect > 24999 && _Respect < 30000):
     //Murderer
     {
-     _bambiPlayer forceAddUniform "U_B_T_Soldier_F";
-     _bambiplayer addBackpack "B_HuntingBackpack";
-     _bambiplayer addVest "V_Rangemaster_belt";
+     _bambiPlayer forceAddUniform "U_I_C_Soldier_Bandit_3_F";
+     _bambiplayer addBackpack "B_AssaultPack_rgr";
+     _bambiplayer addVest "V_BandollierB_rgr";
      _bambiplayer addItem "Exile_Item_PowerDrink";
-     _bambiplayer addItem "Exile_Item_Vishpirin";
+     _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_Dogfood_Cooked";
      _bambiplayer addItem "Exile_Item_CanOpener";
      _bambiplayer addItem "Exile_Item_DuctTape";
-     _bambiPlayer addMagazine "30Rnd_9x21_Mag";
-     _bambiPlayer addMagazine "30Rnd_9x21_Mag";
-     _bambiPlayer addWeaponGlobal "hgun_P07_F";
-     _bambiplayer addHeadGear "H_Booniehat_oli";
+     _bambiPlayer addMagazine "6Rnd_45ACP_Cylinder";
+     _bambiPlayer addMagazine "6Rnd_45ACP_Cylinder";
+     _bambiPlayer addWeaponGlobal "hgun_Pistol_heavy_02_F";
+     _bambiplayer addGoggles "G_Bandanna_beast";
     };
     case (_Respect > 29999 && _Respect < 40000):
     //Prisoner
     {
-     _bambiPlayer forceAddUniform "U_B_T_Soldier_AR_F";
-     _bambiplayer addBackpack "B_HuntingBackpack";
-     _bambiplayer addVest "V_Rangemaster_belt";
+     _bambiPlayer forceAddUniform "U_BG_Guerilla3_1";
+     _bambiplayer addBackpack "B_AssaultPack_rgr";
+     _bambiplayer addVest "V_BandollierB_rgr";
      _bambiplayer addItem "Exile_Item_PowerDrink";
-     _bambiplayer addItem "Exile_Item_Vishpirin";
+     _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_CatFood_Cooked";
      _bambiplayer addItem "Exile_Item_DuctTape";
      _bambiplayer addItem "Exile_Item_CanOpener";
-     _bambiplayer addItem "8Rnd_B_Beneli_74Pellets";
-     _bambiPlayer addWeaponGlobal "M1014";
-     _bambiplayer addHeadGear "H_Hat_Camo";
+     _bambiplayer addItem "CUP_8Rnd_B_Beneli_74Slug";
+	 _bambiplayer addItem "CUP_8Rnd_B_Beneli_74Pellets";
+     _bambiPlayer addWeaponGlobal "CUP_sgun_M1014";
+     _bambiplayer addHeadgear "CUP_H_SLA_BeretRed";
+	 _bambiplayer addGoggles "G_Bandanna_shades";
     };
     case (_Respect > 39999 && _Respect < 50000):
     //Prisoner
     {
-     _bambiPlayer forceAddUniform "U_I_CombatUniform_shortsleeve";
-     _bambiplayer addBackpack "B_AssaultPack_dgtl";
-     _bambiplayer addVest "V_Rangemaster_belt";
+     _bambiPlayer forceAddUniform "U_I_G_Story_Protagonist_F";
+     _bambiplayer addBackpack "B_TacticalPack_blk";
+     _bambiplayer addVest "V_TacChestrig_cbr_F";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_DuctTape";
-     _bambiplayer addItem "Exile_Item_Vishpirin";
+     _bambiplayer addItem "Exile_Item_Bandage";
+	 _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_CatFood_Cooked";
      _bambiplayer addItem "Exile_Item_CanOpener";
-     _bambiplayer addItem "CUP_30Rnd_9x19_MP5";
-     _bambiPlayer addWeaponGlobal "CUP_smg_MP5SD6";
-     _bambiplayer addHeadGear "H_Hat_Camo";
+     _bambiPlayer addWeaponGlobal "30Rnd_9x21_Mag_SMG_02";    
+	 _bambiplayer addItem "SMG_05_F";
+	 _bambiplayer addPrimaryWeaponItem "acc_flashlight";
+     _bambiplayer addHeadGear "H_Cap_blk";
+	 _bambiplayer addGoggles "G_Aviator";
     };
     case (_Respect > 49999 && _Respect < 60000):
     //KUT AK
     //Prisoner
     {
-     _bambiPlayer forceAddUniform "U_O_OfficerUniform_ocamo";
-     _bambiplayer addBackpack "B_FieldPack_ocamo";
-     _bambiplayer addVest "V_Rangemaster_belt";
+     _bambiPlayer forceAddUniform "U_I_CombatUniform_shortsleeve";
+     _bambiplayer addBackpack "B_TacticalPack_blk";
+     _bambiplayer addVest "V_TacChestrig_grn_F";
      _bambiplayer addItem "Exile_Item_PowerDrink";
-     _bambiplayer addItem "Exile_Item_Vishpirin";
+     _bambiplayer addItem "Exile_Item_Bandage";
+	 _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_GloriousKnakworst_Cooked";
      _bambiplayer addItem "Exile_Item_CanOpener";
      _bambiplayer addItem "Exile_Item_DuctTape";
@@ -316,7 +350,8 @@ switch (true) do
      _bambiplayer addBackpack "B_TacticalPack_ocamo";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
-     _bambiplayer addItem "Exile_Item_Vishpirin";
+     _bambiplayer addItem "Exile_Item_Bandage";
+	 _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_MacasCheese_Cooked";
      _bambiplayer addItem "Exile_Item_CanOpener";
      _bambiplayer addItem "CUP_30Rnd_556x45_Stanag";
@@ -431,5 +466,10 @@ _bambiPlayer call ExileServer_object_player_database_update;
     ]
 ] 
 call ExileServer_system_network_send_to;
+
+// Most-Wanted
+[_sessionID,"updateCompletedContracts",[_bounty select 3]] call ExileServer_system_network_send_to;
+// Most-Wanted
+
 [_sessionID, _bambiPlayer] call ExileServer_system_session_update;
 true

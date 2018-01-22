@@ -7,6 +7,8 @@ class Drones
 		items[] = 
 		{
 			"I_UavTerminal",
-			"I_UAV_01_backpack_F" //Notice there is not comma on the last item in this list.
+			"I_UAV_01_backpack_F",
+			"I_UAV_06_backpack_F",
+			"I_UAV_06_medical_backpack_F"
 		};
 	};

@@ -107,11 +107,14 @@ class RscTitles
 class CfgHints
 {
 	#include "ExAdClient\CfgHints.cpp"
+	#include "MostWanted_Client\Notifications.hpp"
 };
 
 class CfgNetworkMessages
 {
 	#include "ExAdClient\CfgNetworkMessages.cpp"
+	#include "MostWanted_Client\NetworkMessages.hpp"
+	
 };
 
 	#include "CfgRemoteExec.hpp"
@@ -124,5 +127,8 @@ class CfgNetworkMessages
 	#include "CfgExileScavenge.cpp"
 	#include "CfgExileHoldActions.cpp"
 
+	//Bounty
+	#include "MostWanted_Client\Dialog\MostWantedDefines.hpp"
+    #include "MostWanted_Client\Dialog\MostWantedDialog.hpp"
 
 

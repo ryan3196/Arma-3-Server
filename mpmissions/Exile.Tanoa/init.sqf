@@ -8,3 +8,6 @@
 
 //Claim Vehicles
 [] execVM "ClaimVehicles_Client\ClaimVehicles_Client_init.sqf";
+
+//Bounty
+[] execVM "MostWanted_Client\MostWanted_Init.sqf";

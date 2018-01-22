@@ -459,26 +459,26 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 
 	DMS_ai_allowFreezing				= true;						// Whether or not to "freeze" AI that are a certain distance away from players (and therefore inactive).
 	DMS_ai_freeze_Only_DMS_AI			= true;					// Whether or not to "freeze" AI that are not spawned by DMS.
-	DMS_ai_freezingDistance				= 2000;						// If there are no players within this distance of the leader of an AI group, then the AI group will be "frozen".
-	DMS_ai_unfreezingDistance			= 2000;						// If there are players within this distance of the leader of an AI group, then the AI group will be "un-frozen".
+	DMS_ai_freezingDistance				= 1500;						// If there are no players within this distance of the leader of an AI group, then the AI group will be "frozen".
+	DMS_ai_unfreezingDistance			= 1500;						// If there are players within this distance of the leader of an AI group, then the AI group will be "un-frozen".
 	DMS_ai_offloadOnUnfreeze			= true;						// Whether or not to offload AI to clients once they have been "un-frozen". NOTE: This config will be ignored if "DMS_ai_offload_to_client" is set to false.
 	DMS_ai_freezeCheckingDelay			= 15;						// How often (in seconds) DMS will check whether to freeze/un-freeze AI.
 	DMS_ai_freezeOnSpawn				= false;						// Whether or not to freeze an AI group when initially spawned.
 
 	DMS_ai_share_info					= true;					// Share info about killer
-	DMS_ai_share_info_distance			= 10;						// The distance killer's info will be shared to other AI
+	DMS_ai_share_info_distance			= 5;						// The distance killer's info will be shared to other AI
 
 	DMS_ai_nighttime_accessory_chance	= 75;						// Percentage chance that AI will have a flashlight or laser pointer on their guns if spawned during nighttime
 	DMS_ai_enable_water_equipment		= true;						// Enable/disable overriding default weapons of an AI if it spawns on/in water
 
 	// https://community.bistudio.com/wiki/AI_Sub-skills#general
-	DMS_ai_skill_static					= [["aimingAccuracy",0.20],["aimingShake",0.70],["aimingSpeed",0.75],["spotDistance",0.70],["spotTime",0.50],["courage",1.00],["reloadSpeed",1.00],["commanding",1.00],["general",1.00]];	// Static AI Skills
-	DMS_ai_skill_easy					= [["aimingAccuracy",0.30],["aimingShake",0.50],["aimingSpeed",0.50],["spotDistance",0.50],["spotTime",0.50],["courage",1.00],["reloadSpeed",1.00],["commanding",1.00],["general",0.50]];	// Easy
-	DMS_ai_skill_moderate				= [["aimingAccuracy",0.40],["aimingShake",0.35],["aimingSpeed",0.50],["spotDistance",0.50],["spotTime",0.60],["courage",1.00],["reloadSpeed",1.00],["commanding",1.00],["general",0.60]];	// Moderate
-	DMS_ai_skill_difficult				= [["aimingAccuracy",0.60],["aimingShake",0.60],["aimingSpeed",0.60],["spotDistance",0.60],["spotTime",0.60],["courage",0.60],["reloadSpeed",1.00],["commanding",1.00],["general",0.70]]; 	// Difficult
-	DMS_ai_skill_hardcore				= [["aimingAccuracy",0.80],["aimingShake",0.80],["aimingSpeed",0.80],["spotDistance",0.70],["spotTime",0.70],["courage",0.70],["reloadSpeed",0.70],["commanding",1.00],["general",0.70]]; 	// Hardcore
-	DMS_ai_skill_random					= ["hardcore","difficult","difficult","difficult","moderate","moderate","moderate","moderate","easy","easy"];	// Skill frequencies for "random" AI skills | Default: 10% hardcore, 30% difficult, 40% moderate, and 20% easy
-	DMS_ai_skill_randomDifficult		= ["hardcore","hardcore","difficult","difficult","difficult"];	// 60% chance for "difficult", 40% chance for "hardcore" AI.
+	DMS_ai_skill_static					= [["aimingAccuracy",0.20],["aimingShake",0.70],["aimingSpeed",0.60],["spotDistance",0.60],["spotTime",0.50],["courage",1.00],["reloadSpeed",0.70],["commanding",1.00],["general",0.60]];	// Static AI Skills
+	DMS_ai_skill_easy					= [["aimingAccuracy",0.30],["aimingShake",0.50],["aimingSpeed",0.50],["spotDistance",0.50],["spotTime",0.50],["courage",1.00],["reloadSpeed",0.70],["commanding",1.00],["general",0.50]];	// Easy
+	DMS_ai_skill_moderate				= [["aimingAccuracy",0.40],["aimingShake",0.35],["aimingSpeed",0.50],["spotDistance",0.50],["spotTime",0.60],["courage",1.00],["reloadSpeed",0.70],["commanding",1.00],["general",0.60]];	// Moderate
+	DMS_ai_skill_difficult				= [["aimingAccuracy",0.60],["aimingShake",0.60],["aimingSpeed",0.60],["spotDistance",0.60],["spotTime",0.60],["courage",0.60],["reloadSpeed",0.70],["commanding",1.00],["general",0.65]]; 	// Difficult
+	DMS_ai_skill_hardcore				= [["aimingAccuracy",0.70],["aimingShake",0.70],["aimingSpeed",0.70],["spotDistance",0.65],["spotTime",0.70],["courage",0.70],["reloadSpeed",0.70],["commanding",1.00],["general",0.70]]; 	// Hardcore
+	DMS_ai_skill_random					= ["hardcore","difficult","difficult","moderate","moderate","moderate","moderate","easy","easy","easy"];	// Skill frequencies for "random" AI skills | Default: 10% hardcore, 30% difficult, 40% moderate, and 20% easy
+	DMS_ai_skill_randomDifficult		= ["hardcore","hardcore","difficult","difficult","moderate"];	// 60% chance for "difficult", 40% chance for "hardcore" AI.
 	DMS_ai_skill_randomEasy				= ["moderate","moderate","easy","easy","easy"];					// 60% chance for "easy", 40% chance for "moderate" AI.
 	DMS_ai_skill_randomIntermediate		= ["difficult","difficult","moderate","moderate","moderate"];	// 60% chance for "moderate", 40% chance for "difficult" AI.
 	DMS_AI_WP_Radius_easy				= 20;						// Waypoint radius for "easy" AI.
@@ -488,18 +488,18 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	DMS_AI_AimCoef_easy					= 0.9;						// "Custom Aim Coefficient" (weapon sway multiplier) for "easy" AI
 	DMS_AI_AimCoef_moderate				= 0.65;						// "Custom Aim Coefficient" (weapon sway multiplier) for "moderate" AI
 	DMS_AI_AimCoef_difficult			= 0.4;						// "Custom Aim Coefficient" (weapon sway multiplier) for "difficult" AI
-	DMS_AI_AimCoef_hardcore				= 0.05;						// "Custom Aim Coefficient" (weapon sway multiplier) for "hardcore" AI
+	DMS_AI_AimCoef_hardcore				= 0.3;						// "Custom Aim Coefficient" (weapon sway multiplier) for "hardcore" AI
 	DMS_AI_EnableStamina_easy			= true;						// Whether or not to keep the stamina system for "easy" AI.
 	DMS_AI_EnableStamina_moderate		= true;						// Whether or not to keep the stamina system for "moderate" AI.
-	DMS_AI_EnableStamina_difficult		= false;					// Whether or not to keep the stamina system for "difficult" AI.
-	DMS_AI_EnableStamina_hardcore		= false;					// Whether or not to keep the stamina system for "hardcore" AI.
+	DMS_AI_EnableStamina_difficult		= true;					// Whether or not to keep the stamina system for "difficult" AI.
+	DMS_AI_EnableStamina_hardcore		= true;					// Whether or not to keep the stamina system for "hardcore" AI.
 	DMS_AI_WP_Radius_base				= 5;						// Waypoint radius for AI in bases.
 	DMS_AI_WP_Radius_heli				= 500;						// Waypoint radius for AI in helis.
 
-	DMS_AI_destroyVehicleChance			= 75;						// Percent chance that an AI vehicle will be destroyed after the AI have been killed. Set to 100 for always, or 0 for never.
+	DMS_AI_destroyVehicleChance			= 25;						// Percent chance that an AI vehicle will be destroyed after the AI have been killed. Set to 100 for always, or 0 for never.
 
 	DMS_AI_destroyStaticWeapon			= true;						// Whether or not to destroy static HMGs after AI death.
-	DMS_AI_destroyStaticWeapon_chance	= 95;						// Percent chance that a static weapon will be destroyed (only applied if "DMS_AI_destroyStaticWeapon" is true)
+	DMS_AI_destroyStaticWeapon_chance	= 25;						// Percent chance that a static weapon will be destroyed (only applied if "DMS_AI_destroyStaticWeapon" is true)
 
 	DMS_static_weapons =				[							// Static weapons for AI
 											"O_HMG_01_high_F"
